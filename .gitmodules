@@ -1,0 +1,12 @@
+[submodule "docs/opsec"]
+	path = docs/opsec
+	url = http://git.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/nihilist/opsec-blogposts
+[submodule "docs/productivity"]
+	path = docs/productivity
+	url = http://git.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/nihilist/productivity-blogposts
+[submodule "docs/selfhosting"]
+	path = docs/selfhosting
+	url = http://git.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/nihilist/selfhosting-blogposts
+[submodule "docs/hacking"]
+	path = docs/hacking
+	url = http://git.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/nihilist/hacking-blogposts
