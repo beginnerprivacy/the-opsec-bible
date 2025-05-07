@@ -1,0 +1,568 @@
+site_name: The Nihilism OPSEC blog
+site_url: http://blog.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/
+theme:
+  name: material
+  custom_dir: docs/opsec
+  palette:
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+  features:
+    - navigation.tabs
+    - navigation.prune
+    - navigation.footer
+
+  logo: assets/logo.png
+  favicon: assets/logo.png
+
+nav:
+  - OPSEC:
+    - opsec/index.md
+    - OPSEC Introduction:
+      - 📝 Explaining Concepts:
+        - opsec/aps/index.md
+        - opsec/governments/index.md
+        - opsec/govfear/index.md
+      - 📝 Explaining OPSEC ⭐:
+        - opsec/opsec4levels/index.md
+        - opsec/internetsegmentation/index.md
+        - opsec/opsec/index.md
+        - opsec/multiple_identities/index.md
+        - opsec/chats/index.md
+    - Level 1 | Privacy:
+      - 📝 Explaining Privacy:
+        - opsec/privacy/index.md
+        - opsec/closedsource/index.md
+        - opsec/openhardware/index.md
+        - opsec/serversideencryption/index.md
+      - 💻 Getting Started:
+        - opsec/linux/index.md
+        - opsec/graphene/index.md
+        - opsec/privatesimplex/index.md
+        - opsec/qubesos/index.md
+      - 💻 File Sharing:
+        - opsec/syncthingvpn/index.md
+        - opsec/p2ptorrents/index.md
+      - 💻 Maintaining Privacy:
+        - opsec/compilation/index.md
+        - opsec/hypervisorsetup/index.md
+        - opsec/passwordmanagement/index.md
+        - opsec/pgp/index.md
+        - opsec/qubesosnetwork/index.md
+      - 💻 Privacy from your ISP:
+        - opsec/vpn/index.md
+        - opsec/vpnqemu/index.md
+      #- 💻 Monitoring that your Privacy is intact:
+      #- ⚠️ Miscellaneous - In real life:
+      - 💻 Serverside Privacy:
+        - opsec/selfhosting/index.md
+    - Level 2 | Anonymity:
+      - 📝 Explaining Anonymity:
+        - opsec/anonymityexplained/index.md
+        - opsec/anonuse/index.md
+        - opsec/phonenumbers/index.md
+        - opsec/anonymitymetadata/index.md
+        - opsec/torvsvpns/index.md
+        - opsec/torthroughvpn/index.md
+        - opsec/clearnetvsdarknet/index.md
+        - opsec/darknetexploration/index.md
+      - 💻 Clientside - Anonymity:
+        - opsec/whonixqemuvms/index.md
+        - opsec/torbrowsing/index.md
+        - opsec/whentorisblocked/index.md
+        - opsec/anonproxy/index.md
+        - opsec/anonsimplex/index.md
+        - opsec/anonsms/index.md
+        - opsec/anonemail/index.md
+      - 💻 Using AI for Anonymity:
+        - opsec/openwebuilocalllms/index.md
+        - opsec/stylometry/index.md
+      - 💻 Clientside - Censorship Evasion:
+        - opsec/vpnqemu/index.md
+        - opsec/v2ray/index.md
+      - 💻 File Sharing:
+        - opsec/onionshare/index.md
+        - opsec/syncthinganon/index.md
+        - opsec/i2ptorrents/index.md
+      - 💻 Clientside - Decentralized Finances ⭐:
+        - opsec/finances/index.md
+        - opsec/monero2024/index.md
+        - opsec/monerowallet/index.md
+        - opsec/chainalysisattempts/index.md
+        - opsec/monerofirst/index.md
+        - opsec/haveno-client-f2f/index.md
+        - opsec/haveno-arbitrator/index.md
+        - opsec/haveno-sepa/index.md
+        - opsec/haveno-cashbymail/index.md
+        - opsec/haveno-crypto/index.md
+        - opsec/anoncreditcard/index.md
+        - opsec/moneroinheritance/index.md
+      - 🧅 Serverside - Contributing to Anonymity:
+        - opsec/tor/relay/index.md
+        - opsec/tor/bridge/index.md
+        - opsec/tor/exit_node/index.md
+        - opsec/monero2024/index.md
+        - opsec/monerop2pool/index.md
+        - opsec/haveno-seednode/index.md
+        - opsec/darknetlantern/index.md
+      - 🧅 Serverside - Anonymous Hidden Services:
+        - opsec/hiddenservice/index.md
+        - opsec/anonymousremoteserver/index.md
+        - opsec/torwebsite/index.md
+        - opsec/pgpcanary/index.md
+        - opsec/forgejo-anon/index.md
+        - opsec/nextcloud/index.md
+      - 🧅 Serverside - Anonymous Clearnet Services:
+        - opsec/anonclearnetservices/index.md
+        - opsec/anondomain/index.md
+        - opsec/anonaccess/index.md
+        - opsec/dns/index.md
+        - opsec/mailprivate/index.md
+      - ⚠️ Miscellaneous - In real life:
+        - opsec/anonprotest/index.md
+    - Level 3 | Deniability:
+      - 📝 Explaining Plausible Deniability:
+        - opsec/stancesensitive/index.md
+        - opsec/deniability/index.md
+        - opsec/anonsensitive/index.md
+      - 💻 Clientside - Getting Started:
+        - opsec/tailsqemuvm/index.md
+        - opsec/livemode/index.md
+        - opsec/veracrypt/index.md
+        - opsec/sensitivevm/index.md
+        - opsec/plausiblydeniabledataprotection/index.md
+      - 💻 Steganography - Hiding secrets in plain sight:
+        - opsec/steganography/index.md
+        - opsec/steghide/index.md
+        - opsec/anonzulucrypt/index.md
+      - 💻 Decentralised Finances:
+        - opsec/monerowealth/index.md
+      - 🧅 Serverside - Plausible Deniability at Home:
+        - opsec/failovers/index.md
+        - opsec/physicalsecurity/index.md
+      - 🧅 Serverside - Remote Plausible Deniability:
+        - opsec/sensitiveremotevshome/index.md
+        - opsec/cloud_provider_adversary/index.md
+        - opsec/anonymous_server_monitoring/index.md
+      - 🧅 Serverside - High Availability for Deniability:
+        - opsec/high_availability/index.md
+        - opsec/tornginxphpmysql/index.md
+        - opsec/mysqlmastermaster/index.md
+        - opsec/onionbalancelb/index.md
+        - opsec/endgame/index.md
+      #- ⚠️ Miscellaneous - In real life:
+    - Contributing to the project:
+      - opsec/criticism/index.md
+      - opsec/contribute/index.md
+      - opsec/qualitystandard/index.md
+      - opsec/maintainers/index.md
+      - opsec/runtheblog/index.md
+
+
+  - Productivity:
+    - Productivity Introduction:
+      - productivity/poisonofmoderntimes/index.md
+      - productivity/discipline/index.md
+    - Preparing the Body and Mind:
+      - productivity/yoga/index.md
+      - productivity/diet-n-mental-health/index.md
+      - Nihilism:
+        - productivity/nihilism/index.md
+        - productivity/opus-nihil/index.md
+        - productivity/scio-nihil/index.md
+        - productivity/sum-nihil/index.md
+      - productivity/coldshowers/index.md
+    - Planning the Work:
+      - productivity/rightthing/index.md
+      - productivity/macroworkflow/index.md
+      - productivity/macrotime/index.md
+      - productivity/microworkflow/index.md
+      - productivity/kanban/index.md
+      - productivity/zeroemail/index.md
+    - Doing the Work:
+      - productivity/mentalenergy/index.md
+      - productivity/mentalopti/index.md
+      - productivity/morningroutine/index.md
+      - productivity/pomodoro/index.md
+    - Reflecting on the Work:
+      - productivity/graphs/index.md
+      - productivity/reflecting/index.md
+
+  - Self-Hosting:
+    - selfhosting/0_lainradio/index.md
+    - selfhosting/4get/index.md
+    - selfhosting/Gitea/index.md
+    - selfhosting/RustDesk/index.md
+    - selfhosting/Zabbix/index.md
+    - selfhosting/anonymousoverflow/index.md
+    - selfhosting/ansible/index.md
+    - selfhosting/apt-cacher/index.md
+    - selfhosting/bedrock/index.md
+    - selfhosting/borg/index.md
+    - selfhosting/borg_auto/index.md
+    - selfhosting/checkmk/index.md
+    - selfhosting/codimd/index.md
+    - selfhosting/composite/index.md
+    - selfhosting/cron/index.md
+    - selfhosting/cryptpad/index.md
+    - selfhosting/cyberchef/index.md
+    - selfhosting/db/index.md
+    - selfhosting/debianupgrade/index.md
+    - selfhosting/dillinger/index.md
+    - selfhosting/dozzle/index.md
+    - selfhosting/e4/index.md
+    - selfhosting/etherpad/index.md
+    - selfhosting/fail2banssh/index.md
+    - selfhosting/freshrss/index.md
+    - selfhosting/glpi/index.md
+    - selfhosting/gomez/index.md
+    - selfhosting/haproxy/index.md
+    - selfhosting/hatsh/index.md
+    - selfhosting/hls/index.md
+    - selfhosting/hmail/index.md
+    - selfhosting/hydrus/index.md
+    - selfhosting/invidious/index.md
+    - selfhosting/irc/index.md
+    - selfhosting/irc_tor/index.md
+    - selfhosting/jitsi/index.md
+    - selfhosting/kanboard/index.md
+    - selfhosting/kutt/index.md
+    - selfhosting/kvm/index.md
+    - selfhosting/lainsafe/index.md
+    - selfhosting/lc0/index.md
+    - selfhosting/librenms/index.md
+    - selfhosting/librex/index.md
+    - selfhosting/luks/index.md
+    - selfhosting/mail2/index.md
+    - selfhosting/matrix/index.md
+    - selfhosting/matrixnew/index.md
+    - selfhosting/minecraft/index.md
+    - selfhosting/motd/index.md
+    - selfhosting/mymind/index.md
+    - selfhosting/neko/index.md
+    - selfhosting/nextcloud/index.md
+    - selfhosting/nginx/index.md
+    - selfhosting/nginx_fail/index.md
+    - selfhosting/nginx_loadb/index.md
+    - selfhosting/nginx_p_mngr/index.md
+    - selfhosting/nitter/index.md
+    - selfhosting/observium/index.md
+    - selfhosting/openvpn/index.md
+    - selfhosting/ovpn_tor/index.md
+    - selfhosting/pcipassthrough2/index.md
+    - selfhosting/perlite/index.md
+    - selfhosting/pf_prox/index.md
+    - selfhosting/pf_vpn/index.md
+    - selfhosting/phpfilesafe/index.md
+    - selfhosting/pihole/index.md
+    - selfhosting/plainpad/index.md
+    - selfhosting/portainer/index.md
+    - selfhosting/portforwarding/index.md
+    - selfhosting/privatebin/index.md
+    - selfhosting/progra/index.md
+    - selfhosting/proxitok/index.md
+    - selfhosting/proxmox/index.md
+    - selfhosting/raid1disks/index.md
+    - selfhosting/rainloop/index.md
+    - selfhosting/rdp/index.md
+    - selfhosting/rss/index.md
+    - selfhosting/rsync/index.md
+    - selfhosting/safetwitch/index.md
+    - selfhosting/searx/index.md
+    - selfhosting/searx_docker/index.md
+    - selfhosting/searxng/index.md
+    - selfhosting/sharelatex/index.md
+    - selfhosting/snmp/index.md
+    - selfhosting/stablediffusion/index.md
+    - selfhosting/stablediffusion2/index.md
+    - selfhosting/surveillance/index.md
+    - selfhosting/teddit/index.md
+    - selfhosting/tf2srv/index.md
+    - selfhosting/thelounge/index.md
+    - selfhosting/tor_ssh_tunnel_port_forwarding/index.md
+    - selfhosting/tordns/index.md
+    - selfhosting/torproxy/index.md
+    - selfhosting/tpot/index.md
+    - selfhosting/unattendedupgrades/index.md
+    - selfhosting/uptimekuma/index.md
+    - selfhosting/virtual/index.md
+    - selfhosting/w0/index.md
+    - selfhosting/w1_dns/index.md
+    - selfhosting/w2_ad/index.md
+    - selfhosting/w3_users/index.md
+    - selfhosting/w5/index.md
+    - selfhosting/w6_ldaps/index.md
+    - selfhosting/w7/index.md
+    - selfhosting/watchtower/index.md
+    - selfhosting/wazuh/index.md
+    - selfhosting/whoogle/index.md
+    - selfhosting/wikiless/index.md
+    - selfhosting/wireguard/index.md
+    - selfhosting/wireguard_auto/index.md
+    - selfhosting/xmpp2024/index.md
+    - selfhosting/xrdp/index.md
+
+  - Hacking:
+    - hacking/index.md
+    - HackTheBox Writeups:
+      - Easy Boxes:
+        - hacking/Easy/0.md
+        - hacking/Easy/1.md
+        - hacking/Easy/10.md
+        - hacking/Easy/11.md
+        - hacking/Easy/12.md
+        - hacking/Easy/13.md
+        - hacking/Easy/14.md
+        - hacking/Easy/15.md
+        - hacking/Easy/16.md
+        - hacking/Easy/17.md
+        - hacking/Easy/18.md
+        - hacking/Easy/19.md
+        - hacking/Easy/2.md
+        - hacking/Easy/20.md
+        - hacking/Easy/21.md
+        - hacking/Easy/22.md
+        - hacking/Easy/23.md
+        - hacking/Easy/24.md
+        - hacking/Easy/25.md
+        - hacking/Easy/26.md
+        - hacking/Easy/27.md
+        - hacking/Easy/28.md
+        - hacking/Easy/29.md
+        - hacking/Easy/3.md
+        - hacking/Easy/30.md
+        - hacking/Easy/31.md
+        - hacking/Easy/32.md
+        - hacking/Easy/33.md
+        - hacking/Easy/34.md
+        - hacking/Easy/35.md
+        - hacking/Easy/36.md
+        - hacking/Easy/37.md
+        - hacking/Easy/38.md
+        - hacking/Easy/39.md
+        - hacking/Easy/4.md
+        - hacking/Easy/40.md
+        - hacking/Easy/41.md
+        - hacking/Easy/42.md
+        - hacking/Easy/43.md
+        - hacking/Easy/44.md
+        - hacking/Easy/45.md
+        - hacking/Easy/46.md
+        - hacking/Easy/47.md
+        - hacking/Easy/48.md
+        - hacking/Easy/49.md
+        - hacking/Easy/5.md
+        - hacking/Easy/50.md
+        - hacking/Easy/51.md
+        - hacking/Easy/52.md
+        - hacking/Easy/53.md
+        - hacking/Easy/54.md
+        - hacking/Easy/55.md
+        - hacking/Easy/56.md
+        - hacking/Easy/57.md
+        - hacking/Easy/58.md
+        - hacking/Easy/59.md
+        - hacking/Easy/6.md
+        - hacking/Easy/60.md
+        - hacking/Easy/61.md
+        - hacking/Easy/62.md
+        - hacking/Easy/63.md
+        - hacking/Easy/64.md
+        - hacking/Easy/65.md
+        - hacking/Easy/66.md
+        - hacking/Easy/67.md
+        - hacking/Easy/68.md
+        - hacking/Easy/69.md
+        - hacking/Easy/7.md
+        - hacking/Easy/70.md
+        - hacking/Easy/71.md
+        - hacking/Easy/8.md
+        - hacking/Easy/9.md
+      - Medium Boxes:
+        - hacking/Medium/0.md
+        - hacking/Medium/1.md
+        - hacking/Medium/10.md
+        - hacking/Medium/11.md
+        - hacking/Medium/12.md
+        - hacking/Medium/13.md
+        - hacking/Medium/14.md
+        - hacking/Medium/15.md
+        - hacking/Medium/16.md
+        - hacking/Medium/17.md
+        - hacking/Medium/18.md
+        - hacking/Medium/19.md
+        - hacking/Medium/2.md
+        - hacking/Medium/20.md
+        - hacking/Medium/21.md
+        - hacking/Medium/22.md
+        - hacking/Medium/23.md
+        - hacking/Medium/24.md
+        - hacking/Medium/25.md
+        - hacking/Medium/26.md
+        - hacking/Medium/27.md
+        - hacking/Medium/28.md
+        - hacking/Medium/29.md
+        - hacking/Medium/3.md
+        - hacking/Medium/30.md
+        - hacking/Medium/31.md
+        - hacking/Medium/32.md
+        - hacking/Medium/33.md
+        - hacking/Medium/34.md
+        - hacking/Medium/35.md
+        - hacking/Medium/36.md
+        - hacking/Medium/37.md
+        - hacking/Medium/38.md
+        - hacking/Medium/39.md
+        - hacking/Medium/4.md
+        - hacking/Medium/40.md
+        - hacking/Medium/41.md
+        - hacking/Medium/42.md
+        - hacking/Medium/43.md
+        - hacking/Medium/44.md
+        - hacking/Medium/45.md
+        - hacking/Medium/46.md
+        - hacking/Medium/47.md
+        - hacking/Medium/48.md
+        - hacking/Medium/49.md
+        - hacking/Medium/5.md
+        - hacking/Medium/50.md
+        - hacking/Medium/51.md
+        - hacking/Medium/52.md
+        - hacking/Medium/53.md
+        - hacking/Medium/54.md
+        - hacking/Medium/55.md
+        - hacking/Medium/56.md
+        - hacking/Medium/57.md
+        - hacking/Medium/58.md
+        - hacking/Medium/59.md
+        - hacking/Medium/6.md
+        - hacking/Medium/60.md
+        - hacking/Medium/61.md
+        - hacking/Medium/62.md
+        - hacking/Medium/63.md
+        - hacking/Medium/64.md
+        - hacking/Medium/65.md
+        - hacking/Medium/66.md
+        - hacking/Medium/67.md
+        - hacking/Medium/68.md
+        - hacking/Medium/7.md
+        - hacking/Medium/8.md
+        - hacking/Medium/9.md
+      - Hard Boxes:
+        - hacking/Hard/0.md
+        - hacking/Hard/1.md
+        - hacking/Hard/10.md
+        - hacking/Hard/11.md
+        - hacking/Hard/12.md
+        - hacking/Hard/13.md
+        - hacking/Hard/14.md
+        - hacking/Hard/15.md
+        - hacking/Hard/16.md
+        - hacking/Hard/17.md
+        - hacking/Hard/18.md
+        - hacking/Hard/19.md
+        - hacking/Hard/2.md
+        - hacking/Hard/20.md
+        - hacking/Hard/21.md
+        - hacking/Hard/22.md
+        - hacking/Hard/23.md
+        - hacking/Hard/24.md
+        - hacking/Hard/25.md
+        - hacking/Hard/26.md
+        - hacking/Hard/27.md
+        - hacking/Hard/28.md
+        - hacking/Hard/29.md
+        - hacking/Hard/3.md
+        - hacking/Hard/30.md
+        - hacking/Hard/31.md
+        - hacking/Hard/32.md
+        - hacking/Hard/33.md
+        - hacking/Hard/34.md
+        - hacking/Hard/35.md
+        - hacking/Hard/36.md
+        - hacking/Hard/37.md
+        - hacking/Hard/38.md
+        - hacking/Hard/39.md
+        - hacking/Hard/4.md
+        - hacking/Hard/5.md
+        - hacking/Hard/6.md
+        - hacking/Hard/7.md
+        - hacking/Hard/8.md
+        - hacking/Hard/9.md
+        - hacking/Hard/prg/9/linpeas.md
+      - Recurrent Tricks:
+        - hacking/Tools/0/index.md
+        - hacking/Tools/burp/index.md
+        - hacking/Tools/files/index.md
+        - hacking/Tools/sshtunnels/index.md
+        - hacking/Tools/xc/index.md
+    - Binary Exploitation Writeups:
+      - hacking/binexp.md
+      - Learning Assembly:
+        - hacking/asm/0.md
+        - hacking/asm/1.md
+        - hacking/asm/2.md
+        - hacking/asm/3.md
+        - hacking/asm/4.md
+        - hacking/asm/5.md
+        - hacking/asm/6.md
+        - hacking/asm/7.md
+      - hacking/0/0.md
+      - hacking/0/gdb.md
+      - hacking/0/ghidra.md
+      - hacking/0/pwntools.md
+      - hacking/1/0.md
+      - hacking/1/beleaf.md
+      - hacking/1/heli.md
+      - hacking/1/strings.md
+      - hacking/2/0.md
+      - hacking/2/bboi.md
+      - hacking/2/boi.md
+      - hacking/2/calc.md
+      - hacking/2/feed.md
+      - hacking/2/get.md
+      - hacking/2/hs.md
+      - hacking/2/just.md
+      - hacking/2/overf.md
+      - hacking/2/pilot.md
+      - hacking/2/pwn1.md
+      - hacking/2/pwn3.md
+      - hacking/2/shella.md
+      - hacking/2/shme.md
+      - hacking/2/speed.md
+      - hacking/2/svc.md
+      - hacking/2/vuln.md
+      - hacking/2/warm.md
+      - hacking/3/0.md
+      - hacking/3/h3.md
+      - hacking/3/prep.md
+      - hacking/3/tux.md
+
+copyright: "Creative Commons Zero: [No Rights Reserved](opsec/runtheblog/index.md)"
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - privacy
+  - search
+
+#markdown-extensions:
+#  - meta
+
+repo_url: http://git.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/nihilist/blog-contributions
+repo_name: nihilist/blog-contributions

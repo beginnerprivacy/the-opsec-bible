@@ -1,0 +1,28 @@
+services:
+  blogmk-puller:
+    image: alpine:latest
+    container_name: blogmk_puller
+    environment:
+      - SITE_URL=http://mkdocsjdd76rvqxrgykpywpsxoij734ycf34767dmfmfqjmqcj7hurad.onion
+      - BRANCH=main
+      - REPO_URL=http://git.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/nihilist/opsec-blog-v2
+      - REFRESH_SEC=900
+    volumes:
+      - ./repo:/repo
+      - ./servable:/servable
+      - ./entry.sh:/entry.sh:ro
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    entrypoint: ["sh", "/entry.sh"]
+    network_mode: "host"
+    restart: unless-stopped
+
+  blogmk-server:
+    image: nginx:alpine
+    container_name: blogmk_server
+    volumes:
+      - ./nginx.conf:/etc/nginx/sites-enabled/default:ro
+      - ./servable:/usr/share/nginx/html:ro
+    ports:
+      - "7080:80"
+    restart: unless-stopped
