@@ -552,7 +552,7 @@ nav:
       - hacking/3/prep.md
       - hacking/3/tux.md
 
-copyright: "Creative Commons Zero: [No Rights Reserved](opsec/runtheblog/index.md)"
+copyright: "Creative Commons Zero: No Rights Reserved"
 
 extra_css:
   - stylesheets/extra.css
