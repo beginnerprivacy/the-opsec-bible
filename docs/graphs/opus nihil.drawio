@@ -1,0 +1,170 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
+  <diagram name="Page-1" id="CLEqJCBp6Rs9a-j2d0zD">
+    <mxGraphModel dx="1515" dy="656" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="c65eun8Wr9JGDa8dXbud-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;fillColor=#e51400;strokeColor=#B20000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="c65eun8Wr9JGDa8dXbud-1" target="c65eun8Wr9JGDa8dXbud-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;fillColor=#60a917;strokeColor=#2D7600;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="c65eun8Wr9JGDa8dXbud-1" target="c65eun8Wr9JGDa8dXbud-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-1" value="&lt;u&gt;Thought / Idea / Justification:&lt;/u&gt;&lt;div&gt;&quot;Just one more time&quot;&lt;br&gt;&quot;One last time&quot;&lt;br&gt;&quot;Today i need it, i deserve it&quot;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+          <mxGeometry x="74" y="649" width="198" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;" parent="1" source="c65eun8Wr9JGDa8dXbud-5" target="c65eun8Wr9JGDa8dXbud-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="c65eun8Wr9JGDa8dXbud-5" target="c65eun8Wr9JGDa8dXbud-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-5" value="&lt;u&gt;The Ritual begins:&lt;/u&gt;&lt;br&gt;you get ready to indulge,&lt;br&gt;you&#39;re about to give in&lt;br&gt;(the idea itself spikes dopamine)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="237" y="743" width="216" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-6" value="&lt;u&gt;Indulgence:&lt;/u&gt;&lt;br&gt;You start to indulge,&lt;br&gt;(spiking dopamine)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+          <mxGeometry x="95" y="861" width="170" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;curved=1;fillColor=#e51400;strokeColor=#B20000;" parent="1" source="c65eun8Wr9JGDa8dXbud-9" target="c65eun8Wr9JGDa8dXbud-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="c65eun8Wr9JGDa8dXbud-9" target="c65eun8Wr9JGDa8dXbud-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-9" value="&lt;u&gt;Withdrawals:&lt;/u&gt;&lt;br&gt;You feel bad after some time, (shame, pain, depression, etc)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+          <mxGeometry x="-86" y="743" width="170" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.486;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;fillColor=#e51400;strokeColor=#B20000;" parent="1" source="c65eun8Wr9JGDa8dXbud-6" target="c65eun8Wr9JGDa8dXbud-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-12" value="&lt;u&gt;Opus Nihil:&lt;/u&gt;&lt;br&gt;&quot;I want nothing,&lt;br&gt;I need nothing&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+          <mxGeometry x="273" y="561" width="144" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-14" value="&lt;u&gt;Opus Nihil:&lt;/u&gt;&lt;br&gt;&quot;I want nothing,&lt;br&gt;I need nothing&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+          <mxGeometry x="-201" y="652" width="144" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-16" value="&lt;u&gt;Opus Nihil:&lt;/u&gt;&lt;br&gt;&quot;I want nothing,&lt;br&gt;I need nothing&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+          <mxGeometry x="396" y="862" width="144" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-22" value="&lt;u&gt;Opus Nihil:&lt;/u&gt;&lt;br&gt;Unwinding Addictions" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-205" y="479" width="148" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-23" value="The Addiction&lt;br&gt;Cycle" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="111" y="755.5" width="100" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-24" value="&lt;font style=&quot;color: rgb(0, 204, 0);&quot;&gt;1) This is the best way at eradicating addictions:&amp;nbsp;&lt;br&gt;the idea appears, and you immediately silence it.&lt;br&gt;Whenever it appears, you remind yourself that&lt;br&gt;you don&#39;t want, nor need any of it.&lt;br&gt;&lt;br&gt;You need to reject the very &lt;br&gt;IDEA of indulging in pleasure!&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="187" y="452.5" width="316" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-25" value="&lt;font style=&quot;color: rgb(0, 204, 0);&quot;&gt;2) Sometimes you can&#39;t stop yourself that easily,&lt;br&gt;but when you&#39;re about to indulge you usually notice&amp;nbsp;&lt;br&gt;that it&#39;s about to happen, therefore you can stop yourself&lt;br&gt;there aswell&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="286.5" y="913" width="363" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-26" value="&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;Here you didn&#39;t stop yourself on time,&lt;br&gt;you can&#39;t stop yourself mid-indulgence,&lt;br&gt;therefore you&#39;ll have to try again next time.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-189" y="889" width="281" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-27" value="&lt;font color=&quot;#00cc00&quot;&gt;3) When you are feeling the withdrawals,&amp;nbsp;&lt;br&gt;make sure that you associate the&amp;nbsp;&lt;br&gt;target of indulgence with the pain,&lt;br&gt;and all of the negativity you go through.&lt;br&gt;Make sure that it becomes a reason to quit&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-267" y="564" width="276" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="c65eun8Wr9JGDa8dXbud-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="875" y="813.5555555555555" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-28" value="Task A&lt;br&gt;(energetic)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+          <mxGeometry x="827" y="867" width="96" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="c65eun8Wr9JGDa8dXbud-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="875" y="708" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-29" value="Task B&lt;br&gt;(in the flow)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+          <mxGeometry x="827" y="769" width="96" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="c65eun8Wr9JGDa8dXbud-30" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="875" y="601.0555555555555" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-30" value="Task C&lt;br&gt;(getting tired)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="827" y="662" width="96" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#a20025;strokeColor=#6F0000;" parent="1" source="c65eun8Wr9JGDa8dXbud-31" target="c65eun8Wr9JGDa8dXbud-37" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="875" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-31" value="Task D&lt;br&gt;(getting exhausted)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+          <mxGeometry x="827" y="554" width="96" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="c65eun8Wr9JGDa8dXbud-37" target="c65eun8Wr9JGDa8dXbud-45" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1069" y="520" />
+              <mxPoint x="1069" y="493" />
+              <mxPoint x="1069" y="493" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-45" value="&lt;u&gt;Opus Nihil:&lt;/u&gt;&lt;br&gt;&quot;I want nothing,&lt;br&gt;I need nothing&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+          <mxGeometry x="996.5" y="419" width="144" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-47" value="Task E&lt;br&gt;(energetic again)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+          <mxGeometry x="827" y="315" width="96" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.488;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="c65eun8Wr9JGDa8dXbud-45" target="c65eun8Wr9JGDa8dXbud-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-49" value="(begin mental reset&lt;br&gt;short ~5 min &lt;br&gt;meditation,&lt;br&gt;to recover)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="875" y="378" width="136" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-50" value="" style="group;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;perimeterSpacing=9;strokeWidth=14;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="947" y="498" width="247" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#a20025;strokeColor=#6F0000;" parent="c65eun8Wr9JGDa8dXbud-50" source="c65eun8Wr9JGDa8dXbud-35" target="c65eun8Wr9JGDa8dXbud-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-35" value="Indulge in pleasure" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="c65eun8Wr9JGDa8dXbud-50" vertex="1">
+          <mxGeometry x="151" y="97" width="96" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#a20025;strokeColor=#6F0000;" parent="c65eun8Wr9JGDa8dXbud-50" source="c65eun8Wr9JGDa8dXbud-36" target="c65eun8Wr9JGDa8dXbud-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-36" value="Withdrawals" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="c65eun8Wr9JGDa8dXbud-50" vertex="1">
+          <mxGeometry y="97" width="96" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#a20025;strokeColor=#6F0000;" parent="c65eun8Wr9JGDa8dXbud-50" source="c65eun8Wr9JGDa8dXbud-37" target="c65eun8Wr9JGDa8dXbud-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-37" value="Idea of indulging" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="c65eun8Wr9JGDa8dXbud-50" vertex="1">
+          <mxGeometry width="96" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#a20025;strokeColor=#6F0000;" parent="c65eun8Wr9JGDa8dXbud-50" source="c65eun8Wr9JGDa8dXbud-38" target="c65eun8Wr9JGDa8dXbud-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-38" value="Ritual begins" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="c65eun8Wr9JGDa8dXbud-50" vertex="1">
+          <mxGeometry x="151" width="96" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-43" value="Addiction cycle" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="c65eun8Wr9JGDa8dXbud-50" vertex="1">
+          <mxGeometry x="67" y="56" width="109" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="c65eun8Wr9JGDa8dXbud-51" value="When things get rough,&lt;br&gt;you are increasingly more&amp;nbsp;&lt;br&gt;likely to have ideas of &lt;br&gt;indulging in pleasure.&lt;br&gt;&lt;br&gt;Be careful, notice it, and&lt;br&gt;get out of the addiction cycle&lt;br&gt;as soon as you can!" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1208" y="498" width="194" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="y33aFE67ekV4QQrx48C5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="y33aFE67ekV4QQrx48C5-1" target="c65eun8Wr9JGDa8dXbud-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y33aFE67ekV4QQrx48C5-1" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;⚠️ The Addiction cycle &lt;br&gt;always starts from &lt;br&gt;your mind, therefore&lt;br&gt;&lt;u&gt;WATCH OUT FOR IT!&lt;/u&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="98" y="555" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="y33aFE67ekV4QQrx48C5-3" value="Discomfort is at it&#39;s peak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-33" y="496" width="167" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="y33aFE67ekV4QQrx48C5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.532;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FF0000;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="y33aFE67ekV4QQrx48C5-3" target="y33aFE67ekV4QQrx48C5-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

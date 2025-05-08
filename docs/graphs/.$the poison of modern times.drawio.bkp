@@ -1,0 +1,380 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
+  <diagram name="Page-1" id="sbkZyPvmQJVb-3snZOzC">
+    <mxGraphModel dx="1515" dy="656" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7isbOhx5hTA59_UsGkNF-1" value="The Poison of Modern Times" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-241" y="45" width="188" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7isbOhx5hTA59_UsGkNF-2" target="7isbOhx5hTA59_UsGkNF-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-75" value="Force every company operating&lt;br&gt;on their soil to act on their behalf&lt;br&gt;to pursue their own agenda:&lt;br&gt;consolidating power, and accumulating more wealth" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7isbOhx5hTA59_UsGkNF-7" vertex="1" connectable="0">
+          <mxGeometry x="-0.0038" y="1" relative="1" as="geometry">
+            <mxPoint x="8" y="68" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7isbOhx5hTA59_UsGkNF-2" target="7isbOhx5hTA59_UsGkNF-96" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7isbOhx5hTA59_UsGkNF-2" target="7isbOhx5hTA59_UsGkNF-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7isbOhx5hTA59_UsGkNF-2" target="7isbOhx5hTA59_UsGkNF-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-2" value="Governments&lt;br&gt;(Monopoly on violence, power, and corruption)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+          <mxGeometry x="-144" y="110" width="131" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7isbOhx5hTA59_UsGkNF-3" target="7isbOhx5hTA59_UsGkNF-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-88" value="Buy as many businesses as possible&lt;br&gt;to syphon as much money out of other&lt;br&gt;countries back into their hands,&lt;br&gt;to consolidate their power&amp;nbsp;&lt;br&gt;and accumulate more wealth" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7isbOhx5hTA59_UsGkNF-8" vertex="1" connectable="0">
+          <mxGeometry x="-0.282" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7isbOhx5hTA59_UsGkNF-3" target="7isbOhx5hTA59_UsGkNF-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-3" value="Corporations&lt;br&gt;(hogs 90% of the profits)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+          <mxGeometry x="-134" y="462" width="112" height="55.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7isbOhx5hTA59_UsGkNF-4" target="7isbOhx5hTA59_UsGkNF-89" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7isbOhx5hTA59_UsGkNF-4" target="7isbOhx5hTA59_UsGkNF-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-103" value="Slaves forcing everyone &lt;br&gt;beneath them to slave away their&amp;nbsp;&lt;br&gt;entire lives for their masters&#39; profit" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7isbOhx5hTA59_UsGkNF-92" vertex="1" connectable="0">
+          <mxGeometry x="-0.2258" y="4" relative="1" as="geometry">
+            <mxPoint x="-4" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-4" value="Medium-Small Businesses&lt;br&gt;(gets the remaining 10% of the profits)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="-147" y="628.87" width="138" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7isbOhx5hTA59_UsGkNF-5" target="7isbOhx5hTA59_UsGkNF-93" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-5" value="Employees&lt;br&gt;&amp;amp; Individuals" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+          <mxGeometry x="-134" y="749.88" width="112" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7isbOhx5hTA59_UsGkNF-6" target="7isbOhx5hTA59_UsGkNF-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7isbOhx5hTA59_UsGkNF-6" target="7isbOhx5hTA59_UsGkNF-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1655.5" y="415" />
+              <mxPoint x="1783.5" y="415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7isbOhx5hTA59_UsGkNF-6" target="7isbOhx5hTA59_UsGkNF-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1655.5" y="415" />
+              <mxPoint x="1526.5" y="415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-6" value="You, the slave individual (poisoned)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+          <mxGeometry x="1599.5" y="342" width="112" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7isbOhx5hTA59_UsGkNF-12" target="7isbOhx5hTA59_UsGkNF-71" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="358" />
+              <mxPoint x="913" y="358" />
+              <mxPoint x="913" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-12" value="The Voting system&lt;br&gt;(to falsely justify that the majority chose it)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+          <mxGeometry x="302.5" y="290" width="155" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7isbOhx5hTA59_UsGkNF-13" target="7isbOhx5hTA59_UsGkNF-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-13" value="Multiple political parties (to pretend to act on behalf of the masses and maintain the illusion of choice)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+          <mxGeometry x="295.5" y="193" width="169" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-17" value="You, the Free individual&lt;br&gt;(free from poison)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+          <mxGeometry x="1600" y="703.5" width="112" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7isbOhx5hTA59_UsGkNF-18" target="7isbOhx5hTA59_UsGkNF-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1783.5" y="675.5" />
+              <mxPoint x="1655.5" y="675.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-18" value="Lack of Addictions&lt;br&gt;Lack of Compulsions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+          <mxGeometry x="1721.5" y="600" width="125" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7isbOhx5hTA59_UsGkNF-19" target="7isbOhx5hTA59_UsGkNF-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-19" value="Lack of Beliefs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+          <mxGeometry x="1600" y="600" width="112" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7isbOhx5hTA59_UsGkNF-20" target="7isbOhx5hTA59_UsGkNF-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1526.5" y="675.5" />
+              <mxPoint x="1656.5" y="675.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-20" value="Lack of Identities" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+          <mxGeometry x="1471" y="600" width="112" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7isbOhx5hTA59_UsGkNF-27" target="7isbOhx5hTA59_UsGkNF-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-34" value="&lt;b&gt;Sum Nihil&lt;br&gt;&lt;br&gt;&quot;I am nothing,&lt;br&gt;I am noone&quot;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7isbOhx5hTA59_UsGkNF-31" vertex="1" connectable="0">
+          <mxGeometry x="0.0106" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-27" value="Unwanted Identities" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+          <mxGeometry x="1471" y="454.5" width="112" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7isbOhx5hTA59_UsGkNF-28" target="7isbOhx5hTA59_UsGkNF-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-35" value="&lt;b&gt;Scio Nihil&lt;br&gt;&lt;br&gt;&quot;I know nothing,&lt;br&gt;I know nothing else&quot;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7isbOhx5hTA59_UsGkNF-32" vertex="1" connectable="0">
+          <mxGeometry x="-0.0106" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-28" value="&amp;nbsp;False Beliefs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+          <mxGeometry x="1600" y="454.5" width="112" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7isbOhx5hTA59_UsGkNF-29" target="7isbOhx5hTA59_UsGkNF-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-36" value="&lt;b&gt;Opus Nihil&lt;br&gt;&lt;br&gt;&quot;I want nothing,&lt;br&gt;I need nothing&quot;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7isbOhx5hTA59_UsGkNF-33" vertex="1" connectable="0">
+          <mxGeometry x="-0.0781" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-29" value="Unwanted Addictions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+          <mxGeometry x="1728" y="449" width="112" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7isbOhx5hTA59_UsGkNF-48" target="7isbOhx5hTA59_UsGkNF-54" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7isbOhx5hTA59_UsGkNF-48" target="7isbOhx5hTA59_UsGkNF-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7isbOhx5hTA59_UsGkNF-48" target="7isbOhx5hTA59_UsGkNF-52" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7isbOhx5hTA59_UsGkNF-48" target="7isbOhx5hTA59_UsGkNF-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7isbOhx5hTA59_UsGkNF-48" target="7isbOhx5hTA59_UsGkNF-55" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-48" value="Internet Centralisation (the Clearnet):&lt;br&gt;1) Enabling communication for propagandists&lt;br&gt;2) Regulating who gets visibility, and who doesnt&lt;br&gt;3) M&lt;span style=&quot;background-color: initial;&quot;&gt;aking the dissidents vulnerable to crackdowns&lt;br&gt;(lack of privacy, anonymity and deniability)&lt;br&gt;&lt;/span&gt;&lt;div&gt;4) Systemic cracking down on all dissidents&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+          <mxGeometry x="-4" y="445" width="334" height="89.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-50" value="News outlets" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+          <mxGeometry x="393" y="426.25" width="102" height="36.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7isbOhx5hTA59_UsGkNF-52" target="7isbOhx5hTA59_UsGkNF-65" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-52" value="Social Media" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+          <mxGeometry x="393" y="471.75" width="102" height="36.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-53" value="Podcasts" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+          <mxGeometry x="393" y="518.25" width="102" height="36.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-54" value="TV / Radio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+          <mxGeometry x="393" y="379.75" width="102" height="36.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-55" value="Advertisers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+          <mxGeometry x="393" y="563.25" width="102" height="36.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7isbOhx5hTA59_UsGkNF-56" target="7isbOhx5hTA59_UsGkNF-76" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="588" y="359" />
+              <mxPoint x="913" y="359" />
+              <mxPoint x="913" y="395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-56" value="State-issued money&lt;br&gt;(which they continuously print, causing inflation)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+          <mxGeometry x="510.5" y="202.5" width="155" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7isbOhx5hTA59_UsGkNF-65" target="7isbOhx5hTA59_UsGkNF-71" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-65" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;P&lt;br&gt;R&lt;br&gt;O&lt;br&gt;P&lt;br&gt;A&lt;br&gt;G&lt;br&gt;A&lt;br&gt;N&lt;br&gt;D&lt;br&gt;A&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+          <mxGeometry x="561" y="380" width="52" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.019;entryY=0.082;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="7isbOhx5hTA59_UsGkNF-54" target="7isbOhx5hTA59_UsGkNF-65" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.019;entryY=0.292;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="7isbOhx5hTA59_UsGkNF-50" target="7isbOhx5hTA59_UsGkNF-65" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.711;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="7isbOhx5hTA59_UsGkNF-53" target="7isbOhx5hTA59_UsGkNF-65" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.021;entryY=0.919;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="7isbOhx5hTA59_UsGkNF-55" target="7isbOhx5hTA59_UsGkNF-65" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;" parent="1" source="7isbOhx5hTA59_UsGkNF-71" target="7isbOhx5hTA59_UsGkNF-76" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e51400;strokeColor=#B20000;" parent="1" source="7isbOhx5hTA59_UsGkNF-71" target="7isbOhx5hTA59_UsGkNF-77" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-71" value="False Beliefs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+          <mxGeometry x="959" y="470.5" width="144" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-73" value="Erase the past, rewrite the past&lt;br&gt;with propaganda, repeat it enough times &lt;br&gt;Until it everyone accepts it as the truth" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="631.5" y="429" width="232" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-74" value="Whoever speaks the actual truth,&lt;br&gt;gets silenced, shadow-banned,&lt;br&gt;gets their visibility reduced to nothing&lt;br&gt;(especially if they are on the clearnet)&lt;br&gt;and ultimately silenced, thrown in jail or killed.&lt;br&gt;&lt;br&gt;&lt;b&gt;(and of course, cover up every proof of&amp;nbsp;&lt;br&gt;tyranny, and pretend that the government&lt;br&gt;acts on behalf of the masses)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="620" y="490" width="261" height="142" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e51400;strokeColor=#B20000;" parent="1" source="7isbOhx5hTA59_UsGkNF-76" target="7isbOhx5hTA59_UsGkNF-71" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;" parent="1" source="7isbOhx5hTA59_UsGkNF-76" target="7isbOhx5hTA59_UsGkNF-77" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1123" y="395" />
+              <mxPoint x="1123" y="585" />
+              <mxPoint x="1103" y="585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-76" value="Unwanted Identities" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+          <mxGeometry x="959" y="375" width="144" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;" parent="1" source="7isbOhx5hTA59_UsGkNF-77" target="7isbOhx5hTA59_UsGkNF-71" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;" parent="1" source="7isbOhx5hTA59_UsGkNF-77" target="7isbOhx5hTA59_UsGkNF-76" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1123" y="585" />
+              <mxPoint x="1123" y="395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7isbOhx5hTA59_UsGkNF-77" target="7isbOhx5hTA59_UsGkNF-89" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1031" y="714" />
+              <mxPoint x="357" y="714" />
+              <mxPoint x="357" y="658" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7isbOhx5hTA59_UsGkNF-77" target="7isbOhx5hTA59_UsGkNF-93" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1031" y="714" />
+              <mxPoint x="357" y="714" />
+              <mxPoint x="357" y="776" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-77" value="Unwanted Addictions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+          <mxGeometry x="959" y="565" width="144" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-89" value="The desperation of the ones that are not at the top:&lt;br&gt;1) we must make as much money as we can&lt;br&gt;2) we never have enough money&lt;br&gt;3) we must do everything to get that money&lt;br&gt;&lt;b&gt;(because otherwise we cannot survive)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="22" y="618" width="292" height="80.75" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-93" value="1) I must work my whole life to get that money&lt;br&gt;2) I never have enough money (due to the cost of living continuously rising (inflation))&lt;br&gt;3) I must do everything to get that money&lt;br&gt;&lt;b&gt;(because otherwise i cannot survive)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+          <mxGeometry x="22" y="736" width="292" height="80.75" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7isbOhx5hTA59_UsGkNF-96" target="7isbOhx5hTA59_UsGkNF-131" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-96" value="The Law and Law Enforcement&lt;br&gt;(to monopolize violence obedience, and remain in power)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+          <mxGeometry x="60.5" y="197" width="187" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7isbOhx5hTA59_UsGkNF-131" target="7isbOhx5hTA59_UsGkNF-77" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="154" y="359" />
+              <mxPoint x="913" y="359" />
+              <mxPoint x="913" y="584" />
+              <mxPoint x="959" y="584" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-131" value="Jails (to show the masses what happens if you disobey)&lt;br&gt;(the carrot &amp;amp; stick mentality)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+          <mxGeometry x="60.5" y="282" width="187" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-140" value="Systemically-produced poison&lt;br&gt;for the masses to remain slaves&lt;br&gt;their entire lives" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="937" y="295" width="188" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-141" value="Those unwanted identities&lt;br&gt;reinforce false beliefs and unwanted addictions&lt;br&gt;&lt;br&gt;Those unwanted addictions&lt;br&gt;reinforce unwanted identities and false beliefs&lt;br&gt;&lt;br&gt;Those false beliefs&lt;br&gt;reinforce those unwanted addictions and identities&lt;br&gt;&lt;br&gt;The poisoning cycle has 3 steps, and it is&lt;br&gt;self-reinforcing. (downward spiral / slippery slope)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1125" y="405.25" width="284" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-142" value="Nihilism is about getting rid of that poison:&lt;br&gt;from Slavery to Freedom" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1524.75" y="290" width="268" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-143" value="The poison arrives in the mind, therefore &lt;br&gt;&lt;b&gt;only the mind can purge the poison.&lt;/b&gt;&lt;br&gt;&lt;br&gt;(at least 5 minutes a day,&lt;br&gt;ideally 20 minutes a day)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1840" y="508.25" width="233" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;" parent="1" source="7isbOhx5hTA59_UsGkNF-146" target="7isbOhx5hTA59_UsGkNF-149" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e51400;strokeColor=#B20000;" parent="1" source="7isbOhx5hTA59_UsGkNF-146" target="7isbOhx5hTA59_UsGkNF-152" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-146" value="False Beliefs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+          <mxGeometry x="970" y="1138.5" width="144" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e51400;strokeColor=#B20000;" parent="1" source="7isbOhx5hTA59_UsGkNF-149" target="7isbOhx5hTA59_UsGkNF-146" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;" parent="1" source="7isbOhx5hTA59_UsGkNF-149" target="7isbOhx5hTA59_UsGkNF-152" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1134" y="1063" />
+              <mxPoint x="1134" y="1253" />
+              <mxPoint x="1114" y="1253" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-149" value="Unwanted Identities" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+          <mxGeometry x="970" y="1043" width="144" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;" parent="1" source="7isbOhx5hTA59_UsGkNF-152" target="7isbOhx5hTA59_UsGkNF-146" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;" parent="1" source="7isbOhx5hTA59_UsGkNF-152" target="7isbOhx5hTA59_UsGkNF-149" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1134" y="1253" />
+              <mxPoint x="1134" y="1063" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-152" value="Unwanted Addictions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+          <mxGeometry x="970" y="1233" width="144" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-153" value="Systemically-produced poison&lt;br&gt;for the masses to remain slaves&lt;br&gt;their entire lives" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="948" y="963" width="188" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="7isbOhx5hTA59_UsGkNF-154" value="Those unwanted identities&lt;br&gt;reinforce false beliefs and unwanted addictions&lt;br&gt;&lt;br&gt;Those unwanted addictions&lt;br&gt;reinforce unwanted identities and false beliefs&lt;br&gt;&lt;br&gt;Those false beliefs&lt;br&gt;reinforce those unwanted addictions and identities&lt;br&gt;&lt;br&gt;The poisoning cycle has 3 steps, and it is&lt;br&gt;self-reinforcing. (downward spiral / slippery slope)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1136" y="1073.25" width="284" height="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

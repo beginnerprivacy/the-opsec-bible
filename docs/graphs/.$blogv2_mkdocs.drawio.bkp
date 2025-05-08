@@ -1,0 +1,292 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
+  <diagram name="Page-1" id="y3ObkSMozgvXvTS8_iGy">
+    <mxGraphModel dx="2098" dy="1147" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-1" value="Nihilism blog v2:&lt;br&gt;mkdocs edition" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-418" y="-140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-2" value="Blog v2 URL format&lt;br&gt;&amp;amp; nginx rules" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-371" y="-58" width="122" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-3" value="http://blogv2instanceA.onion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+          <mxGeometry x="-345" y="-15" width="215" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-4" value="http://blogv2instanceB.onion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+          <mxGeometry x="-345" y="24" width="215" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-5" value="/CATEGORYNAME" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+          <mxGeometry x="-121" y="-15" width="123" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-6" value="/TUTORIALNAME" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+          <mxGeometry x="11" y="-15" width="123" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-7" value="/FILES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+          <mxGeometry x="143" y="-15" width="77" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-8" value="/index.md" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+          <mxGeometry x="143" y="24" width="77" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-9" value="/index.html&lt;br&gt;(nginx musr redirect to&amp;nbsp;&lt;br&gt;index.md)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="143" y="103" width="77" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-10" value="/1.png" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+          <mxGeometry x="143" y="63" width="77" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-11" value="/_template" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+          <mxGeometry x="10" y="24" width="124" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-12" value="/monerowealth" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+          <mxGeometry x="10" y="63" width="124" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-13" value="/opsec" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+          <mxGeometry x="-121" y="24" width="124" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-14" value="/productivity" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+          <mxGeometry x="-122" y="63" width="124" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-15" value="/selfhosting" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+          <mxGeometry x="-121.5" y="103" width="124" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-16" value="/hacking" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+          <mxGeometry x="-121.5" y="142" width="124" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-17" value="/HTB&lt;br&gt;(nginx must redirect to /hacking)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="-121" y="181" width="123" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-18" value="/servers&lt;br&gt;(nginx must redirect to /opsec)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="-122" y="255" width="123" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-19" value="/anon.html&lt;br&gt;(nginx must redirect to index.md)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="11" y="103" width="123" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-20" value="Contributor Workflow" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-371" y="368" width="164" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wyT4RtoKeS5dkRbzmTDR-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-245" y="483.0952380952381" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-21" value="Fork the repo on git" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+          <mxGeometry x="-307" y="418" width="124" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wyT4RtoKeS5dkRbzmTDR-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-245" y="553.5714285714284" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-22" value="torsocks git clone&lt;br&gt;the repo locally" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+          <mxGeometry x="-307" y="486" width="124" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wyT4RtoKeS5dkRbzmTDR-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-245" y="673.5714285714284" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-23" value="Open repo in vscodium ?&lt;br&gt;(need FOSS markdown editor where you can easily copy paste images into it)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="-342" y="555" width="194" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wyT4RtoKeS5dkRbzmTDR-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-245" y="778.8095238095239" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-24" value="As a contributor: do some edits to contribute changes and new tutorials to the blog" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+          <mxGeometry x="-342" y="676" width="194" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-28" value="do a PR and keep pushing commits to it until the maintainer approves the new change" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+          <mxGeometry x="-345" y="781" width="200" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-30" value="Repository architecture:" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-81" y="368" width="164" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-31" value="blog-contributions&lt;br&gt;git repo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+          <mxGeometry x="-28" y="418" width="164" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-32" value="docker-compose.yml" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="18" y="878" width="164" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-34" value="docs/" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
+          <mxGeometry x="-7" y="508" width="164" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-35" value="opsec-blogposts &lt;br&gt;sub-git repo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+          <mxGeometry x="18" y="545" width="164" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-36" value="productivity-blogposts&lt;br&gt;&amp;nbsp;sub-git repo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+          <mxGeometry x="18" y="584" width="164" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-37" value="selfhosting-blogposts &lt;br&gt;sub-git repo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+          <mxGeometry x="18" y="623" width="164" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-38" value="hacking-blogposts &lt;br&gt;sub-git repo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+          <mxGeometry x="18" y="662" width="164" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-39" value="nginx.conf" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="18" y="916" width="164" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-40" value="entry.sh" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="18" y="954" width="164" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-41" value="mkdocs.yml" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="-7" y="701" width="164" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-43" value="Auto generated header" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+          <mxGeometry x="717" y="-6" width="141" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-44" value="Blogpost presentation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+          <mxGeometry x="717" y="57" width="141" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-46" value="The Nihilism Opsec Blog" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+          <mxGeometry x="871" y="-6" width="211" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wyT4RtoKeS5dkRbzmTDR-47" target="wyT4RtoKeS5dkRbzmTDR-83" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-47" value="nav: the list of all blogposts, in all of their subcategories, etc" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+          <mxGeometry x="10" y="742" width="164" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-48" value="Written by: Anonymous - Date" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+          <mxGeometry x="766" y="108" width="208" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-53" value="- XMR ADDR - SXC Contact Link (optional, commented by default)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="990" y="108" width="235" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-54" value="Title: How to buy Monero Anonymously" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+          <mxGeometry x="766" y="151" width="261" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-55" value="Description: in this tutorial we&#39;re going to explain A,B,C and showcase X,Y,Z" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+          <mxGeometry x="766" y="194" width="471" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-56" value="This blogpost requires you to read these other blogposts [1] [2] [3] [4] [5]" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+          <mxGeometry x="766" y="234" width="471" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-58" value="Blogpost Content" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+          <mxGeometry x="717" y="309" width="141" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-59" value="(fuck tags, they&#39;re useless with mkdocs&#39; search feature)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="763" y="276" width="354" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-60" value="Why is this important ? In which context ?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+          <mxGeometry x="766" y="366" width="282" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-61" value="Situation example that highlights the problem" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+          <mxGeometry x="823" y="418" width="287" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-62" value="(optional) Visual representation of said problem with a graph" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+          <mxGeometry x="823" y="464" width="327" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-63" value="In this context, the problem is X, so we need to find a solution that meets these opsec requirements" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+          <mxGeometry x="823" y="508" width="327" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-64" value="What is the solution ?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+          <mxGeometry x="766" y="555" width="149" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-65" value="Graph image to explain the solution" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+          <mxGeometry x="823" y="608" width="233" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-66" value="The solution is W because it does A,B,C to meet the opsec requirements we have." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+          <mxGeometry x="823.5" y="655" width="312.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-67" value="How can I implement the solution ?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+          <mxGeometry x="766" y="703" width="228" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-68" value="New Opsec Blogpost template&lt;br&gt;(/opsec/_template/index.md)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="652" y="-58" width="219" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-69" value="Context: We&#39;re going to start our tutorial from inside a functional Whonix VM, make sure you implement the setup showcased in [2] before you begin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+          <mxGeometry x="823.5" y="753" width="402.5" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-70" value="Step 1) TXT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+          <mxGeometry x="823.5" y="812" width="85.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-71" value="Step 2) ```terminal output```" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+          <mxGeometry x="915" y="812" width="193" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-72" value="Step 3) ![img](1.png)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+          <mxGeometry x="1114" y="812" width="143" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-73" value="Conclusion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+          <mxGeometry x="765.75" y="857" width="95" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-75" value="Thanks to this tutorial, you now know A,B,C / you managed to implement X,Y,Z" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+          <mxGeometry x="822.75" y="908" width="494" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-76" value="Auto generated footer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+          <mxGeometry x="716.75" y="956" width="84.25" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-77" value="Until there is nothing left" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+          <mxGeometry x="822.75" y="956" width="173" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-78" value="Simplex Chatroom links" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+          <mxGeometry x="1008.75" y="956" width="173" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-79" value="Donate (XMR ADDR)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+          <mxGeometry x="1190.75" y="956" width="142" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-81" value="Creative commons 0 (no rights reserved (public domain)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+          <mxGeometry x="822.75" y="998" width="173" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-82" value="LEGAL DISCLAIMER" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+          <mxGeometry x="1008.75" y="998" width="173" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-83" value="Blog Navigation organisation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="287" y="370" width="164" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-85" value="Left navigation bar on Opsec / Productivity / Self-hosting / Hacking" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+          <mxGeometry x="314" y="418" width="428" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-87" value="Categories (Privacy / Anonymity / Deniability)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+          <mxGeometry x="333" y="459" width="294" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-89" value="Sub-Categories&amp;nbsp; (Explaining Privacy / Decentralised Finances, etc)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+          <mxGeometry x="354" y="501" width="238" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-93" value="Tutorial title (link to the finished tutorial)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
+          <mxGeometry x="376" y="543" width="262" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-94" value="opsec/index.md" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" parent="1" vertex="1">
+          <mxGeometry x="314" y="590" width="126" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-95" value="check out our existing tutorials on the left navbar" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" parent="1" vertex="1">
+          <mxGeometry x="333" y="634" width="327" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.767;exitY=1.013;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="wyT4RtoKeS5dkRbzmTDR-98" target="wyT4RtoKeS5dkRbzmTDR-102" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="586" y="731" />
+              <mxPoint x="586" y="834" />
+              <mxPoint x="-45" y="834" />
+              <mxPoint x="-45" y="481" />
+            </Array>
+            <mxPoint x="586.0000000000005" y="853" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vy8a5MhpY1fRt_xE5VM2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wyT4RtoKeS5dkRbzmTDR-98" target="vy8a5MhpY1fRt_xE5VM2-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-98" value="This blog is a work in progress, we are currently offering 10 to 50 euros for whoever is going to contribute the following tutorials on our Forgejo instance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" parent="1" vertex="1">
+          <mxGeometry x="333" y="673" width="327" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-102" value="Git issues&amp;nbsp; #204, #205, etc" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="-7" y="464" width="196" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="wyT4RtoKeS5dkRbzmTDR-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.859;entryY=1.029;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="wyT4RtoKeS5dkRbzmTDR-95" target="wyT4RtoKeS5dkRbzmTDR-85" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="682" y="651" />
+              <mxPoint x="682" y="543" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vy8a5MhpY1fRt_xE5VM2-1" value="Here&#39;s the How to contribute guide" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" parent="1" vertex="1">
+          <mxGeometry x="414" y="769" width="165" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="GvfdR6HeyH8xZ-KoJXLc-1" value="blog-deploy&lt;br&gt;git repo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="-7" y="840" width="164" height="33" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

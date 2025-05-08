@@ -1,0 +1,148 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram name="Page-1" id="qvUqTVi_m56ZG5ivpzJK">
+    <mxGraphModel dx="1432" dy="883" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="46JsVXyUa3pXCljOW_3D-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="46JsVXyUa3pXCljOW_3D-1" target="46JsVXyUa3pXCljOW_3D-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="46JsVXyUa3pXCljOW_3D-1" value="Monero Daemon" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="340" y="550" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="46JsVXyUa3pXCljOW_3D-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="46JsVXyUa3pXCljOW_3D-2" target="46JsVXyUa3pXCljOW_3D-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="46JsVXyUa3pXCljOW_3D-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="46JsVXyUa3pXCljOW_3D-2" target="46JsVXyUa3pXCljOW_3D-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="46JsVXyUa3pXCljOW_3D-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="46JsVXyUa3pXCljOW_3D-2" target="46JsVXyUa3pXCljOW_3D-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="46JsVXyUa3pXCljOW_3D-2" value="Monero RPC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="340" y="480" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="46JsVXyUa3pXCljOW_3D-3" value="Local&lt;br&gt;Monero Blockchain" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="340" y="620" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="46JsVXyUa3pXCljOW_3D-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="46JsVXyUa3pXCljOW_3D-10" target="46JsVXyUa3pXCljOW_3D-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="46JsVXyUa3pXCljOW_3D-18" value="2) if new transaction&lt;div&gt;that is more than 0.01 XMR:&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="46JsVXyUa3pXCljOW_3D-17" vertex="1" connectable="0">
+          <mxGeometry x="-0.6173" y="-1" relative="1" as="geometry">
+            <mxPoint x="13" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="46JsVXyUa3pXCljOW_3D-10" value="MoneroSSO.py" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+          <mxGeometry x="340" y="374" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="46JsVXyUa3pXCljOW_3D-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=-0.075;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="46JsVXyUa3pXCljOW_3D-10" target="46JsVXyUa3pXCljOW_3D-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="46JsVXyUa3pXCljOW_3D-15" value="1) monitors incoming monero transactions &lt;br&gt;that are more than 0.01 XMR" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="46JsVXyUa3pXCljOW_3D-12" vertex="1" connectable="0">
+          <mxGeometry x="-0.2108" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="46JsVXyUa3pXCljOW_3D-13" value="Local Monero&lt;div&gt;Wallet keys&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="180" y="480" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="46JsVXyUa3pXCljOW_3D-16" value="txids.csv:&lt;br&gt;(txid (32chars), sxclink)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+          <mxGeometry x="893" y="374" width="216" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="46JsVXyUa3pXCljOW_3D-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="46JsVXyUa3pXCljOW_3D-19" target="46JsVXyUa3pXCljOW_3D-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="647" y="394" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="46JsVXyUa3pXCljOW_3D-22" value="4) one-time invite link is created&lt;br&gt;and stored into txids.csv" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="46JsVXyUa3pXCljOW_3D-21" vertex="1" connectable="0">
+          <mxGeometry x="-0.8538" y="2" relative="1" as="geometry">
+            <mxPoint x="52" y="17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="46JsVXyUa3pXCljOW_3D-19" value="(complex part) 3)&lt;br&gt;Query the SimpleX bot to create a one-time invite link to his private messages" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+          <mxGeometry x="582" y="243" width="131" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="46JsVXyUa3pXCljOW_3D-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.305;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="46JsVXyUa3pXCljOW_3D-10" target="46JsVXyUa3pXCljOW_3D-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="622" y="394" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="46JsVXyUa3pXCljOW_3D-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="46JsVXyUa3pXCljOW_3D-23" target="46JsVXyUa3pXCljOW_3D-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="46JsVXyUa3pXCljOW_3D-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="46JsVXyUa3pXCljOW_3D-23" target="46JsVXyUa3pXCljOW_3D-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="46JsVXyUa3pXCljOW_3D-23" value="index.php displays a search bar that only accepts 32 length [a-zA-Z0-9] characters" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="680" y="458" width="161" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="46JsVXyUa3pXCljOW_3D-24" value="upon successful searches, it either displays 0 results found (and the tutorial on how to use moneroSSO)&lt;br&gt;or it displays 1 result found with the one-time simplex invite links for the user" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="879" y="453.5" width="255" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="46JsVXyUa3pXCljOW_3D-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.478;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="46JsVXyUa3pXCljOW_3D-16" target="46JsVXyUa3pXCljOW_3D-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="46JsVXyUa3pXCljOW_3D-27" value="Displays the main address to recieve monero to, with the minimum fee to enter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="695" y="567" width="131" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="46JsVXyUa3pXCljOW_3D-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="46JsVXyUa3pXCljOW_3D-31" target="46JsVXyUa3pXCljOW_3D-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="46JsVXyUa3pXCljOW_3D-38" value="5) after 20 minutes, Bob queries index.php&lt;br&gt;with his transaction id (txid) that only he can know&lt;div&gt;since monero is an opaque blockchain&lt;br&gt;to retrieve the simplex invite links&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="46JsVXyUa3pXCljOW_3D-37" vertex="1" connectable="0">
+          <mxGeometry x="0.5817" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="46JsVXyUa3pXCljOW_3D-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="46JsVXyUa3pXCljOW_3D-31" target="46JsVXyUa3pXCljOW_3D-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="46JsVXyUa3pXCljOW_3D-31" value="Bob" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="745.5" y="762" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="46JsVXyUa3pXCljOW_3D-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="46JsVXyUa3pXCljOW_3D-33" target="46JsVXyUa3pXCljOW_3D-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="46JsVXyUa3pXCljOW_3D-36" value="0) sends payment" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="46JsVXyUa3pXCljOW_3D-35" vertex="1" connectable="0">
+          <mxGeometry x="-0.0395" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="46JsVXyUa3pXCljOW_3D-33" value="Monero wallet" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="705.5" y="708" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="46JsVXyUa3pXCljOW_3D-39" value="6) Bob uses the simplex links to pm the chatbot" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+          <mxGeometry x="556" y="815" width="154" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="-Vszkuxx2wn_4AuHNUGq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-Vszkuxx2wn_4AuHNUGq-5" target="-Vszkuxx2wn_4AuHNUGq-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Vszkuxx2wn_4AuHNUGq-5" value="7)&amp;nbsp;bot asks for a valid txid&lt;br&gt;(meaning it can grep txids.csv)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="557" y="894" width="181" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="-Vszkuxx2wn_4AuHNUGq-6" value="8) bot deletes the contact" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="762" y="947" width="177" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="-Vszkuxx2wn_4AuHNUGq-8" value="-if invalid txid (check charlength+characters used)&lt;br&gt;OR&lt;br&gt;-if user took more than 1 hour to respond" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="750" y="867" width="282" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="-Vszkuxx2wn_4AuHNUGq-9" value="8) bot invites the user to all groups it can invite the user to, before deleting the contact" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="671" y="997" width="177" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-Vszkuxx2wn_4AuHNUGq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.416;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-Vszkuxx2wn_4AuHNUGq-5" target="-Vszkuxx2wn_4AuHNUGq-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Vszkuxx2wn_4AuHNUGq-11" value="if valid&lt;div&gt;txid&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="587" y="984" width="52" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="-Vszkuxx2wn_4AuHNUGq-12" value="edit: this is because you can&#39;t create one time invite links&lt;div&gt;to simplex chatrooms, that you&#39;re forced to go this route:&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="835" y="284" width="319" height="41" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

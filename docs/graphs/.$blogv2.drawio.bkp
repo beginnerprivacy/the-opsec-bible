@@ -1,0 +1,258 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
+  <diagram name="Page-1" id="_189QIhz6FFD1xpLvecC">
+    <mxGraphModel dx="951" dy="592" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-1" value="Nihilism blog v2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="426" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-2" value="http://blogv2instanceA.onion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="490" y="579" width="183" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-3" value="/CATEGORYNAME" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="675" y="579" width="117" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-4" value="/TUTORIALNAME" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="795" y="579" width="117" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-5" value="/FILES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="915" y="579" width="60" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-6" value="/opsec" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="675" y="628" width="117" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-7" value="/template&lt;br&gt;/privacy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="795" y="628" width="117" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oRRGoAwnmkV9mpnqc_Aq-8" target="oRRGoAwnmkV9mpnqc_Aq-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-8" value="/index.md" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="915" y="628" width="92" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-9" value="/1.png" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="915" y="677" width="92" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-10" value="/nihilism" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="795" y="677" width="117" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-11" value="/productivity" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="675" y="677" width="117" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-12" value="http://blogv2instanceB.onion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="490" y="628" width="183" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-13" value="Blog v2 URLs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="419" y="525" width="106" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oRRGoAwnmkV9mpnqc_Aq-14" target="oRRGoAwnmkV9mpnqc_Aq-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oRRGoAwnmkV9mpnqc_Aq-14" target="oRRGoAwnmkV9mpnqc_Aq-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-14" value="TEMPLATE&lt;br&gt;index.md" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="1142" y="628" width="92" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-16" value="Written by: Anonymous - Date" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="1397" y="594" width="219" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-18" value="- XMR ADDR - SXC Contact Link" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="1622" y="594" width="219" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-19" value="Title: how to buy Monero Anonymously" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="1397" y="633.5" width="267" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-20" value="Description: in this tutorial we&#39;re going to explain A,B,C and showcase X,Y,Z" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="1397" y="673.5" width="483" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-21" value="Tags: [tutorial] [Monero] [Haveno] [Tor] [Anonymity] [cryptocurrency]" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="1397" y="750" width="436" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oRRGoAwnmkV9mpnqc_Aq-22" target="oRRGoAwnmkV9mpnqc_Aq-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oRRGoAwnmkV9mpnqc_Aq-22" target="oRRGoAwnmkV9mpnqc_Aq-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oRRGoAwnmkV9mpnqc_Aq-22" target="oRRGoAwnmkV9mpnqc_Aq-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oRRGoAwnmkV9mpnqc_Aq-22" target="oRRGoAwnmkV9mpnqc_Aq-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-22" value="Blogpost Content" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="1315" y="787" width="92" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oRRGoAwnmkV9mpnqc_Aq-23" target="oRRGoAwnmkV9mpnqc_Aq-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oRRGoAwnmkV9mpnqc_Aq-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1392" y="607.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oRRGoAwnmkV9mpnqc_Aq-23" target="oRRGoAwnmkV9mpnqc_Aq-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oRRGoAwnmkV9mpnqc_Aq-23" target="oRRGoAwnmkV9mpnqc_Aq-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oRRGoAwnmkV9mpnqc_Aq-23" target="oRRGoAwnmkV9mpnqc_Aq-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-23" value="Blogpost Presentation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="1315" y="544" width="94" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-24" value="Why is this important ? in which context ?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="1397" y="841" width="296" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-25" value="Situation to highlight the problem" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="1433" y="881" width="231" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-26" value="In this context, the problem is X, so we need to find a solution that meets these opsec requirements." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="1433" y="947" width="434" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-27" value="This blogpost requires you to read these other blogposts [1] [2] [3] [4] [5] [6]" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="1397" y="712" width="487" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-28" value="Optional: Visual representation of the problem" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="1433" y="913" width="298" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-29" value="What is the solution ?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="1397" y="991" width="200" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-30" value="Graph image to explain the solution" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="1433" y="1027" width="231" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-31" value="The solution is W because it does A,B,C to meet the opsec requirements we have." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="1433" y="1063" width="328" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-32" value="How can I implement the solution ?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="1397" y="1107" width="261" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-33" value="Step 1) TXT + ```terminal output```" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="1433" y="1180" width="238" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-34" value="Step 2) TXT + ![img](1.png)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="1433" y="1222" width="190" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-35" value="Context: We&#39;re going to start our tutorial from inside a functional whonix VM, make sure you implement the setup showcased in [2] before you begin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="1433" y="1138" width="495" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-36" value="Conclusion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="1397.5" y="1268" width="106.5" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-37" value="Thanks to this tutorial you now know A,B,C / you managed to implement A,B,C to do XYZ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="1435.5" y="1304" width="331.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-52" value="Auto generated header" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="1315" y="472" width="94" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-53" value="The Nihilism Opsec Blog" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="472" width="181" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-54" value="Auto generated footer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="1261" y="1355" width="94" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-55" value="Until there is nothing left" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="1366" y="1355" width="181" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-56" value="Simplex Chatrooms link" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="1563" y="1355" width="181" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-57" value="Donate (XMR ADDR)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="1754" y="1355" width="181" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-58" value="Creative commons 0&lt;br&gt;no rights reserved&lt;br&gt;(public domain)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="1366" y="1410" width="181" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-59" value="LEGAL DISCLAIMER" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="1563" y="1410" width="181" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oRRGoAwnmkV9mpnqc_Aq-61" target="oRRGoAwnmkV9mpnqc_Aq-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-61" value="torsocks git clone repo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="491" y="880" width="94" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oRRGoAwnmkV9mpnqc_Aq-62" target="oRRGoAwnmkV9mpnqc_Aq-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-62" value="open repo in vscodium ?&lt;br&gt;(need a FOSS markdown editor where it is easy to copy paste images into it directly (vscodium cant do it, is it important ? imo it&#39;d be convenient)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="428" y="977" width="220" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oRRGoAwnmkV9mpnqc_Aq-64" target="oRRGoAwnmkV9mpnqc_Aq-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-64" value="as a contributor: do some edits to contribute changes and new tutorials to the blog" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="428" y="1118" width="220" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-66" value="do a PR and keep pushing commits to it until the maintainer approves the new change" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="428" y="1242" width="220" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oRRGoAwnmkV9mpnqc_Aq-68" target="oRRGoAwnmkV9mpnqc_Aq-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-68" value="fork the repo on git" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="491" y="788" width="94" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-70" value="Contributor Workflow" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="753" width="145" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-71" value="/search.md" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="795" y="525" width="117" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-72" value="by searching for keywords you can find all the tutorials that match the search&lt;br&gt;(thats the main feature that justifies this v2 blog)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="614" y="460" width="486" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-73" value="secondary main feature that justifies the v2 blog:&lt;br&gt;markdown tutorials, that way you have a way to&lt;br&gt;display the blog content on git repos directly,&lt;br&gt;and it&#39;s easier for the contributor to contribute&lt;br&gt;by following the markdown syntax instead of some&lt;br&gt;wacky html syntax" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1424" y="368" width="325" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-75" value="blog v2&lt;br&gt;Repository architecture" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="691" y="800" width="158" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oRRGoAwnmkV9mpnqc_Aq-76" target="oRRGoAwnmkV9mpnqc_Aq-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oRRGoAwnmkV9mpnqc_Aq-76" target="oRRGoAwnmkV9mpnqc_Aq-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oRRGoAwnmkV9mpnqc_Aq-76" target="oRRGoAwnmkV9mpnqc_Aq-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oRRGoAwnmkV9mpnqc_Aq-76" target="oRRGoAwnmkV9mpnqc_Aq-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-76" value="hugo papermod repo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="806" y="921" width="142" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-77" value="opsec repo&lt;br&gt;(.md, images only)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="899.5" y="1001.75" width="129" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-78" value="productivity repo&lt;br&gt;(.md, images only)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="898" y="1060.75" width="130.5" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-79" value="Sysadmin repo&lt;br&gt;(.md, images only)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="898" y="1116.75" width="129.5" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-80" value="Hacking repo&lt;br&gt;(.md, images only)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="898.5" y="1173.75" width="129.5" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-87" value="in the /content/ directory" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="877" y="973" width="168" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oRRGoAwnmkV9mpnqc_Aq-88" target="oRRGoAwnmkV9mpnqc_Aq-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-88" value="hugo website repo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="806" y="841" width="142" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="oRRGoAwnmkV9mpnqc_Aq-90" value="custom theme to read markdown format&lt;br&gt;and have the search feature" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="884" y="883" width="262" height="41" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

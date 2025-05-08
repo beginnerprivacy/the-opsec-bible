@@ -1,0 +1,96 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
+  <diagram name="Page-1" id="RWmsqHgyRHMH1pghMqka">
+    <mxGraphModel dx="1329" dy="547" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6Ez2BBToBHGICFVbS4Az-1" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Nowadays&#39; Online Opsec discussions&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="867" width="479" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="6Ez2BBToBHGICFVbS4Az-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#a20025;strokeColor=#6F0000;" edge="1" parent="1" source="6Ez2BBToBHGICFVbS4Az-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="433" y="916.0384615384615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Ez2BBToBHGICFVbS4Az-3" value="&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;Individual C&lt;br&gt;(acting in&lt;br&gt;bad faith)&lt;/font&gt;" style="image;html=1;image=img/lib/clip_art/people/Scientist_Man_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="393" y="969" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Ez2BBToBHGICFVbS4Az-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="6Ez2BBToBHGICFVbS4Az-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="916.8076923076923" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Ez2BBToBHGICFVbS4Az-4" value="&lt;font style=&quot;color: rgb(0, 204, 0);&quot;&gt;Individual A&lt;br&gt;(acting in &lt;br&gt;good faith)&lt;/font&gt;" style="image;html=1;image=img/lib/clip_art/people/Farmer_Woman_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="140" y="969" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Ez2BBToBHGICFVbS4Az-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="6Ez2BBToBHGICFVbS4Az-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="306.5000000000001" y="916.0384615384615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Ez2BBToBHGICFVbS4Az-6" value="&lt;font style=&quot;color: rgb(0, 204, 0);&quot;&gt;Individual B&lt;br&gt;(acting in&lt;br&gt;good faith)&lt;/font&gt;" style="image;html=1;image=img/lib/clip_art/people/Farmer_Man_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="266.5" y="969" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Ez2BBToBHGICFVbS4Az-14" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;- spreads FUD (over-skepticism)&amp;nbsp;&lt;br&gt;- spreads minimization fallacies (complacency at the expense of objectivity)&lt;br&gt;- overcomplicates advice unecessarily to discourage people&lt;br&gt;- Derails discussions to avoid them being productive&lt;br&gt;- resorts to ad hominem to discredit people instead of refuting advice&lt;br&gt;- ask the same questions 100 times to slow down progress&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="401" y="1101" width="476" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="6Ez2BBToBHGICFVbS4Az-15" value="&lt;font style=&quot;color: rgb(0, 204, 0);&quot;&gt;- Truth seeking attitude, clear goals, and solution seeking&lt;br&gt;- When wrong, admits being wrong without making a fuss about it&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 204, 0);&quot;&gt;- suggests improvements to other people&#39;s setups whenever valid&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 204, 0);&quot;&gt;- continuously asks questions to know more&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 204, 0);&quot;&gt;- discovery process, investigating what is possible or not&lt;br&gt;- doesn&#39;t ask the same question 100 times to slow down progress&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-36" y="1101" width="415" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="6Ez2BBToBHGICFVbS4Az-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#a20025;strokeColor=#6F0000;" edge="1" parent="1" source="6Ez2BBToBHGICFVbS4Az-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="568" y="916.6666666666666" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Ez2BBToBHGICFVbS4Az-17" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Individual D&lt;br&gt;(acting in&lt;br&gt;bad faith)&lt;/font&gt;" style="image;html=1;image=img/lib/clip_art/people/Telesales_Man_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="528" y="972" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Ez2BBToBHGICFVbS4Az-20" value="&lt;span style=&quot;font-size: 31px;&quot;&gt;ANARCHISM&lt;br&gt;(seeking to protect &lt;br&gt;individual freedom)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="54" y="1195" width="320" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="6Ez2BBToBHGICFVbS4Az-21" value="&lt;font style=&quot;font-size: 31px; color: rgb(255, 0, 0);&quot;&gt;STATISM&lt;br&gt;(seeking to undermine&lt;br&gt;individual freedom)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="393" y="1195" width="369" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="6Ez2BBToBHGICFVbS4Az-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Ez2BBToBHGICFVbS4Az-22" target="6Ez2BBToBHGICFVbS4Az-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Ez2BBToBHGICFVbS4Az-22" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;using Signal to chat with someone&lt;br&gt;privately&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="22" y="696" width="275" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="6Ez2BBToBHGICFVbS4Az-23" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;using Simplex to chat with someone&lt;br&gt;privately&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="353" y="698" width="275" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="6Ez2BBToBHGICFVbS4Az-24" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;requires internet connectivity&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="22" y="559" width="275" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="6Ez2BBToBHGICFVbS4Az-25" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;requires a phone number to sign up&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="22" y="415" width="275" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="6Ez2BBToBHGICFVbS4Az-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.501;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6Ez2BBToBHGICFVbS4Az-24" target="6Ez2BBToBHGICFVbS4Az-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Ez2BBToBHGICFVbS4Az-28" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;requires internet connectivity&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="559" width="275" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="6Ez2BBToBHGICFVbS4Az-29" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;Private e2ee chats&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="22" y="269" width="614" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="6Ez2BBToBHGICFVbS4Az-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.225;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6Ez2BBToBHGICFVbS4Az-25" target="6Ez2BBToBHGICFVbS4Az-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Ez2BBToBHGICFVbS4Az-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.766;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6Ez2BBToBHGICFVbS4Az-28" target="6Ez2BBToBHGICFVbS4Az-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Ez2BBToBHGICFVbS4Az-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.49;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6Ez2BBToBHGICFVbS4Az-23" target="6Ez2BBToBHGICFVbS4Az-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Ez2BBToBHGICFVbS4Az-33" value="Unecessary, unjustified complication&lt;br&gt;= offtopic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="803" width="239" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="6Ez2BBToBHGICFVbS4Az-34" value="simplest solution that actually&lt;br&gt;delivers opsec-wise&lt;br&gt;= on topic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="391" y="794" width="199" height="55" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
