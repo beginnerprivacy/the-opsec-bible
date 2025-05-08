@@ -2,7 +2,7 @@ site_name: The Nihilism OPSEC blog
 site_url: http://blog.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/
 theme:
   name: material
-  custom_dir: docs/opsec
+  custom_dir: overrides
   palette:
 
     # Palette toggle for dark mode
@@ -561,8 +561,8 @@ plugins:
   - privacy
   - search
 
-#markdown-extensions:
-#  - meta
+markdown_extensions:
+  - meta
 
 repo_url: http://git.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/nihilist/blog-contributions
 repo_name: nihilist/blog-contributions
