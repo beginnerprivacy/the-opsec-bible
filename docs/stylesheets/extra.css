@@ -22,3 +22,7 @@
 img {
   max-height: 800px;
 }
+
+code {
+  word-wrap: break-word;
+}
