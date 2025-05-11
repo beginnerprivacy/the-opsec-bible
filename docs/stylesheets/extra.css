@@ -23,6 +23,10 @@ img {
   max-height: 800px;
 }
 
+.md-typeset pre > code {
+  word-break: break-word;
+  overflow: unset;
+}
 
 .md-typeset code {
   padding: 9.5px;
