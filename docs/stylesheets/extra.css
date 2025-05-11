@@ -32,12 +32,11 @@ img {
   white-space: pre-wrap;
 
   background-color: #000000;
-  border-color: #f09018;
-  margin: 1em 0;
 }
 
 .md-typeset pre {
-  /*overflow: unset;*/
+  border-color: #f09018;
+  margin: 1em 0;
 }
 
 strong {
