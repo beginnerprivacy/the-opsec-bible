@@ -37,6 +37,8 @@ img {
 .md-typeset pre {
   border-color: #f09018;
   margin: 1em 0;
+  border-width: 1px;
+  border-style: solid;
 }
 
 strong {
