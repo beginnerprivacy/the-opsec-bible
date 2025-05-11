@@ -8,15 +8,15 @@ theme:
     # Palette toggle for dark mode
     - scheme: slate
       primary: deep purple
-      accent: deep purple
+      accent: orange
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
 
     # Palette toggle for light mode
     - scheme: default
-      primary: indigo
-      accent: indigo
+      primary: orange
+      accent: deep purple
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
@@ -32,6 +32,7 @@ theme:
 nav:
   - OPSEC:
     - opsec/index.md
+    - opsec/whytheblog/index.md
     - OPSEC Introduction:
       - 📝 Explaining Concepts:
         - opsec/aps/index.md
