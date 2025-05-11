@@ -24,6 +24,7 @@ img {
 }
 
 .md-typeset pre > code {
+  word-break: break-all;
   word-break: break-word;
   overflow: unset;
 }
