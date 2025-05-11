@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
   <diagram name="Page-1" id="YaltkXUbTmxIE2NtYj1t">
-    <mxGraphModel dx="1912" dy="1125" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1546" dy="890" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -143,7 +143,7 @@
           <mxGeometry x="1701" y="390" width="201" height="89" as="geometry" />
         </mxCell>
         <mxCell id="b_qoK0y8lgKdcArtdpya-46" value="Showing the important parts of the commandline (copy paste into the backticks code blocks), taking screenshots (with arrows to show where to click), and taking pictures (with arrows too)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
-          <mxGeometry x="1697" y="499" width="209" height="97" as="geometry" />
+          <mxGeometry x="1698" y="499" width="207" height="97" as="geometry" />
         </mxCell>
         <mxCell id="b_qoK0y8lgKdcArtdpya-50" value="Talking about the path is for lazy blogwriters.&lt;br&gt;&lt;b&gt;You are expected to show everyone&lt;br&gt;&amp;nbsp;HOW you are walking that path,&amp;nbsp;&lt;br&gt;without skipping any detail&lt;/b&gt;&lt;br&gt;and accurately explain what you are doing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1907" y="392.5" width="289" height="84" as="geometry" />
@@ -158,7 +158,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b_qoK0y8lgKdcArtdpya-54" value="Fix all of your spelling&amp;nbsp; + Grammar mistakes by using vscodium&#39;s plugin &quot;LTeX+&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
-          <mxGeometry x="1792" y="205.5" width="136" height="88" as="geometry" />
+          <mxGeometry x="1792" y="205.5" width="187" height="88" as="geometry" />
         </mxCell>
         <mxCell id="b_qoK0y8lgKdcArtdpya-56" value="Acceptable, &lt;u&gt;and expected&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="1170" y="547" width="193" height="30" as="geometry" />

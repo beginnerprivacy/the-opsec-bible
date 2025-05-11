@@ -1,5 +1,3 @@
-# The Nihilism Blog
-
 ## [Operational Security: Privacy, Anonymity and Deniability](opsec/index.md)
 ![](opsec/opsec4levels/0.png)
 

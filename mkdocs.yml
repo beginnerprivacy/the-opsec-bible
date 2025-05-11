@@ -43,34 +43,34 @@ nav:
         - opsec/opsec/index.md
         - opsec/multiple_identities/index.md
         - opsec/chats/index.md
-    - Level 1 | Privacy:
+    - Opsec Level 1 | Privacy:
       - 📝 Explaining Privacy:
         - opsec/privacy/index.md
         - opsec/closedsource/index.md
         - opsec/openhardware/index.md
         - opsec/serversideencryption/index.md
-      - 💻 Getting Started:
-        - opsec/linux/index.md
-        - opsec/graphene/index.md
-        - opsec/privatesimplex/index.md
-        - opsec/qubesos/index.md
-      - 💻 File Sharing:
-        - opsec/syncthingvpn/index.md
-        - opsec/p2ptorrents/index.md
-      - 💻 Maintaining Privacy:
-        - opsec/compilation/index.md
-        - opsec/hypervisorsetup/index.md
-        - opsec/passwordmanagement/index.md
-        - opsec/pgp/index.md
-        - opsec/qubesosnetwork/index.md
-      - 💻 Privacy from your ISP:
-        - opsec/vpn/index.md
-        - opsec/vpnqemu/index.md
+      - 💻 Clientside Privacy:
+        - Host OS Setup:
+          - opsec/linux/index.md
+          - opsec/graphene/index.md
+          - opsec/hypervisorsetup/index.md
+          - opsec/vpn/index.md
+          - opsec/vpnqemu/index.md
+        - 💻 Private VM Privacy:
+          - opsec/privatesimplex/index.md
+          - opsec/compilation/index.md
+          - opsec/passwordmanagement/index.md
+          - opsec/pgp/index.md
+          - opsec/syncthingvpn/index.md
+          - opsec/p2ptorrents/index.md
+        - Misc Qubes OS:
+          - opsec/qubesos/index.md
+          - opsec/qubesosnetwork/index.md
       #- 💻 Monitoring that your Privacy is intact:
       #- ⚠️ Miscellaneous - In real life:
-      - 💻 Serverside Privacy:
+      - 💻 Serverside Privacy (Self-Hosting):
         - opsec/selfhosting/index.md
-    - Level 2 | Anonymity:
+    - Opsec Level 2 | Anonymity:
       - 📝 Explaining Anonymity:
         - opsec/anonymityexplained/index.md
         - opsec/anonuse/index.md
@@ -80,14 +80,15 @@ nav:
         - opsec/torthroughvpn/index.md
         - opsec/clearnetvsdarknet/index.md
         - opsec/darknetexploration/index.md
-      - 💻 Clientside - Anonymity:
-        - opsec/whonixqemuvms/index.md
-        - opsec/torbrowsing/index.md
-        - opsec/whentorisblocked/index.md
-        - opsec/anonproxy/index.md
-        - opsec/anonsimplex/index.md
-        - opsec/anonsms/index.md
-        - opsec/anonemail/index.md
+      - 💻 Clientside Anonymity:
+        - Anonymous VM Anonymity:
+          - opsec/anonsimplex/index.md
+          - opsec/whonixqemuvms/index.md
+          - opsec/torbrowsing/index.md
+          - opsec/whentorisblocked/index.md
+          - opsec/anonproxy/index.md
+          - opsec/anonsms/index.md
+          - opsec/anonemail/index.md
       - 💻 Using AI for Anonymity:
         - opsec/openwebuilocalllms/index.md
         - opsec/stylometry/index.md
@@ -134,7 +135,7 @@ nav:
         - opsec/mailprivate/index.md
       - ⚠️ Miscellaneous - In real life:
         - opsec/anonprotest/index.md
-    - Level 3 | Deniability:
+    - Opsec Level 3 | Deniability:
       - 📝 Explaining Plausible Deniability:
         - opsec/stancesensitive/index.md
         - opsec/deniability/index.md
