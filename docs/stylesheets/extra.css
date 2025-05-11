@@ -23,11 +23,22 @@ img {
   max-height: 800px;
 }
 
-code {
+md-typeset pre code {
   word-wrap: break-word;
 }
 
-strong { 
+strong {
+  background-color: #08101c;
+  color: #e5ae39;
+  padding-right: 1px;
+  padding-left: 1px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  border: 2px solid #08101c;
+  border-radius: 5px;
+}
+
+md-typeset strong { 
   background-color: #08101c;
   color: #e5ae39;
   padding-right: 1px;
