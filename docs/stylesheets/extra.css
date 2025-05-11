@@ -29,13 +29,11 @@ img {
   line-height: 1.428571429;
   color: #FFFFFF;
   
-  /*white-space: pre-wrap;
-  word-wrap: break-word;*/
+  white-space: pre-wrap;
 
   background-color: #000000;
   border-color: #f09018;
   margin: 1em 0;
-  overflow-wrap: break-word;
 }
 
 .md-typeset pre {
