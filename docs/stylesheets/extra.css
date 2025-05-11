@@ -27,7 +27,7 @@ code {
   word-wrap: break-word;
 }
 
-b { 
+strong { 
   background-color: #08101c;
   color: #e5ae39;
   padding-right: 1px;
@@ -37,3 +37,4 @@ b {
   border: 2px solid #08101c;
   border-radius: 5px;
 }
+
