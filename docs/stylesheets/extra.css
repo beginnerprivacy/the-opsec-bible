@@ -23,10 +23,6 @@ img {
   max-height: 800px;
 }
 
-.md-typeset pre > code {
-  word-wrap: break-word;
-  border-color:#e5ae39;
-}
 
 .md-typeset pre {
   padding: 9.5px;
