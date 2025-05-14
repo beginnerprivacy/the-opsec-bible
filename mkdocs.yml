@@ -44,7 +44,7 @@ nav:
         - opsec/opsec/index.md
         - opsec/multiple_identities/index.md
         - opsec/chats/index.md
-    - Opsec Level 1 | Privacy:
+    - OPSEC Level 1 | Privacy:
       - 📝 Explaining Privacy:
         - opsec/privacy/index.md
         - opsec/closedsource/index.md
@@ -61,111 +61,136 @@ nav:
           - opsec/privatesimplex/index.md
           - opsec/compilation/index.md
           - opsec/passwordmanagement/index.md
-          - opsec/pgp/index.md
           - opsec/syncthingvpn/index.md
           - opsec/p2ptorrents/index.md
-        - Misc Qubes OS:
+        - Misc - Qubes OS:
           - opsec/qubesos/index.md
           - opsec/qubesosnetwork/index.md
-      #- 💻 Monitoring that your Privacy is intact:
-      #- ⚠️ Miscellaneous - In real life:
+        #- 💻 Monitoring that your Privacy is intact:
+        #- ⚠️ Miscellaneous - In real life:
       - 💻 Serverside Privacy (Self-Hosting):
         - opsec/selfhosting/index.md
-    - Opsec Level 2 | Anonymity:
+        #- hosting a server at home
+        #- setting up private VMs for different services
+        #- setting up a reverse nginx proxy on the host OS
+        #- using a VPS with openVPN to hide your home server's public IP
+      - Serverside Privacy (Remote):
+        #- Why is E2EE required when using remote servers?
+        - opsec/pgp/index.md
+        #- Setting up your own Simplex Server
+    - OPSEC Level 2 | Anonymity:
       - 📝 Explaining Anonymity:
         - opsec/anonymityexplained/index.md
         - opsec/anonuse/index.md
         - opsec/phonenumbers/index.md
         - opsec/anonymitymetadata/index.md
         - opsec/torvsvpns/index.md
-        - opsec/torthroughvpn/index.md
-        - opsec/clearnetvsdarknet/index.md
-        - opsec/darknetexploration/index.md
       - 💻 Clientside Anonymity:
-        - Anonymous VM Anonymity:
-          - opsec/anonsimplex/index.md
+        - Anonymous VM:
           - opsec/whonixqemuvms/index.md
           - opsec/torbrowsing/index.md
-          - opsec/whentorisblocked/index.md
-          - opsec/anonproxy/index.md
+          - opsec/anonsimplex/index.md
           - opsec/anonsms/index.md
           - opsec/anonemail/index.md
-      - 💻 Using AI for Anonymity:
-        - opsec/openwebuilocalllms/index.md
-        - opsec/stylometry/index.md
-      - 💻 Clientside - Censorship Evasion:
-        - opsec/vpnqemu/index.md
-        - opsec/v2ray/index.md
-      - 💻 File Sharing:
-        - opsec/onionshare/index.md
-        - opsec/syncthinganon/index.md
-        - opsec/i2ptorrents/index.md
-      - 💻 Clientside - Decentralized Finances ⭐:
-        - opsec/finances/index.md
-        - opsec/monero2024/index.md
-        - opsec/monerowallet/index.md
-        - opsec/chainalysisattempts/index.md
-        - opsec/monerofirst/index.md
-        - opsec/haveno-client-f2f/index.md
-        - opsec/haveno-arbitrator/index.md
-        - opsec/haveno-sepa/index.md
-        - opsec/haveno-cashbymail/index.md
-        - opsec/haveno-crypto/index.md
-        - opsec/anoncreditcard/index.md
-        - opsec/moneroinheritance/index.md
-      - 🧅 Serverside - Contributing to Anonymity:
-        - opsec/tor/relay/index.md
-        - opsec/tor/bridge/index.md
-        - opsec/tor/exit_node/index.md
-        - opsec/monero2024/index.md
-        - opsec/monerop2pool/index.md
-        - opsec/haveno-seednode/index.md
-        - opsec/darknetlantern/index.md
-      - 🧅 Serverside - Anonymous Hidden Services:
-        - opsec/hiddenservice/index.md
+        - 💻 Hiding your Anonymity:
+          - opsec/torthroughvpn/index.md
+          - opsec/vpnqemu/index.md
+          - opsec/v2ray/index.md
+
+        - Exploring the Darknet:
+          - opsec/clearnetvsdarknet/index.md
+          - opsec/darknetexploration/index.md
+        - 💻 Using AI to protect your Anonymity:
+          - opsec/openwebuilocalllms/index.md
+          - opsec/stylometry/index.md
+        - 💻 Anonymous File Sharing:
+          - opsec/onionshare/index.md
+          - opsec/syncthinganon/index.md
+          - opsec/i2ptorrents/index.md
+        - 💻 Decentralized Finances ⭐:
+          - opsec/finances/index.md
+          - opsec/monero2024/index.md
+          - opsec/monerowallet/index.md
+          - opsec/chainalysisattempts/index.md
+          - opsec/monerofirst/index.md
+          - opsec/haveno-client-f2f/index.md
+          - opsec/haveno-arbitrator/index.md
+          - opsec/haveno-sepa/index.md
+          - opsec/haveno-cashbymail/index.md
+          - opsec/haveno-crypto/index.md
+          - opsec/anoncreditcard/index.md
+          - opsec/moneroinheritance/index.md
+        - ⚠️ Miscellaneous - In real life:
+          - opsec/anonprotest/index.md
+      - 🧅 Serverside Anonymity (remote):
         - opsec/anonymousremoteserver/index.md
-        - opsec/torwebsite/index.md
-        - opsec/pgpcanary/index.md
-        - opsec/forgejo-anon/index.md
-        - opsec/nextcloud/index.md
-      - 🧅 Serverside - Anonymous Clearnet Services:
-        - opsec/anonclearnetservices/index.md
-        - opsec/anondomain/index.md
-        - opsec/anonaccess/index.md
-        - opsec/dns/index.md
-        - opsec/mailprivate/index.md
-      - ⚠️ Miscellaneous - In real life:
-        - opsec/anonprotest/index.md
-    - Opsec Level 3 | Deniability:
+        - Contributing to Anonymity:
+          - opsec/tor/relay/index.md
+          - opsec/tor/bridge/index.md
+          - opsec/tor/exit_node/index.md
+          - opsec/monero2024/index.md
+          - opsec/monerop2pool/index.md
+          - opsec/haveno-seednode/index.md
+          - opsec/darknetlantern/index.md
+        - 🧅 Anonymous Hidden Services:
+          - opsec/hiddenservice/index.md
+          - opsec/torwebsite/index.md
+          - opsec/pgpcanary/index.md
+          - opsec/forgejo-anon/index.md
+          - opsec/nextcloud/index.md
+          - opsec/anonymous_server_monitoring/index.md
+          #- Anonymous alerting system (via SimpleX)
+        - 🧅 Anonymous Clearnet Services:
+          - opsec/anonclearnetservices/index.md
+          - opsec/anondomain/index.md
+          - opsec/anonaccess/index.md
+          - opsec/dns/index.md
+          - opsec/mailprivate/index.md
+        - Hiding your Anonymity:
+          - opsec/whentorisblocked/index.md
+          - opsec/anonproxy/index.md
+      #- Serverside Anonymity (Self-Hosting)
+        #- Why you should self-host hidden services
+        #- Serverside Anonymous VM 
+        #- Accessing self-hosted servers via their Hidden service
+
+    - OPSEC Level 3 | Deniability:
       - 📝 Explaining Plausible Deniability:
         - opsec/stancesensitive/index.md
         - opsec/deniability/index.md
         - opsec/anonsensitive/index.md
-      - 💻 Clientside - Getting Started:
+      - 💻 Clientside Deniability:
         - opsec/tailsqemuvm/index.md
         - opsec/livemode/index.md
         - opsec/veracrypt/index.md
         - opsec/sensitivevm/index.md
         - opsec/plausiblydeniabledataprotection/index.md
-      - 💻 Steganography - Hiding secrets in plain sight:
-        - opsec/steganography/index.md
-        - opsec/steghide/index.md
-        - opsec/anonzulucrypt/index.md
-      - 💻 Decentralised Finances:
-        - opsec/monerowealth/index.md
-      - 🧅 Serverside - Plausible Deniability at Home:
+        
+        - 💻 Steganography - Hiding secrets in plain sight:
+          - opsec/steganography/index.md
+          - opsec/steghide/index.md
+          - opsec/anonzulucrypt/index.md
+        - 💻 Decentralised Finances:
+          - opsec/monerowealth/index.md
+      - 🧅 Serverside Deniability (Self-Hosted):
+        #- Self Hosting Deniability (recap of the clientside deniability setup, but on a home server instead)
         - opsec/failovers/index.md
+        #- host OS wan failover
         - opsec/physicalsecurity/index.md
-      - 🧅 Serverside - Remote Plausible Deniability:
+        #- Automating Emergency Shutdowns: detecting usb changes
+        #- Automating Emergency Shutdowns: detecting movement
+      - 🧅 Serverside Deniability (Remote):
         - opsec/sensitiveremotevshome/index.md
+        #- Anonymously renting servers from the Sensitive VM
         - opsec/cloud_provider_adversary/index.md
-        - opsec/anonymous_server_monitoring/index.md
-      - 🧅 Serverside - High Availability for Deniability:
-        - opsec/high_availability/index.md
-        - opsec/tornginxphpmysql/index.md
-        - opsec/mysqlmastermaster/index.md
-        - opsec/onionbalancelb/index.md
-        - opsec/endgame/index.md
+        #- Sensitive remote servers organization
+        #- Multi Owner Infrastructure (Dead Man's Switch via Simplex bots)
+        - 🧅 High Availability for Deniability:
+          - opsec/high_availability/index.md
+          - opsec/tornginxphpmysql/index.md
+          - opsec/mysqlmastermaster/index.md
+          - opsec/onionbalancelb/index.md
+          - opsec/endgame/index.md
     - Contributing to the project:
       - opsec/criticism/index.md
       - opsec/offtopic/index.md

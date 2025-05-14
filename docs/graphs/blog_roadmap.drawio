@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
   <diagram name="Page-1" id="Rn6oyCs34G9xD2IepCBP">
-    <mxGraphModel dx="2226" dy="888" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3588" dy="1640" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,6 +79,9 @@
         </mxCell>
         <mxCell id="a4jV0qs3TSVzPwCjpWIA-13" value="Monero Inheritence" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
           <mxGeometry x="-130" y="764" width="149" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="NUYusv78QOWgB7ClrpJZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="a4jV0qs3TSVzPwCjpWIA-14" target="NUYusv78QOWgB7ClrpJZ-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a4jV0qs3TSVzPwCjpWIA-14" value="Self-Hosting a server&lt;br&gt;tutorial : kicksecure host OS recap + remote access via RDP + hypervisor + kicksecure VM recap" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
           <mxGeometry x="334.5" y="1113" width="193.5" height="82" as="geometry" />
@@ -367,6 +370,9 @@
         </mxCell>
         <mxCell id="a4jV0qs3TSVzPwCjpWIA-143" value="Private Simplex Servers setup" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
           <mxGeometry x="819" y="1033" width="149" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="NUYusv78QOWgB7ClrpJZ-1" value="using a VPS to hide a self hosted service&#39;s public IP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="334.5" y="1019" width="193.5" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
