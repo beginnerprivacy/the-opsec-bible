@@ -86,17 +86,15 @@ nav:
         - opsec/anonymitymetadata/index.md
         - opsec/torvsvpns/index.md
       - 💻 Clientside Anonymity:
-        - Anonymous VM:
-          - opsec/whonixqemuvms/index.md
-          - opsec/torbrowsing/index.md
-          - opsec/anonsimplex/index.md
-          - opsec/anonsms/index.md
-          - opsec/anonemail/index.md
+        - opsec/whonixqemuvms/index.md
+        - opsec/torbrowsing/index.md
+        - opsec/anonsimplex/index.md
+        - opsec/anonsms/index.md
+        - opsec/anonemail/index.md
         - 💻 Hiding your Anonymity:
           - opsec/torthroughvpn/index.md
           - opsec/vpnqemu/index.md
           - opsec/v2ray/index.md
-
         - Exploring the Darknet:
           - opsec/clearnetvsdarknet/index.md
           - opsec/darknetexploration/index.md
