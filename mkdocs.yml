@@ -580,10 +580,17 @@ nav:
 
 copyright: "Creative Commons Zero: No Rights Reserved"
 
+extra_javascript:
+  - https://fastly.jsdelivr.net/npm/jquery/dist/jquery.min.js
+  - https://fastly.jsdelivr.net/npm/echarts/dist/echarts.min.js
+  - assets/javascripts/interactive_graph.js
+
 extra_css:
   - stylesheets/extra.css
+  - assets/stylesheets/interactive_graph.css
 
 plugins:
+  - obsidian-interactive-graph
   - privacy
   - search
 
