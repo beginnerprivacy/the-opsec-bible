@@ -1,23 +1,59 @@
 # Nihilist OPSEC blog
-mkdocs-material markdown edition
 
-# How to run
+## Work on blog posts
 
-## Docker
+If you're here and want to contribute to our blog posts, you only need to clone the [opsec-blogposts](http://git.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/nihilist/opsec-blogposts) repo.
 
-To run the blog yourself, you'll need a Tor daemon running with socks5 proxy at `localhost:9050`. It will be used to clone/pull the repository from Docker container.
-
-You also need an onionv3 domain and hidden service exposing `localhost:7080`as HTTP.
-
-Download 3 files from the `deploy/` directory. You only need to edit the `SITE_URL` in `docker-compose.yml` to the vanity domain you generated.
-
-Then run:
 ```
-$ docker compose up -d && docker compose logs -f 
+$ git -c "http.proxy=socks5h://127.0.0.1:9050" clone "http://git.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/nihilist/opsec-blogposts.git" --depth=1
 ```
-It will automatically clone the repository and start serving it with nginx on the URL you provided.
 
-## Local development
+We have a [contributing guide](http://blog.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/opsec/contribute/) that will help you with later steps. It may be somewhat incomplete currently so I'll list some general steps you should consider while writing/editing markdown blog posts.
+
+- the main file of each post's directory is `index.md`, you should also make references to `index.md` of other blog posts
+  for example: `Do it like [we did before](../anonsms/index.md).`
+- you should fill the metatags with necessary information about author and blog post in general:
+  ```
+  ---
+  author: oxeo0
+  date: 2025-05-16
+  gitea_url: "http://git.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/nihilist/blog-contributions/issues/278"
+  xmr: 862Sp3N5Y8NByFmPVLTPrJYzwdiiVxkhQgAdt65mpYKJLdVDHyYQ8swLgnVr8D3jKphDUcWUCVK1vZv9u8cvtRJCUBFb8MQ
+  ---
+
+  # Blog post title
+  ```
+- you can preview markdown in VSCodium or other markdown editors. If you need to see how it would look on our blog, check the *Run the blog locally* section below.
+- it's preferred to compress larger (>30kB) images to `AVIF` format using the [avifenc](https://manpages.debian.org/unstable/libavif-bin/avifenc.1.en.html) command:
+  ```
+  $ avifenc 0.png --yuv 420 --range l -q 50 -c svt --speed 0 --ignore-exif -o 0.png
+  ```
+  We'll handle that if you're unsure or face any problems with compression.
+- Even though all issues should remain [on the main repository](http://git.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/nihilist/blog-contributions), you should make Pull Request to the [opsec-blogposts](http://git.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/nihilist/opsec-blogposts) repo once you're done with your contribution.
+
+## Clone everything
+
+Our blog consists of a few git submodules. To fully clone it, use the following command:
+```
+$ git -c "http.proxy=socks5h://127.0.0.1:9050" clone "http://git.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/nihilist/blog-contributions.git" --depth=1 --recursive --shallow-submodules
+```
+
+In case of `connection refused` error, make sure you have Tor daemon running in the background listening with `SocksPort 9050`.
+
+The cloning process over the Tor network can take a while. Please be patient and try again in case of network issues.
+
+We try to optimize the size of this repository and its submodules, currently those are:
+```
+26.31M blog-contributions
+36.48M hacking
+44.84M opsec
+6.78M  productivity
+33.10M selfhosting
+
+147.5M total
+```
+
+## Run the blog locally
 
 You need to install [mkdocs-material package](https://pkgs.org/search/?q=mkdocs-material) from your distro's repository or [from pip](https://squidfunk.github.io/mkdocs-material/getting-started/).
 
@@ -27,4 +63,8 @@ $ mkdocs serve
 ```
 
 It should be served on `http://locahost:8000`
+
+## Run the blog on the server
+
+We have a [separate repo](http://git.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/nihilist/blog-deploy) to run the blog post in **production environment** - with automatic updates and reverse proxy.
 
