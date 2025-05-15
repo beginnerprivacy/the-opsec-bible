@@ -590,7 +590,7 @@ extra_css:
   - assets/stylesheets/interactive_graph.css
 
 plugins:
-  - obsidian-interactive-graph
+  #- obsidian-interactive-graph # doesnt work yet
   - privacy
   - search
 
