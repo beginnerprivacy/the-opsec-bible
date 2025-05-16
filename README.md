@@ -1,4 +1,4 @@
-# Nihilist OPSEC blog
+# The Nihilism OPSEC blog
 
 ## Work on blog posts
 
