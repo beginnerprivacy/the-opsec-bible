@@ -26,7 +26,7 @@ theme:
     # would reduce every page size but not very usable over Tor sadly
     #- navigation.prune
     - navigation.footer
-    - navigation.sections
+    #- navigation.sections
 
   logo: assets/logo.png
   favicon: assets/logo.png
