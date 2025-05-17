@@ -23,8 +23,10 @@ theme:
 
   features:
     - navigation.tabs
-    - navigation.prune
+    # would reduce every page size but not very usable over Tor sadly
+    #- navigation.prune
     - navigation.footer
+    #- navigation.sections
 
   logo: assets/logo.png
   favicon: assets/logo.png
@@ -580,10 +582,10 @@ nav:
 
 copyright: "Creative Commons Zero: No Rights Reserved"
 
-extra_javascript:
-  - https://fastly.jsdelivr.net/npm/jquery/dist/jquery.min.js
-  - https://fastly.jsdelivr.net/npm/echarts/dist/echarts.min.js
-  - assets/javascripts/interactive_graph.js
+#extra_javascript:
+#  - https://fastly.jsdelivr.net/npm/jquery/dist/jquery.min.js
+#  - https://fastly.jsdelivr.net/npm/echarts/dist/echarts.min.js
+#  - assets/javascripts/interactive_graph.js
 
 extra_css:
   - stylesheets/extra.css
