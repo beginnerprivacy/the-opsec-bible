@@ -4,7 +4,7 @@
 Operational Security: Showing how Privacy, Anonymity and Deniability can be achieved online.
 Or in other words: How to become ungovernable, by protecting your freedom using technology.  
 
-# [Productivity: Health and Work Organisation](productivity/poisonofmoderntimes/index.md)
+# [Productivity: Health and Work Organisation](productivity/index.md)
 ![](assets/productivity.png)
 
 How to use your Body, Mind, and Tools to maximize your Productivity 

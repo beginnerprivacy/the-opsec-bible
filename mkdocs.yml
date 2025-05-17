@@ -204,7 +204,7 @@ nav:
 
 
   - Productivity:
-    - index.md
+    - productivity/index.md
     - Productivity Introduction:
       - productivity/poisonofmoderntimes/index.md
       - productivity/discipline/index.md
