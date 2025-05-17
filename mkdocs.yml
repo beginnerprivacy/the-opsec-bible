@@ -35,6 +35,7 @@ nav:
   - OPSEC:
     - opsec/index.md
     - opsec/whytheblog/index.md
+    - opsec/offtopic/index.md
     - OPSEC Introduction:
       - 📝 Explaining Concepts:
         - opsec/aps/index.md
@@ -195,7 +196,6 @@ nav:
           - opsec/endgame/index.md
     - Contributing to the project:
       - opsec/criticism/index.md
-      - opsec/offtopic/index.md
       - opsec/qualitystandard/index.md
       - opsec/contribute/index.md
       - opsec/maintainers/index.md
