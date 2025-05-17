@@ -40,6 +40,7 @@ nav:
         - opsec/aps/index.md
         - opsec/governments/index.md
         - opsec/govfear/index.md
+        - opsec/stateistheenemy/index.md
       - 📝 Explaining OPSEC ⭐:
         - opsec/opsec4levels/index.md
         - opsec/internetsegmentation/index.md
@@ -87,6 +88,7 @@ nav:
         - opsec/phonenumbers/index.md
         - opsec/anonymitymetadata/index.md
         - opsec/torvsvpns/index.md
+        - opsec/signalnoanonymity/index.md
       - 💻 Clientside Anonymity:
         - opsec/whonixqemuvms/index.md
         - opsec/torbrowsing/index.md
