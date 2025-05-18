@@ -600,6 +600,8 @@ plugins:
   #- obsidian-interactive-graph # doesnt work yet
   - privacy
   - search
+  - tags:
+      tags_file: tags.md
 
 markdown_extensions:
   - meta
