@@ -43,6 +43,7 @@ nav:
         - opsec/governments/index.md
         - opsec/govfear/index.md
         - opsec/stateistheenemy/index.md
+        - opsec/opsecmistakes/index.md
       - 📝 Explaining OPSEC ⭐:
         - opsec/opsec4levels/index.md
         - opsec/internetsegmentation/index.md
@@ -68,9 +69,7 @@ nav:
           - opsec/passwordmanagement/index.md
           - opsec/syncthingvpn/index.md
           - opsec/p2ptorrents/index.md
-        - Misc - Qubes OS:
-          - opsec/qubesos/index.md
-          - opsec/qubesosnetwork/index.md
+      
         #- 💻 Monitoring that your Privacy is intact:
         #- ⚠️ Miscellaneous - In real life:
       - 💻 Serverside Privacy (Self-Hosting):
@@ -237,6 +236,8 @@ nav:
       - productivity/reflecting/index.md
 
   - Self-Hosting:
+    - selfhosting/qubesos/index.md
+    - selfhosting/qubesosnetwork/index.md
     - selfhosting/0_lainradio/index.md
     - selfhosting/4get/index.md
     - selfhosting/Gitea/index.md

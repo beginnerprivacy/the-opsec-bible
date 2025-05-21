@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
   <diagram name="Page-1" id="jBm2yHWj5pIe6FXA7u4n">
-    <mxGraphModel dx="5980" dy="4411" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3026" dy="2488" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1583,113 +1583,134 @@
         <mxCell id="k1uPfNQdIGo1UHMs4Vvc-20" value="General Work Organisation:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-171.5" y="334" width="167" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="_WydvsPPg7hFz1bytw3d-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.507;entryY=-0.056;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="o76aFsP1zsOd4rydw9Nj-131" target="o76aFsP1zsOd4rydw9Nj-153">
+        <mxCell id="_WydvsPPg7hFz1bytw3d-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.507;entryY=-0.056;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="o76aFsP1zsOd4rydw9Nj-131" target="o76aFsP1zsOd4rydw9Nj-153" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_WydvsPPg7hFz1bytw3d-2" value="The General Workflow" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_WydvsPPg7hFz1bytw3d-2" value="The General Workflow" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1066" y="-862.31" width="165" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_WydvsPPg7hFz1bytw3d-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.519;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_WydvsPPg7hFz1bytw3d-2" target="o76aFsP1zsOd4rydw9Nj-153">
+        <mxCell id="_WydvsPPg7hFz1bytw3d-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.519;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_WydvsPPg7hFz1bytw3d-2" target="o76aFsP1zsOd4rydw9Nj-153" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_WydvsPPg7hFz1bytw3d-4" value="&lt;b style=&quot;&quot;&gt;1) Visualize the end goal:&lt;/b&gt;&lt;br&gt;with a clear graph" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;rounded=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
-          <mxGeometry x="-1045" y="-704.55" width="174" height="45.81" as="geometry" />
+        <mxCell id="_WydvsPPg7hFz1bytw3d-4" value="&lt;b style=&quot;&quot;&gt;1) Visualize the end goal:&lt;/b&gt;&lt;br&gt;with a clear graph" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;rounded=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+          <mxGeometry x="-1274" y="-703.0999999999999" width="174" height="45.81" as="geometry" />
         </mxCell>
-        <mxCell id="_WydvsPPg7hFz1bytw3d-5" value="&lt;b style=&quot;&quot;&gt;2) Plan Todolists:&lt;/b&gt;&lt;br&gt;(with each step,&lt;br&gt;each step is ordered,&lt;br&gt;each todolist ordered)" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;rounded=0;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
-          <mxGeometry x="-850" y="-713.19" width="140" height="63.37" as="geometry" />
+        <mxCell id="_WydvsPPg7hFz1bytw3d-5" value="&lt;b style=&quot;&quot;&gt;2) Plan Todolists:&lt;/b&gt;&lt;br&gt;(with each step,&lt;br&gt;each step is ordered,&lt;br&gt;each todolist ordered)" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;rounded=0;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="-1079" y="-711.74" width="140" height="63.37" as="geometry" />
         </mxCell>
-        <mxCell id="_WydvsPPg7hFz1bytw3d-6" value="&lt;b style=&quot;&quot;&gt;3) Work on something:&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Always only 1 todolist at a time!&lt;/font&gt;&lt;br&gt;&lt;/b&gt;otherwise you&#39;ll feel overwhelmed!" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;rounded=0;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+        <mxCell id="_WydvsPPg7hFz1bytw3d-6" value="&lt;b style=&quot;&quot;&gt;4) Do the Work:&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Always only 1 todolist at a time!&lt;/font&gt;&lt;br&gt;&lt;/b&gt;otherwise you&#39;ll feel overwhelmed!" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;rounded=0;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="-677" y="-706.3000000000001" width="287" height="49.59" as="geometry" />
         </mxCell>
-        <mxCell id="_WydvsPPg7hFz1bytw3d-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.012;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_WydvsPPg7hFz1bytw3d-4" target="_WydvsPPg7hFz1bytw3d-5">
+        <mxCell id="_WydvsPPg7hFz1bytw3d-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.012;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_WydvsPPg7hFz1bytw3d-4" target="_WydvsPPg7hFz1bytw3d-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_WydvsPPg7hFz1bytw3d-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.014;entryY=0.513;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_WydvsPPg7hFz1bytw3d-5" target="_WydvsPPg7hFz1bytw3d-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="_WydvsPPg7hFz1bytw3d-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.014;entryY=0.513;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_WydvsPPg7hFz1bytw3d-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-910.018" y="-679.4103300000002" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="_WydvsPPg7hFz1bytw3d-10" value="&lt;b style=&quot;&quot;&gt;4) &lt;/b&gt;&lt;b style=&quot;&quot;&gt;Review the work:&lt;/b&gt;&lt;br&gt;feeling lost? something was missed in the&lt;br&gt;todolist ? something was missed in the&lt;br&gt;end goal vision ? need some help ?" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;rounded=0;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+        <mxCell id="_WydvsPPg7hFz1bytw3d-10" value="&lt;b style=&quot;&quot;&gt;5) &lt;/b&gt;&lt;b style=&quot;&quot;&gt;Review the work:&lt;/b&gt;&lt;br&gt;feeling lost? something was missed in the&lt;br&gt;todolist ? something was missed in the&lt;br&gt;end goal vision ? need some help ?" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;rounded=0;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
           <mxGeometry x="-682.5" y="-595.01" width="287" height="65.53" as="geometry" />
         </mxCell>
-        <mxCell id="_WydvsPPg7hFz1bytw3d-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_WydvsPPg7hFz1bytw3d-6" target="_WydvsPPg7hFz1bytw3d-6">
+        <mxCell id="_WydvsPPg7hFz1bytw3d-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_WydvsPPg7hFz1bytw3d-6" target="_WydvsPPg7hFz1bytw3d-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_WydvsPPg7hFz1bytw3d-13" value="if OK, keep going until&lt;div&gt;there&#39;s no more work left&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="_WydvsPPg7hFz1bytw3d-13" value="if OK, keep going until&lt;div&gt;there&#39;s no more work left&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-373" y="-702.01" width="169" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="_WydvsPPg7hFz1bytw3d-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.522;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_WydvsPPg7hFz1bytw3d-6" target="_WydvsPPg7hFz1bytw3d-10">
+        <mxCell id="_WydvsPPg7hFz1bytw3d-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.522;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_WydvsPPg7hFz1bytw3d-6" target="_WydvsPPg7hFz1bytw3d-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_WydvsPPg7hFz1bytw3d-15" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;if something is blocking when you do the work,&lt;br&gt;make sure you review what you&#39;re doing&lt;br&gt;to readjust your approach to the work&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="_WydvsPPg7hFz1bytw3d-15" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;if something is blocking when you do the work,&lt;br&gt;make sure you review what you&#39;re doing&lt;br&gt;to readjust your approach to the work&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-528" y="-651.36" width="302" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="_WydvsPPg7hFz1bytw3d-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_WydvsPPg7hFz1bytw3d-10" target="_WydvsPPg7hFz1bytw3d-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="_WydvsPPg7hFz1bytw3d-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="_WydvsPPg7hFz1bytw3d-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-911.5" y="-560.75" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="_WydvsPPg7hFz1bytw3d-19" value="edit the todolist&lt;br&gt;to add what was missed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF8000;" vertex="1" connectable="0" parent="_WydvsPPg7hFz1bytw3d-16">
+        <mxCell id="_WydvsPPg7hFz1bytw3d-19" value="edit the todolist&lt;br&gt;to add what was missed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF8000;" parent="_WydvsPPg7hFz1bytw3d-16" vertex="1" connectable="0">
           <mxGeometry x="0.5587" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_WydvsPPg7hFz1bytw3d-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.461;entryY=1.032;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_WydvsPPg7hFz1bytw3d-10" target="_WydvsPPg7hFz1bytw3d-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_WydvsPPg7hFz1bytw3d-18" value="edit the graph to add what&lt;br&gt;was missed for the end goal" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#00CC00;" vertex="1" connectable="0" parent="_WydvsPPg7hFz1bytw3d-17">
-          <mxGeometry x="0.756" relative="1" as="geometry">
-            <mxPoint y="5" as="offset" />
+        <mxCell id="_WydvsPPg7hFz1bytw3d-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.461;entryY=1.032;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.009;exitY=0.519;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="_WydvsPPg7hFz1bytw3d-10" target="_WydvsPPg7hFz1bytw3d-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-911.5" y="-560.75" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_WydvsPPg7hFz1bytw3d-20" value="&lt;u&gt;Warning:&lt;/u&gt; if you don&#39;t start with a clear vision of the end goal, and start with todolists alone,&lt;br&gt;&lt;b&gt;you&#39;re bound to go nowhere if it&#39;s a complex goal!&lt;/b&gt; &lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;You NEED to know the destination!&lt;/font&gt;&lt;br&gt;always make sure that there is a clear vision (graph) to clearly explain the end goal, as it will&lt;br&gt;greatly help writing the todolists afterward." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="_WydvsPPg7hFz1bytw3d-18" value="edit the graph to add what&lt;br&gt;was missed for the end goal" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#00CC00;" parent="_WydvsPPg7hFz1bytw3d-17" vertex="1" connectable="0">
+          <mxGeometry x="0.756" relative="1" as="geometry">
+            <mxPoint x="3" y="-26" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WydvsPPg7hFz1bytw3d-20" value="&lt;u&gt;Warning:&lt;/u&gt; if you don&#39;t start with a clear vision of the end goal, and start with todolists alone,&lt;br&gt;&lt;b&gt;you&#39;re bound to go nowhere if it&#39;s a complex goal!&lt;/b&gt; &lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;You NEED to know the destination!&lt;/font&gt;&lt;br&gt;always make sure that there is a clear vision (graph) to clearly explain the end goal, as it will&lt;br&gt;greatly help writing the todolists afterward." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1004" y="-527.57" width="578" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="_WydvsPPg7hFz1bytw3d-21" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Do not try to focus on more than 1 todolist &lt;br&gt;at a time&lt;/font&gt;, the other todolists are &lt;br&gt;either for other people or for you to handle &lt;br&gt;at another day" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="_WydvsPPg7hFz1bytw3d-21" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Do not try to focus on more than 1 todolist &lt;br&gt;at a time&lt;/font&gt;, the other todolists are &lt;br&gt;either for other people or for you to handle &lt;br&gt;at another day" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-676" y="-776.3" width="277" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="_WydvsPPg7hFz1bytw3d-7" value="each todolist should be doable&lt;br&gt;in a 1 day, otherwise its too big" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF8000;" vertex="1" parent="1">
-          <mxGeometry x="-884" y="-754.1899999999999" width="208" height="41" as="geometry" />
+        <mxCell id="_WydvsPPg7hFz1bytw3d-7" value="each todolist should be doable&lt;br&gt;in a 1 day, otherwise its too big" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF8000;" parent="1" vertex="1">
+          <mxGeometry x="-1113" y="-752.7399999999999" width="208" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="_WydvsPPg7hFz1bytw3d-22" value="&lt;b&gt;Visualize A&lt;br&gt;&lt;/b&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;rounded=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+        <mxCell id="_WydvsPPg7hFz1bytw3d-22" value="&lt;b&gt;Visualize A&lt;br&gt;&lt;/b&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;rounded=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="-699" y="-422.32" width="114" height="33.81" as="geometry" />
         </mxCell>
-        <mxCell id="_WydvsPPg7hFz1bytw3d-23" value="When planning to do the work &lt;br&gt;in your calendar, make sure you employ&lt;br&gt;the correct verbs to categorize&lt;br&gt;the nature of the task you need to do:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="_WydvsPPg7hFz1bytw3d-23" value="When planning to do the work &lt;br&gt;in your calendar, make sure you employ&lt;br&gt;the correct verbs to categorize&lt;br&gt;the nature of the task you need to do:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-961" y="-396.95" width="260" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="_WydvsPPg7hFz1bytw3d-25" value="&lt;b&gt;Plan B&lt;br&gt;&lt;/b&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;rounded=0;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+        <mxCell id="_WydvsPPg7hFz1bytw3d-25" value="&lt;b&gt;Plan B&lt;br&gt;&lt;/b&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;rounded=0;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
           <mxGeometry x="-699" y="-384.43" width="114" height="33.81" as="geometry" />
         </mxCell>
-        <mxCell id="_WydvsPPg7hFz1bytw3d-26" value="&lt;b&gt;Work on C&lt;br&gt;&lt;/b&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;rounded=0;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
-          <mxGeometry x="-699" y="-345.75" width="114" height="33.81" as="geometry" />
+        <mxCell id="_WydvsPPg7hFz1bytw3d-26" value="&lt;b&gt;Work on D&lt;br&gt;&lt;/b&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;rounded=0;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+          <mxGeometry x="-701" y="-301.51" width="114" height="33.81" as="geometry" />
         </mxCell>
-        <mxCell id="_WydvsPPg7hFz1bytw3d-27" value="&lt;b&gt;Review D&lt;br&gt;&lt;/b&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;rounded=0;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
-          <mxGeometry x="-699" y="-306.69" width="114" height="33.81" as="geometry" />
+        <mxCell id="_WydvsPPg7hFz1bytw3d-27" value="&lt;b&gt;Review E&lt;br&gt;&lt;/b&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;rounded=0;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+          <mxGeometry x="-701" y="-262.45" width="114" height="33.81" as="geometry" />
         </mxCell>
-        <mxCell id="_WydvsPPg7hFz1bytw3d-28" value="&lt;b&gt;Todolist&lt;br&gt;&lt;/b&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;rounded=0;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+        <mxCell id="_WydvsPPg7hFz1bytw3d-28" value="&lt;b&gt;Todolist&lt;br&gt;&lt;/b&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;rounded=0;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
           <mxGeometry x="-492" y="-384.43" width="114" height="33.81" as="geometry" />
         </mxCell>
-        <mxCell id="_WydvsPPg7hFz1bytw3d-29" value="Task" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="_WydvsPPg7hFz1bytw3d-29" value="Task" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-664" y="-450.5" width="44" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="_WydvsPPg7hFz1bytw3d-30" value="End Result:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="_WydvsPPg7hFz1bytw3d-30" value="End Result:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-485" y="-456.43" width="86" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="_WydvsPPg7hFz1bytw3d-31" value="&lt;b&gt;Graph&lt;br&gt;&lt;/b&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;rounded=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+        <mxCell id="_WydvsPPg7hFz1bytw3d-31" value="&lt;b&gt;Graph&lt;br&gt;&lt;/b&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;rounded=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="-492" y="-424.5" width="114" height="33.81" as="geometry" />
         </mxCell>
-        <mxCell id="_WydvsPPg7hFz1bytw3d-32" value="&lt;b&gt;Completed Work&lt;br&gt;&lt;/b&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;rounded=0;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
-          <mxGeometry x="-492" y="-345.75" width="146" height="33.81" as="geometry" />
+        <mxCell id="_WydvsPPg7hFz1bytw3d-32" value="&lt;b&gt;Completed Work&lt;br&gt;&lt;/b&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;rounded=0;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+          <mxGeometry x="-494" y="-301.51" width="146" height="33.81" as="geometry" />
         </mxCell>
-        <mxCell id="_WydvsPPg7hFz1bytw3d-33" value="&lt;b&gt;Updated Graph or Todolist&lt;br&gt;&lt;/b&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;rounded=0;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
-          <mxGeometry x="-492" y="-306.69" width="196" height="33.81" as="geometry" />
+        <mxCell id="_WydvsPPg7hFz1bytw3d-33" value="&lt;b&gt;Updated Graph or Todolist&lt;br&gt;&lt;/b&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;rounded=0;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+          <mxGeometry x="-494" y="-262.45" width="196" height="33.81" as="geometry" />
         </mxCell>
-        <mxCell id="_WydvsPPg7hFz1bytw3d-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.552;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_WydvsPPg7hFz1bytw3d-22" target="_WydvsPPg7hFz1bytw3d-31">
+        <mxCell id="_WydvsPPg7hFz1bytw3d-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.552;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_WydvsPPg7hFz1bytw3d-22" target="_WydvsPPg7hFz1bytw3d-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_WydvsPPg7hFz1bytw3d-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.014;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_WydvsPPg7hFz1bytw3d-25" target="_WydvsPPg7hFz1bytw3d-28">
+        <mxCell id="_WydvsPPg7hFz1bytw3d-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.014;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_WydvsPPg7hFz1bytw3d-25" target="_WydvsPPg7hFz1bytw3d-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_WydvsPPg7hFz1bytw3d-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.506;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_WydvsPPg7hFz1bytw3d-26" target="_WydvsPPg7hFz1bytw3d-32">
+        <mxCell id="_WydvsPPg7hFz1bytw3d-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.506;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_WydvsPPg7hFz1bytw3d-26" target="_WydvsPPg7hFz1bytw3d-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_WydvsPPg7hFz1bytw3d-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.006;entryY=0.51;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_WydvsPPg7hFz1bytw3d-27" target="_WydvsPPg7hFz1bytw3d-33">
+        <mxCell id="_WydvsPPg7hFz1bytw3d-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.006;entryY=0.51;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_WydvsPPg7hFz1bytw3d-27" target="_WydvsPPg7hFz1bytw3d-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gfdna9RptkQIpTZNU7O3-1" value="&lt;b style=&quot;&quot;&gt;3) Schedule Time:&lt;/b&gt;&lt;div&gt;you know what to do, &lt;br&gt;but now you need to decide&lt;br&gt;WHEN you&#39;ll do it&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;rounded=0;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="-909" y="-711.31" width="200" height="63.37" as="geometry" />
+        </mxCell>
+        <mxCell id="Gfdna9RptkQIpTZNU7O3-2" value="&lt;b&gt;Schedule C&lt;br&gt;&lt;/b&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;rounded=0;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="-699.5" y="-341.69" width="114" height="33.81" as="geometry" />
+        </mxCell>
+        <mxCell id="Gfdna9RptkQIpTZNU7O3-3" value="&lt;b&gt;Scheduled time to do A,B,C,D or E&lt;br&gt;&lt;/b&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;rounded=0;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="-492.5" y="-341.69" width="243.5" height="33.81" as="geometry" />
+        </mxCell>
+        <mxCell id="Gfdna9RptkQIpTZNU7O3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.014;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Gfdna9RptkQIpTZNU7O3-2" target="Gfdna9RptkQIpTZNU7O3-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gfdna9RptkQIpTZNU7O3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.01;entryY=0.551;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Gfdna9RptkQIpTZNU7O3-1" target="_WydvsPPg7hFz1bytw3d-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
