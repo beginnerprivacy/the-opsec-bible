@@ -2,13 +2,13 @@
 
 ## Work on blog posts
 
-If you're here and want to contribute to our blog posts, you only need to clone the [opsec-blogposts](http://git.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/nihilist/opsec-blogposts) repo.
+If you're here and want to contribute to our blog posts, you only need to fork and clone the [opsec-blogposts](http://git.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/nihilist/opsec-blogposts) repo.
 
 ```
-$ git -c "http.proxy=socks5h://127.0.0.1:9050" clone "http://git.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/nihilist/opsec-blogposts.git" --depth=1
+$ git -c "http.proxy=socks5h://127.0.0.1:9050" clone "http://git.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/[you]/opsec-blogposts.git" --depth=1
 ```
 
-We have a [contributing guide](http://blog.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/opsec/contribute/) that will help you with later steps. It may be somewhat incomplete currently so I'll list some general steps you should consider while writing/editing markdown blog posts.
+We have a more detailed [contributing guide](http://blog.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/opsec/contribute/) that will help you with later steps. It may be somewhat incomplete currently so I'll list some general steps you should consider while writing/editing markdown blog posts.
 
 - the main file of each post's directory is `index.md`, you should also make references to `index.md` of other blog posts
   for example: `Do it like [we did before](../anonsms/index.md).`
@@ -57,7 +57,7 @@ We try to optimize the size of this repository and its submodules, currently tho
 
 You need to install [mkdocs-material package](https://pkgs.org/search/?q=mkdocs-material) from your distro's repository or [from pip](https://squidfunk.github.io/mkdocs-material/getting-started/).
 
-Then from the main directory run:
+Maye sure you fetched all submodules as in previous step, then from the main directory run:
 ```
 $ mkdocs serve
 ```
