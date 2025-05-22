@@ -37,16 +37,16 @@
 <br>
 
 <!-- Render date of last update -->
-<span class="md-source-file__fact">
+<span class="md-source-file__fact" style="max-width: 100%; overflow: scroll;">
   <span class="md-icon">
     {% include ".icons/monero.svg" %}
   </span>
   <!-- Display XMR address in 3 lines -->
   <!-- Check valid XMR address -->
 {% if page.meta.get('xmr', '')|length == 95 %}
-  Donate XMR to the author:<br>{{ page.meta.xmr[:48] }}<br>{{ page.meta.xmr[48:] }}
+  Donate XMR to the author:<br>{{ page.meta.xmr }}
 {% else %}
-  Donate XMR to Nihilist:<br>8AUYjhQeG3D5aodJDtqG499N5jXXM71gYKD8LgSsFB9BUV1o<br>7muLv3DXHoydRTK4SZaaUBq4EAUqpZHLrX2VZLH71Jrd9k8
+  Donate XMR to Nihilist:<br>8AUYjhQeG3D5aodJDtqG499N5jXXM71gYKD8LgSsFB9BUV1o7muLv3DXHoydRTK4SZaaUBq4EAUqpZHLrX2VZLH71Jrd9k8
 {% endif %}
 </span>
 
