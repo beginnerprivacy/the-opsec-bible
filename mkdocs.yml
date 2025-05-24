@@ -82,6 +82,7 @@ nav:
       - Serverside Privacy (Remote):
         #- Why is E2EE required when using remote servers?
         - opsec/pgp/index.md
+        - opsec/privatesimplex-server/index.md
         #- Setting up your own Simplex Server
     - OPSEC Level 2 | Anonymity:
       - 📝 Explaining Anonymity:
@@ -153,10 +154,12 @@ nav:
         - Hiding your Anonymity:
           - opsec/whentorisblocked/index.md
           - opsec/anonproxy/index.md
-      #- Serverside Anonymity (Self-Hosting)
+      - Serverside Anonymity (Self-Hosting)
+        - opsec/anonsimplex-server/index.md
         #- Why you should self-host hidden services
         #- Serverside Anonymous VM 
         #- Accessing self-hosted servers via their Hidden service
+       
 
     - OPSEC Level 3 | Deniability:
       - 📝 Explaining Plausible Deniability:
