@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
   <diagram name="Page-1" id="Rn6oyCs34G9xD2IepCBP">
-    <mxGraphModel dx="1809" dy="890" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3588" dy="1640" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,10 +109,10 @@
         <mxCell id="a4jV0qs3TSVzPwCjpWIA-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="a4jV0qs3TSVzPwCjpWIA-15" target="a4jV0qs3TSVzPwCjpWIA-138" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rc6S3lg3hJiNVlqmhrlK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a4jV0qs3TSVzPwCjpWIA-15" target="a4jV0qs3TSVzPwCjpWIA-129">
+        <mxCell id="rc6S3lg3hJiNVlqmhrlK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="a4jV0qs3TSVzPwCjpWIA-15" target="a4jV0qs3TSVzPwCjpWIA-129" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rc6S3lg3hJiNVlqmhrlK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a4jV0qs3TSVzPwCjpWIA-15" target="rc6S3lg3hJiNVlqmhrlK-1">
+        <mxCell id="rc6S3lg3hJiNVlqmhrlK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="a4jV0qs3TSVzPwCjpWIA-15" target="rc6S3lg3hJiNVlqmhrlK-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a4jV0qs3TSVzPwCjpWIA-15" value="Sensitive VM setup #256" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
@@ -449,7 +449,7 @@
         <mxCell id="S_dhNpFy_L8vkl6PzvgN-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="S_dhNpFy_L8vkl6PzvgN-9" target="a4jV0qs3TSVzPwCjpWIA-104" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S_dhNpFy_L8vkl6PzvgN-9" value="Why should I use Whonix for Hidden services ? #324" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+        <mxCell id="S_dhNpFy_L8vkl6PzvgN-9" value="Why should I use Whonix for Hidden services ? #324" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="533" y="829.5" width="185.5" height="46" as="geometry" />
         </mxCell>
         <mxCell id="S_dhNpFy_L8vkl6PzvgN-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;(These are the most important tutorials of the entire Opsec blog,&lt;br&gt;we consider those as the actual backbone &lt;br&gt;of your entire Operational Security)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -482,7 +482,7 @@
         <mxCell id="YfLTTMdyfo86M8OlOIly-2" value="Darknet Lantern Setup&lt;br&gt;#267" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="551.25" y="729" width="149" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="rc6S3lg3hJiNVlqmhrlK-1" value="Black Hat Hacking&lt;br&gt;VM Setup #335" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+        <mxCell id="rc6S3lg3hJiNVlqmhrlK-1" value="Black Hat Hacking&lt;br&gt;VM Setup #335" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
           <mxGeometry x="-344" y="331" width="149" height="41" as="geometry" />
         </mxCell>
       </root>
