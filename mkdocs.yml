@@ -155,6 +155,7 @@ nav:
           - opsec/whentorisblocked/index.md
           - opsec/anonproxy/index.md
       - Serverside Anonymity (Self-Hosting)
+        - opsec/whonix_hiddenservice/index.md
         - opsec/anonsimplex-server/index.md
         #- Why you should self-host hidden services
         #- Serverside Anonymous VM 
