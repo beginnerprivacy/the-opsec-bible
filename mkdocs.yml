@@ -98,15 +98,16 @@ nav:
         - opsec/anonsimplex/index.md
         - opsec/anonsms/index.md
         - opsec/anonemail/index.md
-        - 💻 Hiding your Anonymity:
+        - 💻 Hiding your Anonymity from the ISP:
           - opsec/torthroughvpn/index.md
-          - opsec/vpnqemu/index.md
           - opsec/v2ray/index.md
+        - Hiding your Anonymity from the service provider:
+          - opsec/whentorisblocked/index.md
+          - opsec/anonproxy/index.md
         - Exploring the Darknet:
           - opsec/clearnetvsdarknet/index.md
           - opsec/darknetexploration/index.md
         - 💻 Using AI to protect your Anonymity:
-          - opsec/openwebuilocalllms/index.md
           - opsec/stylometry/index.md
         - 💻 Anonymous File Sharing:
           - opsec/onionshare/index.md
@@ -114,7 +115,6 @@ nav:
           - opsec/i2ptorrents/index.md
         - 💻 Decentralized Finances ⭐:
           - opsec/truecrypto/index.md
-          - opsec/monero2024/index.md
           - opsec/monerowallet/index.md
           - opsec/chainalysisattempts/index.md
           - opsec/monerofirst/index.md
@@ -124,25 +124,21 @@ nav:
           - opsec/haveno-cashbymail/index.md
           - opsec/haveno-crypto/index.md
           - opsec/anoncreditcard/index.md
-          - opsec/moneroinheritance/index.md
         - ⚠️ Miscellaneous - In real life:
           - opsec/anonprotest/index.md
       - 🧅 Serverside Anonymity (remote):
         - opsec/anonymousremoteserver/index.md
+        - opsec/moneroinheritance/index.md
         - Contributing to Anonymity:
           - opsec/tor/relay/index.md
           - opsec/tor/bridge/index.md
           - opsec/tor/exit_node/index.md
-          - opsec/monero2024/index.md
-          - opsec/monerop2pool/index.md
-          - opsec/haveno-seednode/index.md
           - opsec/darknetlantern/index.md
         - 🧅 Anonymous Hidden Services:
           - opsec/hiddenservice/index.md
           - opsec/torwebsite/index.md
           - opsec/pgpcanary/index.md
           - opsec/forgejo-anon/index.md
-          - opsec/nextcloud/index.md
           - opsec/anonymous_server_monitoring/index.md
           #- Anonymous alerting system (via SimpleX)
         - 🧅 Anonymous Clearnet Services:
@@ -150,13 +146,16 @@ nav:
           - opsec/anondomain/index.md
           - opsec/anonaccess/index.md
           - opsec/dns/index.md
-          - opsec/mailprivate/index.md
-        - Hiding your Anonymity:
-          - opsec/whentorisblocked/index.md
-          - opsec/anonproxy/index.md
+
       - 🧅 Serverside Anonymity (Self-Hosting):
         - opsec/whonix_hiddenservice/index.md
-        - opsec/anonsimplex-server/index.md
+        - opsec/nextcloud/index.md
+        - opsec/openwebuilocalllms/index.md
+        - opsec/mailprivate/index.md
+        - Contributing to Anonymity:
+          - opsec/anonsimplex-server/index.md
+          - opsec/monero2024/index.md
+          - opsec/monerop2pool/index.md
         #- Why you should self-host hidden services
         #- Serverside Anonymous VM 
         #- Accessing self-hosted servers via their Hidden service
@@ -191,6 +190,7 @@ nav:
         - opsec/sensitiveremotevshome/index.md
         #- Anonymously renting servers from the Sensitive VM
         - opsec/cloud_provider_adversary/index.md
+        - opsec/haveno-seednode/index.md
         #- Sensitive remote servers organization
         #- Multi Owner Infrastructure (Dead Man's Switch via Simplex bots)
         - 🧅 High Availability for Deniability:
