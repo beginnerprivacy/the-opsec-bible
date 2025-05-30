@@ -603,7 +603,7 @@ copyright: "Creative Commons Zero: No Rights Reserved"
 
 extra_css:
   - stylesheets/extra.css
-  - assets/stylesheets/interactive_graph.css
+#  - assets/stylesheets/interactive_graph.css
 
 plugins:
   #- obsidian-interactive-graph # doesnt work yet
