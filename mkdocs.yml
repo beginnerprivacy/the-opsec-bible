@@ -42,7 +42,6 @@ nav:
         - opsec/aps/index.md
         - opsec/governments/index.md
         - opsec/govfear/index.md
-        - opsec/stateistheenemy/index.md
         - opsec/opsecmistakes/index.md
       - 📝 Explaining OPSEC ⭐:
         - opsec/opsec4levels/index.md
@@ -50,6 +49,9 @@ nav:
         - opsec/opsec/index.md
         - opsec/multiple_identities/index.md
         - opsec/chats/index.md
+      - Explaining Anarchy:
+        - opsec/stateistheenemy/index.md
+        - opsec/individualreignssupreme/index.md
     - OPSEC Level 1 | Privacy:
       - 📝 Explaining Privacy:
         - opsec/privacy/index.md
@@ -75,7 +77,7 @@ nav:
         #- ⚠️ Miscellaneous - In real life:
       - 💻 Serverside Privacy (Self-Hosting):
         - opsec/selfhosting/index.md
-        #- hosting a server at home
+        - opsec/homeserver/index.md
         #- setting up private VMs for different services
         #- setting up a reverse nginx proxy on the host OS
         #- using a VPS with openVPN to hide your home server's public IP
