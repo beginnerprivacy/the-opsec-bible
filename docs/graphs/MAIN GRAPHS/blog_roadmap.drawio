@@ -98,7 +98,7 @@
         <mxCell id="S_dhNpFy_L8vkl6PzvgN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="a4jV0qs3TSVzPwCjpWIA-14" target="S_dhNpFy_L8vkl6PzvgN-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a4jV0qs3TSVzPwCjpWIA-14" value="Self-Hosting a server&lt;br&gt;tutorial : kicksecure host OS recap + RDP + SSH access #318" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+        <mxCell id="a4jV0qs3TSVzPwCjpWIA-14" value="Self-Hosting a server&lt;br&gt;tutorial : kicksecure host OS recap + RDP + SSH access #318" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="332.5" y="1123" width="197.5" height="62" as="geometry" />
         </mxCell>
         <mxCell id="a4jV0qs3TSVzPwCjpWIA-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a4jV0qs3TSVzPwCjpWIA-15" edge="1">

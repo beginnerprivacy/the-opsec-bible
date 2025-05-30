@@ -98,7 +98,7 @@
         <mxCell id="S_dhNpFy_L8vkl6PzvgN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="a4jV0qs3TSVzPwCjpWIA-14" target="S_dhNpFy_L8vkl6PzvgN-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a4jV0qs3TSVzPwCjpWIA-14" value="Self-Hosting a server&lt;br&gt;tutorial : kicksecure host OS recap + RDP + SSH access #318" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+        <mxCell id="a4jV0qs3TSVzPwCjpWIA-14" value="Self-Hosting a server&lt;br&gt;tutorial : kicksecure host OS recap + RDP + SSH access #318" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="332.5" y="1123" width="197.5" height="62" as="geometry" />
         </mxCell>
         <mxCell id="a4jV0qs3TSVzPwCjpWIA-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a4jV0qs3TSVzPwCjpWIA-15" edge="1">
@@ -432,10 +432,15 @@
           <mxGeometry x="819" y="1033" width="149" height="41" as="geometry" />
         </mxCell>
         <mxCell id="NUYusv78QOWgB7ClrpJZ-1" value="using a VPS to route the traffic to a self-hosted service (hiding your home public IP from the users) #320" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
-          <mxGeometry x="559" y="1126" width="239" height="56" as="geometry" />
+          <mxGeometry x="555" y="1025.5" width="239" height="56" as="geometry" />
         </mxCell>
         <mxCell id="S_dhNpFy_L8vkl6PzvgN-1" value="Self-Hosted LLM Hidden Service #226" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="341" y="757" width="187" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="aCfv1E3ylhcuT7lT0AkG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S_dhNpFy_L8vkl6PzvgN-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="551.7619047619046" y="1053.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="S_dhNpFy_L8vkl6PzvgN-3" value="Self-hosting a Hypervisor (QEMU/KVM + Cockpit + Private VM setup) #319" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
           <mxGeometry x="334.5" y="1025.5" width="193.5" height="56" as="geometry" />
