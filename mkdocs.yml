@@ -78,6 +78,7 @@ nav:
       - 💻 Serverside Privacy (Self-Hosting):
         - opsec/selfhosting/index.md
         - opsec/homeserver/index.md
+        - opsec/hypervisorsetup/index.md
         #- setting up private VMs for different services
         #- setting up a reverse nginx proxy on the host OS
         #- using a VPS with openVPN to hide your home server's public IP

@@ -1,0 +1,76 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
+  <diagram name="Page-1" id="aNE7vBzOgWNcCLXxES_K">
+    <mxGraphModel dx="778" dy="58" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="E3Td2upKqRFIPS8fARno-1" value="privateVM&lt;br&gt;(serverside)" style="image;html=1;image=img/lib/clip_art/computers/Virtual_Machine_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="385" y="956" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E3Td2upKqRFIPS8fARno-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E3Td2upKqRFIPS8fARno-2" target="E3Td2upKqRFIPS8fARno-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3Td2upKqRFIPS8fARno-2" value="Homeserver&lt;br&gt;(serverside)" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="219" y="956" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E3Td2upKqRFIPS8fARno-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E3Td2upKqRFIPS8fARno-3" target="E3Td2upKqRFIPS8fARno-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="96" y="902" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E3Td2upKqRFIPS8fARno-3" value="Laptop (Clientside)" style="image;html=1;image=img/lib/clip_art/computers/MacBook_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="62" y="956" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E3Td2upKqRFIPS8fARno-4" value="22 ssh" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="227" y="887" width="64" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E3Td2upKqRFIPS8fARno-5" value="22 ssh" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="393" y="889" width="64" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E3Td2upKqRFIPS8fARno-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.441;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="E3Td2upKqRFIPS8fARno-4" target="E3Td2upKqRFIPS8fARno-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3Td2upKqRFIPS8fARno-8" value="ssh user@192.168.66.194&lt;br&gt;homeserver&#39;s NAT&lt;br&gt;(Internal Network)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="281" y="836" width="176" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="E3Td2upKqRFIPS8fARno-9" value="ssh user@192.168.1.100&lt;br&gt;(local home network)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="69" y="854" width="168" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="E3Td2upKqRFIPS8fARno-11" value="(to avoid having to run the ssh command twice,&lt;div&gt;you need a SSH alias with a ProxyJump parameter)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="61" y="787" width="324" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="E3Td2upKqRFIPS8fARno-12" value="PrivateVM&lt;br&gt;(serverside)&lt;br&gt;192.168.66.189" style="image;html=1;image=img/lib/clip_art/computers/Virtual_Machine_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="384.75" y="1207" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E3Td2upKqRFIPS8fARno-14" value="Homeserver&lt;br&gt;(serverside)&lt;br&gt;192.168.1.100" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="218.75" y="1207" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E3Td2upKqRFIPS8fARno-15" value="Laptop (Clientside)" style="image;html=1;image=img/lib/clip_art/computers/MacBook_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="61.75" y="1207" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E3Td2upKqRFIPS8fARno-16" value="80 http&lt;br&gt;(nginx)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="392.75" y="1162" width="64" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E3Td2upKqRFIPS8fARno-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E3Td2upKqRFIPS8fARno-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390.90116279069775" y="1177" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E3Td2upKqRFIPS8fARno-17" value="8888 http&lt;br&gt;(nginx reverse&lt;br&gt;proxy)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="209.25" y="1155" width="99" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="E3Td2upKqRFIPS8fARno-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="E3Td2upKqRFIPS8fARno-18" target="E3Td2upKqRFIPS8fARno-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E3Td2upKqRFIPS8fARno-18" value="Web Browser" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="53.25" y="1162" width="97" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E3Td2upKqRFIPS8fARno-24" value="(normally only accessible&lt;br&gt;by the homeserver due to&amp;nbsp;&lt;br&gt;being in the NAT network)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335.75" y="1105" width="178" height="55" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
