@@ -60,4 +60,4 @@ def main(directory, max_workers):
                 print(f"Compression failed for {fpath}: {exc}")
 
 if __name__ == "__main__":
-    main('../docs/', max_workers=32)
+    main('../docs/', max_workers=4)
