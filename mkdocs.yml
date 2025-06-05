@@ -616,6 +616,8 @@ plugins:
 
 markdown_extensions:
   - meta
+  - pymdownx.highlight
+  - pymdownx.superfences
 
 repo_url: http://git.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/nihilist/blog-contributions
 repo_name: nihilist/blog-contributions
