@@ -65,6 +65,7 @@ nav:
           - opsec/hypervisorsetup/index.md
           - opsec/vpn/index.md
           - opsec/vpnqemu/index.md
+          - opsec/dnscrypt/index.md
         - 💻 Private VM Privacy:
           - opsec/privatesimplex/index.md
           - opsec/compilation/index.md
