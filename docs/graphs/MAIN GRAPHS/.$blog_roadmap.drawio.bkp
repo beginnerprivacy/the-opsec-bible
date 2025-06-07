@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
   <diagram name="Page-1" id="Rn6oyCs34G9xD2IepCBP">
-    <mxGraphModel dx="3108" dy="1357" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2712" dy="1125" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -351,7 +351,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a4jV0qs3TSVzPwCjpWIA-104" value="Hidden Service #106" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
-          <mxGeometry x="668" y="900" width="173" height="61" as="geometry" />
+          <mxGeometry x="661" y="912" width="187" height="37" as="geometry" />
         </mxCell>
         <mxCell id="S_dhNpFy_L8vkl6PzvgN-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="a4jV0qs3TSVzPwCjpWIA-105" target="a4jV0qs3TSVzPwCjpWIA-116" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -442,7 +442,7 @@
             <mxPoint x="551.7619047619046" y="1053.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S_dhNpFy_L8vkl6PzvgN-3" value="Self-hosting a Hypervisor (QEMU/KVM + Cockpit + Private VM setup) #319" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+        <mxCell id="S_dhNpFy_L8vkl6PzvgN-3" value="Self-hosting a Hypervisor (QEMU/KVM + Cockpit + Private VM setup) #319" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="334.5" y="1025.5" width="193.5" height="56" as="geometry" />
         </mxCell>
         <mxCell id="S_dhNpFy_L8vkl6PzvgN-6" value="Backing up data on a VPS without revealing the contents to the cloud provider #321" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
