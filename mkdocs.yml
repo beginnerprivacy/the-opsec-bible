@@ -42,6 +42,7 @@ nav:
         - opsec/aps/index.md
         - opsec/governments/index.md
         - opsec/govfear/index.md
+        - opsec/lawsdonotstopcrime/index.md
         - opsec/opsecmistakes/index.md
       - 📝 Explaining OPSEC ⭐:
         - opsec/opsec4levels/index.md
@@ -65,6 +66,7 @@ nav:
           - opsec/hypervisorsetup/index.md
           - opsec/vpn/index.md
           - opsec/vpnqemu/index.md
+          - opsec/dnscrypt/index.md
         - 💻 Private VM Privacy:
           - opsec/privatesimplex/index.md
           - opsec/compilation/index.md
@@ -615,6 +617,8 @@ plugins:
 
 markdown_extensions:
   - meta
+  - pymdownx.highlight
+  - pymdownx.superfences
 
 repo_url: http://git.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/nihilist/blog-contributions
 repo_name: nihilist/blog-contributions
