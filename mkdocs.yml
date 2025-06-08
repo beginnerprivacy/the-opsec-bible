@@ -53,6 +53,7 @@ nav:
       - Explaining Anarchy:
         - opsec/stateistheenemy/index.md
         - opsec/individualreignssupreme/index.md
+        - opsec/everyoneisacriminal/index.md
     - OPSEC Level 1 | Privacy:
       - 📝 Explaining Privacy:
         - opsec/privacy/index.md
@@ -81,6 +82,8 @@ nav:
         - opsec/selfhosting/index.md
         - opsec/homeserver/index.md
         - opsec/hypervisor_selfhosted/index.md
+        - opsec/vpn_selfhosted/index.md
+        - opsec/vpsvpnrouting/index.md
         #- setting up private VMs for different services
         #- setting up a reverse nginx proxy on the host OS
         #- using a VPS with openVPN to hide your home server's public IP

@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
   <diagram name="Page-1" id="Rn6oyCs34G9xD2IepCBP">
-    <mxGraphModel dx="2712" dy="1125" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3108" dy="1357" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,7 +80,7 @@
         <mxCell id="a4jV0qs3TSVzPwCjpWIA-9" value="Anonymous Server Monitoring #221" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="1012" y="854" width="149" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="a4jV0qs3TSVzPwCjpWIA-10" value="Anonymous Alerting&lt;br&gt;System (via SimpleX bots) #223" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+        <mxCell id="a4jV0qs3TSVzPwCjpWIA-10" value="Anonymous Alerting&lt;br&gt;System (via SimpleX bots) #223" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="1012" y="785" width="149" height="58" as="geometry" />
         </mxCell>
         <mxCell id="a4jV0qs3TSVzPwCjpWIA-11" value="Multi-Owner Infrastructure Dead Man&#39;s Switch (via SimpleX bots) #315" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
@@ -431,7 +431,7 @@
         <mxCell id="a4jV0qs3TSVzPwCjpWIA-143" value="Private Simplex Servers setup #322" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
           <mxGeometry x="819" y="1033" width="149" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="NUYusv78QOWgB7ClrpJZ-1" value="using a VPS to route the traffic to a self-hosted service (hiding your home public IP from the users) #320" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+        <mxCell id="NUYusv78QOWgB7ClrpJZ-1" value="using a VPS to route the traffic to a self-hosted service (hiding your home public IP from the users) #320" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="555" y="1025.5" width="239" height="56" as="geometry" />
         </mxCell>
         <mxCell id="S_dhNpFy_L8vkl6PzvgN-1" value="Self-Hosted LLM Hidden Service #226" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
