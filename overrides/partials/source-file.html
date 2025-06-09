@@ -1,6 +1,5 @@
 <br>
 
-<!-- Render gitea issue reference -->
 {% if page.meta.date %}
 <span class="md-source-file__fact">
   <span class="md-icon">
@@ -8,46 +7,57 @@
   </span>
   <a href="{{ page.meta.gitea_url }}">Suggest changes</a>
 </span>
-
 <br>
 {% endif %}
 
-<!-- Render author -->
 <span class="md-source-file__fact">
   <span class="md-icon">
     {% include ".icons/material/account.svg" %}
   </span>
 {% if page.meta.author %}
-  {{ page.meta.author }}
+  {% if page.meta.author.__class__.__name__ == "list" %}
+    {{ page.meta.author | join('<br>') }}
+  {% else %}
+    {{ page.meta.author }}
+  {% endif %}
 {% else %}
   Nihilist
 {% endif %}
 </span>
 
-<!-- Render date of last update -->
 {% if page.meta.date %}
 <span class="md-source-file__fact">
   <span class="md-icon">
     {% include ".icons/material/clock-edit-outline.svg" %}
   </span>
-  {{ page.meta.date }}
+  {% if page.meta.date.__class__.__name__ == "list" %}
+    {{ page.meta.date | join('<br>') }}
+  {% else %}
+    {{ page.meta.date }}
+  {% endif %}
 </span>
 {% endif %}
-
 <br>
 
-<!-- Render date of last update -->
 <span class="md-source-file__fact" style="max-width: 100%; overflow: scroll;">
   <span class="md-icon">
     {% include ".icons/monero.svg" %}
   </span>
-  <!-- Display XMR address in 3 lines -->
-  <!-- Check valid XMR address -->
-{% if page.meta.get('xmr', '')|length == 95 %}
-  Donate XMR to the author:<br>{{ page.meta.xmr }}
-{% else %}
-  Donate XMR to Nihilist:<br>8AUYjhQeG3D5aodJDtqG499N5jXXM71gYKD8LgSsFB9BUV1o7muLv3DXHoydRTK4SZaaUBq4EAUqpZHLrX2VZLH71Jrd9k8
-{% endif %}
-</span>
 
+  {% if page.meta.xmr.__class__.__name__ == "list" %}
+    {% for address in page.meta.xmr %}
+      {% if address|length == 95 %}
+        Donate XMR to {{ page.meta.author[loop.index0] }}:<br>{{ address }}<br>
+      {% else %}
+        Donate XMR to Nihilist:<br>8AUYjhQeG3D5aodJDtqG499N5jXXM71gYKD8LgSsFB9BUV1o7muLv3DXHoydRTK4SZaaUBq4EAUqpZHLrX2VZLH71Jrd9k8<br>
+      {% endif %}
+    {% endfor %}
+  {% else %}
+    {% if page.meta.xmr|length == 95 %}
+      Donate XMR to the author:<br>{{ page.meta.xmr }}
+    {% else %}
+      Donate XMR to Nihilist:<br>8AUYjhQeG3D5aodJDtqG499N5jXXM71gYKD8LgSsFB9BUV1o7muLv3DXHoydRTK4SZaaUBq4EAUqpZHLrX2VZLH71Jrd9k8
+    {% endif %}
+  {% endif %}
+</span>
 <br>
