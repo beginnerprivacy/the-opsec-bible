@@ -54,6 +54,8 @@ nav:
         - opsec/stateistheenemy/index.md
         - opsec/individualreignssupreme/index.md
         - opsec/everyoneisacriminal/index.md
+      - Explaining Agorism:
+        - opsec/agorism/index.md
     - OPSEC Level 1 | Privacy:
       - 📝 Explaining Privacy:
         - opsec/privacy/index.md
