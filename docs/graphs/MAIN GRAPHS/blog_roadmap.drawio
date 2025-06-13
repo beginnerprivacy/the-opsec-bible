@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
   <diagram name="Page-1" id="Rn6oyCs34G9xD2IepCBP">
-    <mxGraphModel dx="3108" dy="1357" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2226" dy="888" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,7 +67,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="a4jV0qs3TSVzPwCjpWIA-6" value="Serverside Deniability&lt;br&gt;(Self-Hosting)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
-          <mxGeometry x="98" y="575" width="149" height="41" as="geometry" />
+          <mxGeometry x="125" y="576" width="149" height="41" as="geometry" />
         </mxCell>
         <mxCell id="YfLTTMdyfo86M8OlOIly-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a4jV0qs3TSVzPwCjpWIA-8" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -98,7 +98,7 @@
         <mxCell id="S_dhNpFy_L8vkl6PzvgN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="a4jV0qs3TSVzPwCjpWIA-14" target="S_dhNpFy_L8vkl6PzvgN-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pgm1A0MqxylHZf_etOL0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a4jV0qs3TSVzPwCjpWIA-14" target="pgm1A0MqxylHZf_etOL0-1">
+        <mxCell id="pgm1A0MqxylHZf_etOL0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="a4jV0qs3TSVzPwCjpWIA-14" target="pgm1A0MqxylHZf_etOL0-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a4jV0qs3TSVzPwCjpWIA-14" value="Self-Hosting a server&lt;br&gt;tutorial : kicksecure host OS recap + RDP + SSH access #318" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
@@ -490,7 +490,7 @@
         <mxCell id="rc6S3lg3hJiNVlqmhrlK-1" value="Black Hat Hacking&lt;br&gt;VM Setup #335" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
           <mxGeometry x="-344" y="331" width="149" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="pgm1A0MqxylHZf_etOL0-1" value="Setting up a VPN on your&lt;br&gt;homeserver to prevent&lt;br&gt;IP Leaks #" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+        <mxCell id="pgm1A0MqxylHZf_etOL0-1" value="Setting up a VPN on your&lt;br&gt;homeserver to prevent&lt;br&gt;IP Leaks #" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
           <mxGeometry x="584" y="1124" width="185.5" height="60" as="geometry" />
         </mxCell>
       </root>
