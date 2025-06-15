@@ -42,7 +42,6 @@ nav:
         - opsec/aps/index.md
         - opsec/governments/index.md
         - opsec/govfear/index.md
-        - opsec/lawsdonotstopcrime/index.md
         - opsec/opsecmistakes/index.md
       - 📝 Explaining OPSEC ⭐:
         - opsec/opsec4levels/index.md
@@ -52,6 +51,7 @@ nav:
         - opsec/chats/index.md
       - Explaining Anarchy:
         - opsec/stateistheenemy/index.md
+        - opsec/lawsdonotstopcrime/index.md
         - opsec/individualreignssupreme/index.md
         - opsec/everyoneisacriminal/index.md
       - Explaining Agorism:
@@ -103,6 +103,9 @@ nav:
         - opsec/anonymitymetadata/index.md
         - opsec/torvsvpns/index.md
         - opsec/signalnoanonymity/index.md
+        - Exploring the Darknet:
+          - opsec/clearnetvsdarknet/index.md
+          - opsec/darknetexploration/index.md
       - 💻 Clientside Anonymity:
         - opsec/whonixqemuvms/index.md
         - opsec/torbrowsing/index.md
@@ -115,9 +118,6 @@ nav:
         - Hiding your Anonymity from the service provider:
           - opsec/whentorisblocked/index.md
           - opsec/anonproxy/index.md
-        - Exploring the Darknet:
-          - opsec/clearnetvsdarknet/index.md
-          - opsec/darknetexploration/index.md
         - 💻 Using AI to protect your Anonymity:
           - opsec/stylometry/index.md
         - 💻 Anonymous File Sharing:
@@ -135,8 +135,10 @@ nav:
           - opsec/haveno-cashbymail/index.md
           - opsec/haveno-crypto/index.md
           - opsec/anoncreditcard/index.md
-        - ⚠️ Miscellaneous - In real life:
-          - opsec/anonprotest/index.md
+
+      - ⚠️ Outdoors Anonymity:
+        - opsec/anonprotest/index.md
+
       - 🧅 Serverside Anonymity (remote):
         - opsec/anonymousremoteserver/index.md
         - opsec/moneroinheritance/index.md
@@ -167,10 +169,11 @@ nav:
           - opsec/anonsimplex-server/index.md
           - opsec/monero2024/index.md
           - opsec/monerop2pool/index.md
+          - opsec/haveno-seednode/index.md
         #- Why you should self-host hidden services
         #- Serverside Anonymous VM 
         #- Accessing self-hosted servers via their Hidden service
-       
+
 
     - OPSEC Level 3 | Deniability:
       - 📝 Explaining Plausible Deniability:
@@ -201,7 +204,6 @@ nav:
         - opsec/sensitiveremotevshome/index.md
         #- Anonymously renting servers from the Sensitive VM
         - opsec/cloud_provider_adversary/index.md
-        - opsec/haveno-seednode/index.md
         #- Sensitive remote servers organization
         #- Multi Owner Infrastructure (Dead Man's Switch via Simplex bots)
         - 🧅 High Availability for Deniability:
