@@ -1,4 +1,4 @@
-# The Nihilism OPSEC blog
+# The Opsec Bible
 
 ## Work on blog posts
 
