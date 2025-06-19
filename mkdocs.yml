@@ -1,4 +1,4 @@
-site_name: The Nihilism OPSEC blog
+site_name: The OPSEC Bible
 site_url: http://blog.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/
 theme:
   name: material
@@ -32,7 +32,7 @@ theme:
   favicon: assets/logo.png
 
 nav:
-  - OPSEC:
+  - Operational Security:
     - opsec/index.md
     - opsec/whytheblog/index.md
     - opsec/offtopic/index.md
