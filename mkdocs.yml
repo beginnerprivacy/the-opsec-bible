@@ -28,8 +28,8 @@ theme:
     - navigation.footer
     #- navigation.sections
 
-  logo: assets/logo.png
-  favicon: assets/logo.png
+  logo: assets/opsec_bible.png
+  favicon: assets/opsec_bible.png
 
 nav:
   - Operational Security:
