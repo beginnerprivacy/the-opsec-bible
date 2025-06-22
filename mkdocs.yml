@@ -254,9 +254,9 @@ nav:
       - productivity/reflecting/index.md
 
   - Self-Hosting:
+    - selfhosting/0_lainradio/index.md
     - selfhosting/qubesos/index.md
     - selfhosting/qubesosnetwork/index.md
-    - selfhosting/0_lainradio/index.md
     - selfhosting/4get/index.md
     - selfhosting/Gitea/index.md
     - selfhosting/RustDesk/index.md
