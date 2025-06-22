@@ -181,6 +181,7 @@ nav:
         - opsec/deniability/index.md
         - opsec/anonsensitive/index.md
       - 💻 Clientside Deniability:
+        - opsec/duresspin/index.md
         - opsec/tailsqemuvm/index.md
         - opsec/livemode/index.md
         - opsec/veracrypt/index.md
