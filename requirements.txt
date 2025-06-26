@@ -1,2 +1,4 @@
 mkdocs-material
 mkdocs-rss-plugin
+requests
+tzdata
