@@ -1,4 +1,4 @@
 mkdocs-material
-mkdocs-rss-plugin
+feedgen
 requests
 tzdata
