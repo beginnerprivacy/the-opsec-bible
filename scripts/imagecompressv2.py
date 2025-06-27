@@ -3,6 +3,7 @@
 # requires imagemagick, avifenc, svt-av1
 
 import os
+import sys
 import subprocess
 import concurrent.futures
 
@@ -60,4 +61,11 @@ def main(directory, max_workers):
                 print(f"Compression failed for {fpath}: {exc}")
 
 if __name__ == "__main__":
-    main('../docs/', max_workers=4)
+    # ./imagecompressv2.py [/path/to/dir] [num_workers]
+    img_path = '../docs'
+    workers = 4
+    if len(sys.argv) > 1:
+        img_path = sys.argv[1]
+    if len(sys.argv) > 2:
+        workers = int(sys.argv[2])
+    main(img_path, max_workers=workers)
