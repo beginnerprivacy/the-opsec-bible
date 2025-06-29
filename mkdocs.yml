@@ -104,6 +104,7 @@ nav:
         - opsec/anonymitymetadata/index.md
         - opsec/torvsvpns/index.md
         - opsec/signalnoanonymity/index.md
+        - opsec/germantornodes/index.md
         - Exploring the Darknet:
           - opsec/clearnetvsdarknet/index.md
           - opsec/darknetexploration/index.md
