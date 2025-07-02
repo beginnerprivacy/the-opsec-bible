@@ -168,6 +168,7 @@ nav:
       - 🧅 Serverside Anonymity (Self-Hosting):
         - opsec/whonix_hiddenservice/index.md
         - opsec/nextcloud/index.md
+        - opsec/anondrive/index.md
         - opsec/openwebuilocalllms/index.md
         - opsec/mailprivate/index.md
         - Contributing to Anonymity:
