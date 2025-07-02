@@ -49,6 +49,8 @@ nav:
         - opsec/opsec/index.md
         - opsec/multiple_identities/index.md
         - opsec/chats/index.md
+        - opsec/dreadopsec/index.md
+        - opsec/0day-fallacy/index.md
       - Explaining Anarchy:
         - opsec/stateistheenemy/index.md
         - opsec/lawsdonotstopcrime/index.md
@@ -67,6 +69,7 @@ nav:
       - 💻 Clientside Privacy:
         - Host OS Setup:
           - opsec/linux/index.md
+          - opsec/whynotqubes/index.md
           - opsec/graphene/index.md
           - opsec/hypervisorsetup/index.md
           - opsec/vpn/index.md
