@@ -50,7 +50,7 @@ nav:
         - opsec/multiple_identities/index.md
         - opsec/chats/index.md
         - opsec/dreadopsec/index.md
-        - opsec/0day-fallacy/index.md
+        - opsec/0days-fallacy/index.md
       - Explaining Anarchy:
         - opsec/stateistheenemy/index.md
         - opsec/lawsdonotstopcrime/index.md
