@@ -142,6 +142,7 @@ nav:
           - opsec/anoncreditcard/index.md
 
       - ⚠️ Outdoors Anonymity:
+        - opsec/thepostalsystemexplained/index.md
         - opsec/anonprotest/index.md
 
       - 🧅 Serverside Anonymity (remote):
