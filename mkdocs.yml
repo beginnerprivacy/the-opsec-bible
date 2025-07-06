@@ -76,6 +76,7 @@ nav:
           - opsec/vpnqemu/index.md
           - opsec/dnscrypt/index.md
         - 💻 Private VM Privacy:
+          - opsec/frontends_explained/index.md
           - opsec/privatesimplex/index.md
           - opsec/compilation/index.md
           - opsec/file-verification/index.md
