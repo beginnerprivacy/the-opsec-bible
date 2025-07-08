@@ -42,7 +42,7 @@ nav:
         - opsec/aps/index.md
         - opsec/governments/index.md
         - opsec/govfear/index.md
-        - opsec/opsecmistakes/index.md
+        - opsec/lawfareexplained/index.md
       - 📝 Explaining OPSEC ⭐:
         - opsec/opsec4levels/index.md
         - opsec/internetsegmentation/index.md
@@ -52,6 +52,7 @@ nav:
         - opsec/dreadopsec/index.md
         - opsec/0days-fallacy/index.md
       - 🫢 OPSEC Mistakes:
+        - opsec/opsecmistakes/index.md
         - opsec/incognito_market/index.md
       - Explaining Anarchy:
         - opsec/stateistheenemy/index.md
