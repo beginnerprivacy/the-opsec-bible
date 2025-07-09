@@ -84,6 +84,7 @@ nav:
           - opsec/privatesimplex/index.md
           - opsec/compilation/index.md
           - opsec/file-verification/index.md
+          - opsec/opensnitch-firewall/index.md
           - opsec/passwordmanagement/index.md
           - opsec/syncthingvpn/index.md
           - opsec/p2ptorrents/index.md
