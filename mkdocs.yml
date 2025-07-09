@@ -618,7 +618,7 @@ nav:
       - hacking/3/prep.md
       - hacking/3/tux.md
 
-copyright: "Creative Commons Zero: No Rights Reserved"
+copyright: "<a href=\"https://creativecommons.org/public-domain/cc0\">Creative Commons Zero: No Rights Reserved</a><br><a href=\"/opsec/stancesensitive/index.html#do-we-recommend-that-you-do-sensitive-activities\">Legal Disclaimer</a> ⦁ <a href=\"/opsec/contribute/index.html\">Contribute</a> ⦁ <a href=\"/opsec/runtheblog/index.html\">Run Your Own</a>"
 
 #extra_javascript:
 #  - https://fastly.jsdelivr.net/npm/jquery/dist/jquery.min.js
