@@ -74,6 +74,7 @@ nav:
       - 💻 Clientside Privacy:
         - Host OS Setup:
           - opsec/linux/index.md
+          - opsec/linuxbasics/index.md
           - opsec/whynotqubes/index.md
           - opsec/graphene/index.md
           - opsec/hypervisorsetup/index.md
