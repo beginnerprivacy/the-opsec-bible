@@ -53,6 +53,7 @@ nav:
         - opsec/0days-fallacy/index.md
       - 🫢 OPSEC Mistakes:
         - opsec/opsecmistakes/index.md
+        - opsec/segmentationfails-email-name-pass/index.md
         - opsec/incognito_market/index.md
       - Explaining Anarchy:
         - opsec/stateistheenemy/index.md
