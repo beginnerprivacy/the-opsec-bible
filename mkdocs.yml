@@ -103,6 +103,7 @@ nav:
         - opsec/hypervisor_selfhosted/index.md
         - opsec/vpn_selfhosted/index.md
         - opsec/vpsvpnrouting/index.md
+        - opsec/vpn-router/index.md
         #- setting up private VMs for different services
         #- setting up a reverse nginx proxy on the host OS
         #- using a VPS with openVPN to hide your home server's public IP
