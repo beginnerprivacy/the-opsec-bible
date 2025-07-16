@@ -82,9 +82,10 @@ nav:
           - opsec/whynotqubes/index.md
           - opsec/graphene/index.md
           - opsec/hypervisorsetup/index.md
+          - opsec/dnscrypt/index.md
           - opsec/vpn/index.md
           - opsec/vpnqemu/index.md
-          - opsec/dnscrypt/index.md
+          - opsec/usbdeadmansswitch/index.md
         - 💻 Private VM Privacy:
           - opsec/frontends_explained/index.md
           - opsec/privatesimplex/index.md
