@@ -85,6 +85,7 @@ nav:
           - opsec/dnscrypt/index.md
           - opsec/vpn/index.md
           - opsec/vpnqemu/index.md
+          - opsec/mullvadvpn-daily-connect/index.md
           - opsec/usbdeadmansswitch/index.md
         - 💻 Private VM Privacy:
           - opsec/frontends_explained/index.md
