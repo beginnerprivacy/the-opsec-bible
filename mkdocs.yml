@@ -55,6 +55,7 @@ nav:
         - opsec/opsecmistakes/index.md
         - opsec/segmentationfails-email-name-pass/index.md
         - opsec/xmr-opsec-mistakes/index.md
+        - opsec/silk_road/index.md
         - opsec/incognito_market/index.md
       - Explaining Anarchy:
         - opsec/stateistheenemy/index.md
