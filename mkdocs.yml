@@ -241,7 +241,7 @@ nav:
       - opsec/0_template/index.md
 
   - Operational Security Mistakes:
-    - opsec/opsecmistakes.md
+    - opsec/opsecmistakes_index.md
     - opsec/opsecmistakes/index.md
     - opsec/segmentationfails-email-name-pass/index.md
     - opsec/xmr-opsec-mistakes/index.md
