@@ -1,0 +1,111 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
+  <diagram name="Page-1" id="UtTxNIwRwFklZG3unqLc">
+    <mxGraphModel dx="2312" dy="725" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lVp1PYDwbiNW_MUYN3wN-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lVp1PYDwbiNW_MUYN3wN-1" target="lVp1PYDwbiNW_MUYN3wN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lVp1PYDwbiNW_MUYN3wN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lVp1PYDwbiNW_MUYN3wN-1" target="lVp1PYDwbiNW_MUYN3wN-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lVp1PYDwbiNW_MUYN3wN-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lVp1PYDwbiNW_MUYN3wN-1" target="lVp1PYDwbiNW_MUYN3wN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lVp1PYDwbiNW_MUYN3wN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lVp1PYDwbiNW_MUYN3wN-1" target="lVp1PYDwbiNW_MUYN3wN-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lVp1PYDwbiNW_MUYN3wN-1" value="Onion link A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-6" y="816" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lVp1PYDwbiNW_MUYN3wN-2" value="Onion link B1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="233" y="816" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lVp1PYDwbiNW_MUYN3wN-3" value="Onion link B2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="235" y="896" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lVp1PYDwbiNW_MUYN3wN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lVp1PYDwbiNW_MUYN3wN-4" target="lVp1PYDwbiNW_MUYN3wN-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lVp1PYDwbiNW_MUYN3wN-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lVp1PYDwbiNW_MUYN3wN-4" target="lVp1PYDwbiNW_MUYN3wN-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lVp1PYDwbiNW_MUYN3wN-4" value="Onion link B3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="235" y="978" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lVp1PYDwbiNW_MUYN3wN-5" value="Onion link B4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="235" y="1062" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lVp1PYDwbiNW_MUYN3wN-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lVp1PYDwbiNW_MUYN3wN-6" target="lVp1PYDwbiNW_MUYN3wN-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lVp1PYDwbiNW_MUYN3wN-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lVp1PYDwbiNW_MUYN3wN-6" target="lVp1PYDwbiNW_MUYN3wN-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lVp1PYDwbiNW_MUYN3wN-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lVp1PYDwbiNW_MUYN3wN-6" target="lVp1PYDwbiNW_MUYN3wN-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lVp1PYDwbiNW_MUYN3wN-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lVp1PYDwbiNW_MUYN3wN-6" target="lVp1PYDwbiNW_MUYN3wN-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lVp1PYDwbiNW_MUYN3wN-6" value="Onion link C1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="454" y="816" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lVp1PYDwbiNW_MUYN3wN-7" value="Onion link C2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="454" y="896" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lVp1PYDwbiNW_MUYN3wN-8" value="Onion link C3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="454" y="976" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lVp1PYDwbiNW_MUYN3wN-9" value="Onion link C4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="454" y="1062" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lVp1PYDwbiNW_MUYN3wN-11" value="Onion link D1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="674" y="816" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lVp1PYDwbiNW_MUYN3wN-12" value="Onion link D2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="674" y="896" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lVp1PYDwbiNW_MUYN3wN-13" value="Onion link D3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="674" y="976" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lVp1PYDwbiNW_MUYN3wN-14" value="Onion link D4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="674" y="1062" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lVp1PYDwbiNW_MUYN3wN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.574;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lVp1PYDwbiNW_MUYN3wN-4" target="lVp1PYDwbiNW_MUYN3wN-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lVp1PYDwbiNW_MUYN3wN-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.026;entryY=0.545;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lVp1PYDwbiNW_MUYN3wN-4" target="lVp1PYDwbiNW_MUYN3wN-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lVp1PYDwbiNW_MUYN3wN-28" value="Link is allowed, yet contains a link that isnt allowed&lt;br&gt;(ex: link aggregators / search engines)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="426" y="1192" width="158" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lVp1PYDwbiNW_MUYN3wN-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lVp1PYDwbiNW_MUYN3wN-29" target="lVp1PYDwbiNW_MUYN3wN-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="655" y="1292" />
+              <mxPoint x="505" y="1292" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lVp1PYDwbiNW_MUYN3wN-29" value="Link is not allowed&lt;br&gt;(ex: porn)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="601" y="1202" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lVp1PYDwbiNW_MUYN3wN-30" value="Link is allowed&lt;br&gt;(ex: blog)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="288" y="1202" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lVp1PYDwbiNW_MUYN3wN-33" value="Upon blacklisting the link thats not allowed&lt;br&gt;you might optionally want to also website&lt;br&gt;the place that originally listed it." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="443" y="1299" width="278" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="lVp1PYDwbiNW_MUYN3wN-34" value="Lantern onion crawling feature&lt;br&gt;and link verification" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-87" y="758" width="203" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="lVp1PYDwbiNW_MUYN3wN-35" value="The idea is that we should crawl&amp;nbsp;&lt;br&gt;as far as possible, retrieve all links out there&lt;br&gt;and then filter out the bad links&lt;br&gt;and optionally also the links that&amp;nbsp;&lt;br&gt;listed those bad links" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="828" y="953" width="285" height="84" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

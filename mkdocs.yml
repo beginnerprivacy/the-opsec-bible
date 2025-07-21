@@ -32,7 +32,7 @@ theme:
   favicon: assets/opsec_bible.png
 
 nav:
-  - Operational Security:
+  - Operational Security Advice:
     - opsec/index.md
     - opsec/whytheblog/index.md
     - opsec/offtopic/index.md
@@ -51,12 +51,6 @@ nav:
         - opsec/chats/index.md
         - opsec/dreadopsec/index.md
         - opsec/0days-fallacy/index.md
-      - 🫢 OPSEC Mistakes:
-        - opsec/opsecmistakes/index.md
-        - opsec/segmentationfails-email-name-pass/index.md
-        - opsec/xmr-opsec-mistakes/index.md
-        - opsec/silk_road/index.md
-        - opsec/incognito_market/index.md
       - Explaining Anarchy:
         - opsec/stateistheenemy/index.md
         - opsec/lawsdonotstopcrime/index.md
@@ -246,6 +240,13 @@ nav:
       - opsec/runtheblog/index.md
       - opsec/0_template/index.md
 
+  - Operational Security Mistakes:
+    - opsec/opsecmistakes.md
+    - opsec/opsecmistakes/index.md
+    - opsec/segmentationfails-email-name-pass/index.md
+    - opsec/xmr-opsec-mistakes/index.md
+    - opsec/silk_road/index.md
+    - opsec/incognito_market/index.md
 
   - Productivity:
     - productivity/index.md
