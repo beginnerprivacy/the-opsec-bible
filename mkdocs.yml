@@ -218,7 +218,7 @@ nav:
         - opsec/failovers/index.md
         #- host OS wan failover
         - opsec/physicalsecurity/index.md
-        #- Automating Emergency Shutdowns: detecting usb changes
+        - opsec/physicalsecurity/index.md
         #- Automating Emergency Shutdowns: detecting movement
       - 🧅 Serverside Deniability (Remote):
         - opsec/sensitiveremotevshome/index.md
