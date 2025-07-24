@@ -100,6 +100,7 @@ nav:
       - 💻 Serverside Privacy (Self-Hosting):
         - opsec/selfhosting/index.md
         - opsec/homeserver/index.md
+        - opsec/homeserverdeadmansswitch/index.md
         - opsec/hypervisor_selfhosted/index.md
         - opsec/vpn_selfhosted/index.md
         - opsec/vpsvpnrouting/index.md
@@ -219,12 +220,12 @@ nav:
         - opsec/failovers/index.md
         #- host OS wan failover
         - opsec/physicalsecurity/index.md
-        - opsec/physicalsecurity/index.md
         #- Automating Emergency Shutdowns: detecting movement
       - 🧅 Serverside Deniability (Remote):
         - opsec/sensitiveremotevshome/index.md
         #- Anonymously renting servers from the Sensitive VM
         - opsec/cloud_provider_adversary/index.md
+        - opsec/vps-deniability/index.md
         #- Sensitive remote servers organization
         #- Multi Owner Infrastructure (Dead Man's Switch via Simplex bots)
         - 🧅 High Availability for Deniability:
