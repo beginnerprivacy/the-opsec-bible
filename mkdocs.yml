@@ -241,6 +241,7 @@ nav:
       - opsec/maintainers/index.md
       - opsec/runtheblog/index.md
       - opsec/0_template/index.md
+    - tags.md
 
   - Operational Security Mistakes:
     - opsec/opsecmistakes_index.md
