@@ -100,6 +100,7 @@ nav:
       - 💻 Serverside Privacy (Self-Hosting):
         - opsec/selfhosting/index.md
         - opsec/homeserver/index.md
+        - opsec/homeserverdeadmansswitch/index.md
         - opsec/hypervisor_selfhosted/index.md
         - opsec/vpn_selfhosted/index.md
         - opsec/vpsvpnrouting/index.md
@@ -220,12 +221,12 @@ nav:
         - opsec/failovers/index.md
         #- host OS wan failover
         - opsec/physicalsecurity/index.md
-        - opsec/physicalsecurity/index.md
         #- Automating Emergency Shutdowns: detecting movement
       - 🧅 Serverside Deniability (Remote):
         - opsec/sensitiveremotevshome/index.md
         #- Anonymously renting servers from the Sensitive VM
         - opsec/cloud_provider_adversary/index.md
+        - opsec/vps-deniability/index.md
         #- Sensitive remote servers organization
         #- Multi Owner Infrastructure (Dead Man's Switch via Simplex bots)
         - 🧅 High Availability for Deniability:
@@ -241,11 +242,13 @@ nav:
       - opsec/maintainers/index.md
       - opsec/runtheblog/index.md
       - opsec/0_template/index.md
+    - tags.md
 
   - Operational Security Mistakes:
     - opsec/opsecmistakes_index.md
     - opsec/opsecmistakes/index.md
     - opsec/segmentationfails-email-name-pass/index.md
+    - opsec/banksandcrypto/index.md
     - opsec/xmr-opsec-mistakes/index.md
     - opsec/silk_road/index.md
     - opsec/incognito_market/index.md
@@ -657,5 +660,5 @@ markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
 
-repo_url: http://git.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/nihilist/blog-contributions
+repo_url: http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/nihilist/blog-contributions
 repo_name: nihilist/blog-contributions
