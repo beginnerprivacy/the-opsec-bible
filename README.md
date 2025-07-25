@@ -2,13 +2,13 @@
 
 ## Work on blog posts
 
-If you're here and want to contribute to our blog posts, you only need to fork and clone the [opsec-blogposts](http://git.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/nihilist/opsec-blogposts) repo.
+If you're here and want to contribute to our blog posts, you only need to fork and clone the [opsec-blogposts](http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/nihilist/opsec-blogposts) repo.
 
 ```
-$ git -c "http.proxy=socks5h://127.0.0.1:9050" clone "http://git.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/[you]/opsec-blogposts.git" --depth=1
+$ git -c "http.proxy=socks5h://127.0.0.1:9050" clone "http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/[you]/opsec-blogposts.git" --depth=1
 ```
 
-We have a more detailed [contributing guide](http://blog.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/opsec/contribute/) that will help you with later steps. It may be somewhat incomplete currently so I'll list some general steps you should consider while writing/editing markdown blog posts.
+We have a more detailed [contributing guide](http://opbible7nans45sg33cbyeiwqmlp5fu7lklu6jd6f3mivrjeqadco5yd.onion/opsec/contribute/) that will help you with later steps. It may be somewhat incomplete currently so I'll list some general steps you should consider while writing/editing markdown blog posts.
 
 - the main file of each post's directory is `index.md`, you should also make references to `index.md` of other blog posts
   for example: `Do it like [we did before](../anonsms/index.md).`
@@ -17,7 +17,7 @@ We have a more detailed [contributing guide](http://blog.nowherejezfoltodf4jiyl6
   ---
   author: oxeo0
   date: 2025-05-16
-  gitea_url: "http://git.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/nihilist/blog-contributions/issues/278"
+  gitea_url: "http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/nihilist/blog-contributions/issues/278"
   xmr: 862Sp3N5Y8NByFmPVLTPrJYzwdiiVxkhQgAdt65mpYKJLdVDHyYQ8swLgnVr8D3jKphDUcWUCVK1vZv9u8cvtRJCUBFb8MQ
   ---
 
@@ -29,13 +29,13 @@ We have a more detailed [contributing guide](http://blog.nowherejezfoltodf4jiyl6
   $ avifenc 0.png --yuv 420 --range l -q 50 -c svt --speed 0 --ignore-exif -o 0.png
   ```
   We'll handle that if you're unsure or face any problems with compression.
-- Even though all issues should remain [on the main repository](http://git.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/nihilist/blog-contributions), you should make Pull Request to the [opsec-blogposts](http://git.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/nihilist/opsec-blogposts) repo once you're done with your contribution.
+- Even though all issues should remain [on the main repository](http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/nihilist/blog-contributions), you should make Pull Request to the [opsec-blogposts](http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/nihilist/opsec-blogposts) repo once you're done with your contribution.
 
 ## Clone everything
 
 Our blog consists of a few git submodules. To fully clone it, use the following command:
 ```
-$ git -c "http.proxy=socks5h://127.0.0.1:9050" clone "http://git.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/nihilist/blog-contributions.git" --depth=1 --recursive --shallow-submodules
+$ git -c "http.proxy=socks5h://127.0.0.1:9050" clone "http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/nihilist/blog-contributions.git" --depth=1 --recursive --shallow-submodules
 ```
 
 In case of `connection refused` error, make sure you have Tor daemon running in the background listening with `SocksPort 9050`.
@@ -66,5 +66,5 @@ It should be served on `http://locahost:8000`
 
 ## Run the blog on the server
 
-We have a [separate repo](http://git.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/nihilist/blog-deploy) to run the blog post in **production environment** - with automatic updates and reverse proxy.
+We have a [separate repo](http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/nihilist/blog-deploy) to run the blog post in **production environment** - with automatic updates and reverse proxy.
 
