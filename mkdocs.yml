@@ -84,7 +84,6 @@ nav:
           - opsec/vpn/index.md
           - opsec/vpnqemu/index.md
           - opsec/mullvadvpn-daily-connect/index.md
-          - opsec/usbdeadmansswitch/index.md
         - 💻 Private VM Privacy:
           - opsec/frontends_explained/index.md
           - opsec/privatesimplex/index.md
@@ -208,6 +207,7 @@ nav:
         - opsec/livemode/index.md
         - opsec/veracrypt/index.md
         - opsec/sensitivevm/index.md
+        - opsec/usbdeadmansswitch/index.md
         - opsec/plausiblydeniabledataprotection/index.md
         
         - 💻 Steganography - Hiding secrets in plain sight:
