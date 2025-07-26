@@ -45,8 +45,8 @@
 }
 
 .nosvg-icon {
-  filter: drop-shadow(0 4000px 0 currentcolor);
-  transform: translateY(-4000px);
+  filter: drop-shadow(-4000px 0 0 currentcolor);
+  transform: translateX(4000px);
   display: block;
 }
 
