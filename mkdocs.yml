@@ -239,8 +239,11 @@ nav:
     - opsec/segmentationfails-email-name-pass/index.md
     - opsec/banksandcrypto/index.md
     - opsec/xmr-opsec-mistakes/index.md
-    - opsec/silk_road/index.md
-    - opsec/incognito_market/index.md
+    - Darknet Market Downfalls:
+      - opsec/silk_road/index.md
+      - opsec/incognito_market/index.md
+    - Consequences of bad OPSEC:
+      - opsec/violenceandgangs/index.md
 
   - Productivity:
     - productivity/index.md
