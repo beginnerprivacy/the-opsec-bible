@@ -1,0 +1,30 @@
+<!-- Legal Disclaimer -->
+{% if "xmr" in page.meta %}
+  <div class="legal-banner"><b style="color: #f08;">WARNING:</b> The content here only serves educational purpose. <b>You</b> are fully responsible for <b>your</b> actions.<br>We <b><a href="/opsec/stancesensitive/index.html#do-we-recommend-that-you-do-sensitive-activities">do not encourage</a></b> any kind of sensitive activity or crime.</div>
+{% endif %}
+
+<!-- Tags -->
+{% include "partials/tags.html" %}
+
+<!-- Actions -->
+{% include "partials/actions.html" %}
+
+<!--
+  Hack: check whether the content contains a h1 headline. If it doesn't, the
+  page title (or respectively site name) is used as the main headline.
+-->
+{% if "\x3ch1" not in page.content %}
+  <h1>{{ page.title | d(config.site_name, true)}}</h1>
+{% endif %}
+
+<!-- Page content -->
+{{ page.content }}
+
+<!-- Source file information -->
+{% include "partials/source-file.html" %}
+
+<!-- Was this page helpful? -->
+{% include "partials/feedback.html" %}
+
+<!-- Comment system -->
+{% include "partials/comments.html" %}
