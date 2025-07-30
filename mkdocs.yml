@@ -171,6 +171,7 @@ nav:
       - 🧅 Serverside Anonymity (Self-Hosting):
         - opsec/whonix_hiddenservice/index.md
         - opsec/homeserver-onion/index.md
+        - opsec/onion-client-auth/index.md
         - opsec/nextcloud/index.md
         - opsec/anondrive/index.md
         - opsec/openwebuilocalllms/index.md
