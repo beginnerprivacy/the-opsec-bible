@@ -123,4 +123,10 @@ strong {
   margin-bottom: 1.25em;
 }
 
+.nav-item-core {
+  color: #ffbb99;
+}
+.nav-item-core:hover {
+  color: #ff9100;
+}
 
