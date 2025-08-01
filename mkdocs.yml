@@ -239,6 +239,7 @@ nav:
     - opsec/opsecmistakes_index.md
     - opsec/opsecmistakes/index.md
     - opsec/segmentationfails-email-name-pass/index.md
+    - opsec/telegramnoanonymity/index.md
     - opsec/banksandcrypto/index.md
     - opsec/xmr-opsec-mistakes/index.md
     - Darknet Market Downfalls:
