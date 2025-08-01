@@ -113,7 +113,8 @@ strong {
   box-shadow: 4px 0 0 0 #37f inset;
   margin: 0 -10px;
   padding: 0 10px;
-  display: inline-block;
+  display: block;
+  max-width: 100%;
 }
 
 .legal-banner {
