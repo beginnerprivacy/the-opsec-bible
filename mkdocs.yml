@@ -1,5 +1,5 @@
 site_name: The OPSEC Bible
-site_url: http://blog.nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/
+site_url: http://opbible7nans45sg33cbyeiwqmlp5fu7lklu6jd6f3mivrjeqadco5yd.onion/
 theme:
   name: material
   custom_dir: overrides
@@ -656,5 +656,5 @@ markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
 
-repo_url: http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/nihilist/blog-contributions
-repo_name: nihilist/blog-contributions
+repo_url: http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/nihilist/the-opsec-bible
+repo_name: nihilist/the-opsec-bible
