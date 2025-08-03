@@ -1,17 +1,17 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
   <diagram name="Page-1" id="YaltkXUbTmxIE2NtYj1t">
-    <mxGraphModel dx="1912" dy="1125" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1593" dy="937" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="b_qoK0y8lgKdcArtdpya-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="b_qoK0y8lgKdcArtdpya-1" target="b_qoK0y8lgKdcArtdpya-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b_qoK0y8lgKdcArtdpya-1" value="It is possible to achieve,&lt;br&gt;&lt;u&gt;here&#39;s what you need&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+        <mxCell id="b_qoK0y8lgKdcArtdpya-1" value="It is possible to achieve,&lt;br&gt;&lt;u&gt;here&#39;s &lt;b&gt;WHAT&lt;/b&gt;&amp;nbsp;you need&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
           <mxGeometry x="318" y="292" width="184" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="b_qoK0y8lgKdcArtdpya-2" value="It is simpler than you think,&lt;br&gt;&lt;u&gt;here&#39;s how you can implement it&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
-          <mxGeometry x="311" y="343" width="198" height="37" as="geometry" />
+        <mxCell id="b_qoK0y8lgKdcArtdpya-2" value="It is simpler than you think,&lt;br&gt;&lt;u&gt;here&#39;s &lt;b&gt;HOW&lt;/b&gt; you can implement it&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+          <mxGeometry x="311" y="343" width="198" height="44" as="geometry" />
         </mxCell>
         <mxCell id="b_qoK0y8lgKdcArtdpya-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -19,14 +19,14 @@
             <mxPoint x="410" y="272" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b_qoK0y8lgKdcArtdpya-8" value="The Nihilism Blog&#39;s&amp;nbsp;&lt;div&gt;3 goals&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="348.5" y="167" width="123" height="41" as="geometry" />
+        <mxCell id="b_qoK0y8lgKdcArtdpya-8" value="The Opsec Bible&#39;s&amp;nbsp;&lt;div&gt;3 goals&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="345.5" y="167" width="129" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="b_qoK0y8lgKdcArtdpya-10" value="You actually need privacy, anonymity and deniability, &lt;u&gt;here&#39;s why&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
-          <mxGeometry x="356" y="211" width="108" height="61" as="geometry" />
+        <mxCell id="b_qoK0y8lgKdcArtdpya-10" value="You actually need privacy, anonymity and deniability, &lt;u&gt;here&#39;s &lt;b&gt;WHY&lt;/b&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+          <mxGeometry x="356" y="205" width="108" height="73" as="geometry" />
         </mxCell>
         <mxCell id="b_qoK0y8lgKdcArtdpya-11" value="Tyranny&#39;s 3 goals" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="577" y="174.5" width="111" height="26" as="geometry" />
+          <mxGeometry x="577" y="170" width="111" height="26" as="geometry" />
         </mxCell>
         <mxCell id="b_qoK0y8lgKdcArtdpya-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="b_qoK0y8lgKdcArtdpya-12" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -34,7 +34,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b_qoK0y8lgKdcArtdpya-12" value="Trust us, you don&#39;t need privacy, anonymity and deniability, &lt;u&gt;don&#39;t ask why&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
-          <mxGeometry x="562" y="211" width="141" height="61" as="geometry" />
+          <mxGeometry x="562" y="196" width="141" height="73" as="geometry" />
         </mxCell>
         <mxCell id="b_qoK0y8lgKdcArtdpya-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="b_qoK0y8lgKdcArtdpya-13" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -47,7 +47,7 @@
         <mxCell id="b_qoK0y8lgKdcArtdpya-14" value="censoring everything that helps the individual achieve it" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="562" y="361" width="141" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="b_qoK0y8lgKdcArtdpya-17" value="&lt;span&gt;The Nihilism Blog&lt;br&gt;Quality Standard&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontStyle=1;fontSize=21;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="b_qoK0y8lgKdcArtdpya-17" value="&lt;span&gt;The Opsec Bible&lt;br&gt;Quality Standard&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontStyle=1;fontSize=21;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="943" y="121" width="228" height="87" as="geometry" />
         </mxCell>
         <mxCell id="b_qoK0y8lgKdcArtdpya-18" value="General structure: WHY / WHAT / HOW&lt;br&gt;(it can be across multiple blogposts)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
@@ -81,7 +81,7 @@
         <mxCell id="b_qoK0y8lgKdcArtdpya-21" value="THIRD: How can i implement it ?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="1106" y="361" width="217" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="b_qoK0y8lgKdcArtdpya-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="b_qoK0y8lgKdcArtdpya-22" target="b_qoK0y8lgKdcArtdpya-27" edge="1">
+        <mxCell id="ySDQAztjCg3ButVxxG-a-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="b_qoK0y8lgKdcArtdpya-22" target="ySDQAztjCg3ButVxxG-a-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b_qoK0y8lgKdcArtdpya-22" value="&quot;To be explained&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
@@ -100,8 +100,8 @@
         <mxCell id="b_qoK0y8lgKdcArtdpya-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="b_qoK0y8lgKdcArtdpya-27" target="b_qoK0y8lgKdcArtdpya-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b_qoK0y8lgKdcArtdpya-27" value="wall of text" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
-          <mxGeometry x="1554" y="320" width="94" height="29" as="geometry" />
+        <mxCell id="b_qoK0y8lgKdcArtdpya-27" value="walls of text" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+          <mxGeometry x="1552" y="205" width="94" height="29" as="geometry" />
         </mxCell>
         <mxCell id="b_qoK0y8lgKdcArtdpya-28" value="There is no how without what,&lt;div&gt;there is no what without why&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="876" y="308" width="177" height="41" as="geometry" />
@@ -110,10 +110,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b_qoK0y8lgKdcArtdpya-31" value="multiple paragraphs&lt;br&gt;with highlighted important parts (using ** **)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
-          <mxGeometry x="1672" y="292" width="102" height="85" as="geometry" />
+          <mxGeometry x="1670" y="177" width="102" height="85" as="geometry" />
         </mxCell>
         <mxCell id="b_qoK0y8lgKdcArtdpya-34" value="multiple paragraphs, highlighted important text, and a graph to visually explain the same" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
-          <mxGeometry x="1797" y="300" width="161" height="69" as="geometry" />
+          <mxGeometry x="1795" y="185" width="161" height="69" as="geometry" />
         </mxCell>
         <mxCell id="b_qoK0y8lgKdcArtdpya-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="b_qoK0y8lgKdcArtdpya-36" target="b_qoK0y8lgKdcArtdpya-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -121,7 +121,7 @@
         <mxCell id="b_qoK0y8lgKdcArtdpya-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="b_qoK0y8lgKdcArtdpya-36" target="b_qoK0y8lgKdcArtdpya-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b_qoK0y8lgKdcArtdpya-36" value="just talking about the steps to make without showing each one (aka being lazy)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+        <mxCell id="b_qoK0y8lgKdcArtdpya-36" value="just talking about the steps to make without showing each one &lt;b&gt;(aka being lazy)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="1518" y="376" width="118" height="80" as="geometry" />
         </mxCell>
         <mxCell id="b_qoK0y8lgKdcArtdpya-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="b_qoK0y8lgKdcArtdpya-38" target="b_qoK0y8lgKdcArtdpya-40" edge="1">
@@ -143,22 +143,22 @@
           <mxGeometry x="1701" y="390" width="201" height="89" as="geometry" />
         </mxCell>
         <mxCell id="b_qoK0y8lgKdcArtdpya-46" value="Showing the important parts of the commandline (copy paste into the backticks code blocks), taking screenshots (with arrows to show where to click), and taking pictures (with arrows too)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
-          <mxGeometry x="1697" y="499" width="209" height="97" as="geometry" />
+          <mxGeometry x="1698" y="499" width="207" height="97" as="geometry" />
         </mxCell>
-        <mxCell id="b_qoK0y8lgKdcArtdpya-50" value="Talking about the path is for lazy blogwriters.&lt;br&gt;&lt;b&gt;You are expected to show everyone&lt;br&gt;&amp;nbsp;HOW you are walking that path,&amp;nbsp;&lt;br&gt;without skipping any detail&lt;/b&gt;&lt;br&gt;and accurately explain what you are doing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1907" y="392.5" width="289" height="84" as="geometry" />
+        <mxCell id="b_qoK0y8lgKdcArtdpya-50" value="Talking about the path is for lazy blogwriters.&lt;br&gt;&lt;b&gt;You are expected TO SHOW HOW&amp;nbsp;&lt;br&gt;you are walking that path,&amp;nbsp;&lt;br&gt;without skipping any detail&lt;/b&gt;&lt;br&gt;and accurately explain what you are doing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1910" y="503" width="289" height="84" as="geometry" />
         </mxCell>
         <mxCell id="b_qoK0y8lgKdcArtdpya-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="b_qoK0y8lgKdcArtdpya-51" target="b_qoK0y8lgKdcArtdpya-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b_qoK0y8lgKdcArtdpya-51" value="Spelling mistakes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
-          <mxGeometry x="1554" y="230" width="94" height="39" as="geometry" />
+          <mxGeometry x="1552" y="115" width="94" height="39" as="geometry" />
         </mxCell>
         <mxCell id="b_qoK0y8lgKdcArtdpya-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.499;entryY=1.069;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="b_qoK0y8lgKdcArtdpya-27" target="b_qoK0y8lgKdcArtdpya-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b_qoK0y8lgKdcArtdpya-54" value="Fix all of your spelling&amp;nbsp; + Grammar mistakes by using vscodium&#39;s plugin &quot;LTeX+&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
-          <mxGeometry x="1792" y="205.5" width="136" height="88" as="geometry" />
+          <mxGeometry x="1794" y="104" width="179" height="61" as="geometry" />
         </mxCell>
         <mxCell id="b_qoK0y8lgKdcArtdpya-56" value="Acceptable, &lt;u&gt;and expected&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="1170" y="547" width="193" height="30" as="geometry" />
@@ -175,13 +175,25 @@
         <mxCell id="9NNkzH2eHO21wP-u4fCP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.377;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="b_qoK0y8lgKdcArtdpya-2" target="b_qoK0y8lgKdcArtdpya-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="410" y="396" />
-              <mxPoint x="386" y="396" />
+              <mxPoint x="410" y="401" />
+              <mxPoint x="386" y="401" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9NNkzH2eHO21wP-u4fCP-2" value="Continuous improvement&lt;br&gt;in simplifying the way to achieve it&lt;br&gt;wherever possible" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="310.5" y="390" width="199" height="55" as="geometry" />
+          <mxGeometry x="310" y="401" width="199" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ySDQAztjCg3ButVxxG-a-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ySDQAztjCg3ButVxxG-a-2" target="b_qoK0y8lgKdcArtdpya-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ySDQAztjCg3ButVxxG-a-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ySDQAztjCg3ButVxxG-a-2" target="ySDQAztjCg3ButVxxG-a-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ySDQAztjCg3ButVxxG-a-2" value="AI-written&lt;br&gt;content" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="1552" y="291" width="94" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="ySDQAztjCg3ButVxxG-a-5" value="CONTENT WRITTEN&lt;br&gt;BY HAND ONLY!&lt;br&gt;NO AI CONTENT!" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="1804" y="276" width="143" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

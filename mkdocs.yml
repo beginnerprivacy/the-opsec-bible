@@ -175,6 +175,7 @@ nav:
         - opsec/nextcloud/index.md
         - opsec/anondrive/index.md
         - opsec/openwebuilocalllms/index.md
+        - opsec/mail-problem/index.md
         - opsec/mailprivate/index.md
         - Contributing to Anonymity:
           - opsec/anonsimplex-server/index.md
