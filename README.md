@@ -17,7 +17,7 @@ We have a more detailed [contributing guide](http://opbible7nans45sg33cbyeiwqmlp
   ---
   author: oxeo0
   date: 2025-05-16
-  gitea_url: "http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/nihilist/blog-contributions/issues/278"
+  gitea_url: "http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/nihilist/the-opsec-bible/issues/278"
   xmr: 862Sp3N5Y8NByFmPVLTPrJYzwdiiVxkhQgAdt65mpYKJLdVDHyYQ8swLgnVr8D3jKphDUcWUCVK1vZv9u8cvtRJCUBFb8MQ
   ---
 
@@ -29,13 +29,13 @@ We have a more detailed [contributing guide](http://opbible7nans45sg33cbyeiwqmlp
   $ avifenc 0.png --yuv 420 --range l -q 50 -c svt --speed 0 --ignore-exif -o 0.png
   ```
   We'll handle that if you're unsure or face any problems with compression.
-- Even though all issues should remain [on the main repository](http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/nihilist/blog-contributions), you should make Pull Request to the [opsec-blogposts](http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/nihilist/opsec-blogposts) repo once you're done with your contribution.
+- Even though all issues should remain [on the main repository](http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/nihilist/the-opsec-bible), you should make Pull Request to the [opsec-blogposts](http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/nihilist/opsec-blogposts) repo once you're done with your contribution.
 
 ## Clone everything
 
 Our blog consists of a few git submodules. To fully clone it, use the following command:
 ```
-$ git -c "http.proxy=socks5h://127.0.0.1:9050" clone "http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/nihilist/blog-contributions.git" --depth=1 --recursive --shallow-submodules
+$ git -c "http.proxy=socks5h://127.0.0.1:9050" clone "http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/nihilist/the-opsec-bible.git" --depth=1 --recursive --shallow-submodules
 ```
 
 In case of `connection refused` error, make sure you have Tor daemon running in the background listening with `SocksPort 9050`.
@@ -44,7 +44,7 @@ The cloning process over the Tor network can take a while. Please be patient and
 
 We try to optimize the size of this repository and its submodules, currently those are:
 ```
-26.31M blog-contributions
+26.31M the-opsec-bible
 36.48M hacking
 44.84M opsec
 6.78M  productivity
