@@ -249,6 +249,7 @@ nav:
     - Consequences of bad OPSEC:
       - opsec/solitaryconfinement/index.md
       - opsec/violenceandgangs/index.md
+      - opsec/becominginformant/index.md
 
   - Productivity:
     - productivity/index.md
