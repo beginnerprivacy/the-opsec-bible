@@ -245,6 +245,7 @@ nav:
     - opsec/xmr-opsec-mistakes/index.md
     - Darknet Market Downfalls:
       - opsec/silk_road/index.md
+      - opsec/alphabay/index.md
       - opsec/incognito_market/index.md
     - Consequences of bad OPSEC:
       - opsec/solitaryconfinement/index.md
