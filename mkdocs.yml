@@ -74,7 +74,6 @@ nav:
           - opsec/vpnqemu/index.md
           - opsec/mullvadvpn-daily-connect/index.md
         - 💻 Private VM Privacy:
-          - opsec/frontends_explained/index.md
           - opsec/privatesimplex/index.md
           - opsec/compilation/index.md
           - opsec/file-verification/index.md
@@ -101,6 +100,9 @@ nav:
         - opsec/pgp/index.md
         - opsec/privatesimplex-server/index.md
         #- Setting up your own Simplex Server
+      - Privacy Frontends:
+        - opsec/frontends_explained/index.md
+        - opsec/redlibsetup/index.md
     - OPSEC Level 2 | Anonymity:
       - 📝 Explaining Anonymity:
         - opsec/anonymityexplained/index.md
