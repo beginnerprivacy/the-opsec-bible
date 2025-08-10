@@ -160,6 +160,7 @@ nav:
         - 🧅 Anonymous Hidden Services:
           - opsec/hiddenservice/index.md
           - opsec/torwebsite/index.md
+          - opsec/clearnet_redirect_darknet/index.md
           - opsec/pgpcanary/index.md
           - opsec/forgejo-anon/index.md
           - opsec/anonymous_server_monitoring/index.md
@@ -201,6 +202,7 @@ nav:
         - opsec/livemode/index.md
         - opsec/veracrypt/index.md
         - opsec/sensitivevm/index.md
+        - opsec/blackhathacking/index.md
         - opsec/usbdeadmansswitch/index.md
         - opsec/plausiblydeniabledataprotection/index.md
         
