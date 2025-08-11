@@ -41,7 +41,7 @@ nav:
         - opsec/chats/index.md
         - opsec/dreadopsec/index.md
         - opsec/0days-fallacy/index.md
-      - Explaining Anarchy:
+      - 📝 Explaining Anarchy:
         - opsec/stateistheenemy/index.md
         - opsec/lawsdonotstopcrime/index.md
         - opsec/individualreignssupreme/index.md
@@ -50,7 +50,7 @@ nav:
         - opsec/technologyserves/index.md
         - opsec/mediapropaganda/index.md
         - opsec/corporationscancerfoss/index.md
-      - Explaining Agorism:
+      - 📝 Explaining Agorism:
         - opsec/agorism/index.md
         - opsec/priceinxmr/index.md
         - opsec/prepareforCBDCs/index.md
@@ -63,7 +63,7 @@ nav:
         - opsec/openhardware/index.md
         - opsec/serversideencryption/index.md
       - 💻 Clientside Privacy:
-        - Host OS Setup:
+        - 💻 Host OS Setup:
           - opsec/linux/index.md
           - opsec/linuxbasics/index.md
           - opsec/whynotqubes/index.md
@@ -73,7 +73,7 @@ nav:
           - opsec/vpn/index.md
           - opsec/vpnqemu/index.md
           - opsec/mullvadvpn-daily-connect/index.md
-        - 💻 Private VM Privacy:
+        - 📦 Private VM Privacy:
           - opsec/privatesimplex/index.md
           - opsec/compilation/index.md
           - opsec/file-verification/index.md
@@ -81,6 +81,9 @@ nav:
           - opsec/passwordmanagement/index.md
           - opsec/syncthingvpn/index.md
           - opsec/p2ptorrents/index.md
+        - 🛜 Private Local Network:
+          - opsec/openwrt/index.md
+          - opsec/vpn-router/index.md
       
         #- 💻 Monitoring that your Privacy is intact:
         #- ⚠️ Miscellaneous - In real life:
@@ -91,16 +94,15 @@ nav:
         - opsec/hypervisor_selfhosted/index.md
         - opsec/vpn_selfhosted/index.md
         - opsec/vpsvpnrouting/index.md
-        - opsec/vpn-router/index.md
         #- setting up private VMs for different services
         #- setting up a reverse nginx proxy on the host OS
         #- using a VPS with openVPN to hide your home server's public IP
-      - Serverside Privacy (Remote):
+      - 🌐 Serverside Privacy (Remote):
         #- Why is E2EE required when using remote servers?
         - opsec/pgp/index.md
         - opsec/privatesimplex-server/index.md
         #- Setting up your own Simplex Server
-      - Privacy Frontends:
+      - 🥷 Privacy Frontends:
         - opsec/frontends_explained/index.md
         - opsec/redlibsetup/index.md
     - OPSEC Level 2 | Anonymity:
@@ -112,7 +114,7 @@ nav:
         - opsec/torvsvpns/index.md
         - opsec/signalnoanonymity/index.md
         - opsec/germantornodes/index.md
-        - Exploring the Darknet:
+        - 🧅 Exploring the Darknet:
           - opsec/clearnetvsdarknet/index.md
           - opsec/darknetexploration/index.md
       - 💻 Clientside Anonymity:
@@ -121,19 +123,19 @@ nav:
         - opsec/anonsimplex/index.md
         - opsec/anonsms/index.md
         - opsec/anonemail/index.md
-        - 💻 Hiding your Anonymity from the ISP:
+        - 👁️‍🗨️ Hiding your Anonymity from the ISP:
           - opsec/torthroughvpn/index.md
           - opsec/v2ray/index.md
-        - Hiding your Anonymity from the service provider:
+        - 👁️‍🗨️ Hiding your Anonymity from the service provider:
           - opsec/whentorisblocked/index.md
           - opsec/anonproxy/index.md
-        - 💻 Using AI to protect your Anonymity:
+        - 🤖 Using AI to protect your Anonymity:
           - opsec/stylometry/index.md
         - 💻 Anonymous File Sharing:
           - opsec/onionshare/index.md
           - opsec/syncthinganon/index.md
           - opsec/i2ptorrents/index.md
-        - 💻 Decentralized Finances ⭐:
+        - 🪙 Decentralized Finances ⭐:
           - opsec/truecrypto/index.md
           - opsec/monerowallet/index.md
           - opsec/chainalysisattempts/index.md
@@ -152,7 +154,7 @@ nav:
       - 🧅 Serverside Anonymity (remote):
         - opsec/anonymousremoteserver/index.md
         - opsec/moneroinheritance/index.md
-        - Contributing to Anonymity:
+        - 🫶 Contributing to Anonymity:
           - opsec/tor/relay/index.md
           - opsec/tor/bridge/index.md
           - opsec/tor/exit_node/index.md
@@ -180,7 +182,7 @@ nav:
         - opsec/openwebuilocalllms/index.md
         - opsec/mail-problem/index.md
         - opsec/mailprivate/index.md
-        - Contributing to Anonymity:
+        - 🫶 Contributing to Anonymity:
           - opsec/anonsimplex-server/index.md
           - opsec/monero2024/index.md
           - opsec/monerop2pool/index.md
@@ -206,11 +208,11 @@ nav:
         - opsec/usbdeadmansswitch/index.md
         - opsec/plausiblydeniabledataprotection/index.md
         
-        - 💻 Steganography - Hiding secrets in plain sight:
+        - 🔎 Steganography - Hiding secrets in plain sight:
           - opsec/steganography/index.md
           - opsec/steghide/index.md
           - opsec/anonzulucrypt/index.md
-        - 💻 Decentralised Finances:
+        - 🪙 Decentralised Finances:
           - opsec/monerowealth/index.md
       - 🧅 Serverside Deniability (Self-Hosted):
         #- Self Hosting Deniability (recap of the clientside deniability setup, but on a home server instead)
@@ -231,7 +233,7 @@ nav:
           - opsec/mysqlmastermaster/index.md
           - opsec/onionbalancelb/index.md
           - opsec/endgame/index.md
-    - Contributing to the project:
+    - 🫶 Contributing to the project:
       - opsec/criticism/index.md
       - opsec/qualitystandard/index.md
       - opsec/contribute/index.md
@@ -247,11 +249,11 @@ nav:
     - opsec/telegramnoanonymity/index.md
     - opsec/banksandcrypto/index.md
     - opsec/xmr-opsec-mistakes/index.md
-    - Darknet Market Downfalls:
+    - 📛 Darknet Market Downfalls:
       - opsec/silk_road/index.md
       - opsec/alphabay/index.md
       - opsec/incognito_market/index.md
-    - Consequences of bad OPSEC:
+    - 🪪 Consequences of bad OPSEC:
       - opsec/solitaryconfinement/index.md
       - opsec/violenceandgangs/index.md
       - opsec/becominganinformant/index.md
