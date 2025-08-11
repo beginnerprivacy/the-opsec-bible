@@ -81,7 +81,7 @@ nav:
           - opsec/passwordmanagement/index.md
           - opsec/syncthingvpn/index.md
           - opsec/p2ptorrents/index.md
-        - 🛜 Private Local Network:
+        - 📶 Private Local Network:
           - opsec/openwrt/index.md
           - opsec/vpn-router/index.md
       
