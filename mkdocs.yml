@@ -124,9 +124,10 @@ nav:
         - opsec/anonsms/index.md
         - opsec/anonemail/index.md
         - 👁️‍🗨️ Hiding your Anonymity from the ISP:
+          - opsec/toolslegality/index.md
           - opsec/torthroughvpn/index.md
           - opsec/v2ray/index.md
-        - 👁️‍🗨️ Hiding your Anonymity from the service provider:
+        - 👁️‍🗨️ Hiding your Anonymity from the service:
           - opsec/whentorisblocked/index.md
           - opsec/anonproxy/index.md
         - 🤖 Using AI to protect your Anonymity:
