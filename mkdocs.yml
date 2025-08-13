@@ -186,6 +186,7 @@ nav:
         - 🫶 Contributing to Anonymity:
           - opsec/anonsimplex-server/index.md
           - opsec/monero2024/index.md
+          - opsec/gupax/index.md
           - opsec/monerop2pool/index.md
           - opsec/haveno-seednode/index.md
         #- Why you should self-host hidden services
