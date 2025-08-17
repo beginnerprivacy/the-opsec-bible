@@ -246,6 +246,7 @@ nav:
       - opsec/runtheblog/index.md
       - opsec/0_template/index.md
     - tags.md
+    - opsec/thenowherecommunity/index.md
 
   - Operational Security Mistakes:
     - opsec/opsec_standard/index.md
