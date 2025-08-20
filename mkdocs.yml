@@ -91,6 +91,7 @@ nav:
         #- ⚠️ Miscellaneous - In real life:
       - 💻 Serverside Privacy (Self-Hosting):
         - opsec/selfhosting/index.md
+        - opsec/docker-intro/index.md
         - opsec/homeserver/index.md
         - opsec/homeserverdeadmansswitch/index.md
         - opsec/hypervisor_selfhosted/index.md
