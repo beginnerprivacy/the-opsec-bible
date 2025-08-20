@@ -158,11 +158,6 @@ nav:
       - 🧅 Serverside Anonymity (remote):
         - opsec/anonymousremoteserver/index.md
         - opsec/moneroinheritance/index.md
-        - 🫶 Contributing to Anonymity:
-          - opsec/tor/relay/index.md
-          - opsec/tor/bridge/index.md
-          - opsec/tor/exit_node/index.md
-          - opsec/darknetlantern/index.md
         - 🧅 Anonymous Hidden Services:
           - opsec/hiddenservice/index.md
           - opsec/torwebsite/index.md
@@ -187,16 +182,20 @@ nav:
         - opsec/openwebuilocalllms/index.md
         - opsec/mail-problem/index.md
         - opsec/mailprivate/index.md
-        - 🫶 Contributing to Anonymity:
-          - opsec/anonsimplex-server/index.md
-          - opsec/monero2024/index.md
-          - opsec/gupax/index.md
-          - opsec/monerop2pool/index.md
-          - opsec/haveno-seednode/index.md
         #- Why you should self-host hidden services
         #- Serverside Anonymous VM 
         #- Accessing self-hosted servers via their Hidden service
 
+      - 🫶 Contributing to Anonymity:
+        - opsec/tor/relay/index.md
+        - opsec/tor/bridge/index.md
+        - opsec/tor/exit_node/index.md
+        - opsec/darknetlantern/index.md
+        - opsec/anonsimplex-server/index.md
+        - opsec/monero2024/index.md
+        - opsec/gupax/index.md
+        - opsec/monerop2pool/index.md
+        - opsec/haveno-seednode/index.md
 
     - OPSEC Level 3 | Deniability:
       - 📝 Explaining Plausible Deniability:
