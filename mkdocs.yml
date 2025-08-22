@@ -246,6 +246,8 @@ nav:
       - opsec/maintainers/index.md
       - opsec/runtheblog/index.md
       - opsec/0_template/index.md
+    - 🆕 New additions / misc:
+      - opsec/git_lfs/index.md
     - tags.md
     - opsec/thenowherecommunity/index.md
 
