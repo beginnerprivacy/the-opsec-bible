@@ -108,6 +108,7 @@ nav:
       - 🥷 Privacy Frontends:
         - opsec/frontends_explained/index.md
         - opsec/redlibsetup/index.md
+        - opsec/safetwitchsetup/index.md
     - OPSEC Level 2 | Anonymity:
       - 📝 Explaining Anonymity:
         - opsec/anonymityexplained/index.md
