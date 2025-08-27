@@ -248,9 +248,10 @@ nav:
       - opsec/runtheblog/index.md
       - opsec/0_template/index.md
     - 🆕 New additions / misc:
+      - opsec/privacylaxism/index.md
+      - opsec/steam-forced/index.md
       - opsec/simplex-forking/index.md
       - opsec/git_lfs/index.md
-      - opsec/steam-forced/index.md
     - tags.md
     - opsec/thenowherecommunity/index.md
 
