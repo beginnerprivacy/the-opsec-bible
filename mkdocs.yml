@@ -214,6 +214,7 @@ nav:
         - opsec/blackhathacking/index.md
         - opsec/usbdeadmansswitch/index.md
         - opsec/plausiblydeniabledataprotection/index.md
+        - opsec/borgbackup/index.md
         
         - 🔎 Steganography - Hiding secrets in plain sight:
           - opsec/steganography/index.md
@@ -262,6 +263,7 @@ nav:
     - opsec/telegramnoanonymity/index.md
     - opsec/irlmeeting/index.md
     - opsec/banksandcrypto/index.md
+    - opsec/bankaccountfrozen/index.md
     - opsec/xmr-opsec-mistakes/index.md
     - 📛 Darknet Market Downfalls:
       - opsec/silk_road/index.md
