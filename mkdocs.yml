@@ -17,6 +17,7 @@ theme:
     - navigation.footer
     #- navigation.sections
 
+  font: false
   logo: assets/opsec_bible.png
   favicon: assets/opsec_bible.png
 
