@@ -110,6 +110,7 @@ nav:
         - opsec/frontends_explained/index.md
         - opsec/redlibsetup/index.md
         - opsec/safetwitchsetup/index.md
+        - opsec/invidioussetup/index.md
     - OPSEC Level 2 | Anonymity:
       - 📝 Explaining Anonymity:
         - opsec/anonymityexplained/index.md
