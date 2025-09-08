@@ -62,6 +62,8 @@ nav:
     - OPSEC Level 1 | Privacy:
       - 📝 Explaining Privacy:
         - opsec/privacy/index.md
+        - opsec/privacylaxism/index.md
+        - opsec/redditcritique/index.md
         - opsec/closedsource/index.md
         - opsec/openhardware/index.md
         - opsec/serversideencryption/index.md
@@ -251,7 +253,6 @@ nav:
       - opsec/runtheblog/index.md
       - opsec/0_template/index.md
     - 🆕 New additions / misc:
-      - opsec/privacylaxism/index.md
       - opsec/steam-forced/index.md
       - opsec/simplex-forking/index.md
       - opsec/git_lfs/index.md
