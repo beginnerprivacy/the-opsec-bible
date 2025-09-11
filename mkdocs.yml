@@ -58,14 +58,16 @@ nav:
         - opsec/priceinxmr/index.md
         - opsec/prepareforCBDCs/index.md
         - opsec/statistplatforms/index.md
+        - opsec/steam-forced/index.md
         - opsec/protestingisnotenough/index.md
     - OPSEC Level 1 | Privacy:
       - 📝 Explaining Privacy:
         - opsec/privacy/index.md
         - opsec/privacylaxism/index.md
         - opsec/redditcritique/index.md
-        - opsec/closedsource/index.md
         - opsec/openhardware/index.md
+        - opsec/closedsource/index.md
+        - opsec/simplex-forking/index.md
         - opsec/serversideencryption/index.md
       - 💻 Clientside Privacy:
         - 💻 Host OS Setup:
@@ -253,8 +255,6 @@ nav:
       - opsec/runtheblog/index.md
       - opsec/0_template/index.md
     - 🆕 New additions / misc:
-      - opsec/steam-forced/index.md
-      - opsec/simplex-forking/index.md
       - opsec/git_lfs/index.md
     - tags.md
     - opsec/thenowherecommunity/index.md
