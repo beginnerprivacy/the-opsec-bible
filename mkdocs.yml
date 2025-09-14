@@ -240,7 +240,7 @@ nav:
         #- Anonymously renting servers from the Sensitive VM
         - opsec/cloud_provider_adversary/index.md
         - opsec/vps-deniability/index.md
-        #- Sensitive remote servers organization
+        - opsec/sensitive_remote_servers_org/index.md
         #- Multi Owner Infrastructure (Dead Man's Switch via Simplex bots)
         - 🧅 High Availability for Deniability:
           - opsec/high_availability/index.md
