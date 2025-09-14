@@ -217,6 +217,7 @@ nav:
         - opsec/livemode/index.md
         - opsec/veracrypt/index.md
         - opsec/sensitivevm/index.md
+        - opsec/safely_use_svm/index.md
         - opsec/blackhathacking/index.md
         - opsec/usbdeadmansswitch/index.md
         - opsec/plausiblydeniabledataprotection/index.md
@@ -254,8 +255,12 @@ nav:
       - opsec/maintainers/index.md
       - opsec/runtheblog/index.md
       - opsec/0_template/index.md
-    - 🆕 New additions / misc:
+    - 🆕 New additions:
       - opsec/git_lfs/index.md
+    - 🆕 Miscellaneous:
+      - opsec/misc/movies_to_watch.md
+      - opsec/misc/documentaries_to_watch.md
+      - opsec/misc/books_to_read.md
     - tags.md
     - opsec/thenowherecommunity/index.md
 
