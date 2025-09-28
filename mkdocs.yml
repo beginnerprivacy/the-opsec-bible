@@ -212,7 +212,6 @@ nav:
         - opsec/anonsensitive/index.md
         - opsec/opsecoverego/index.md
       - 💻 Clientside Deniability:
-        - opsec/duresspin/index.md
         - opsec/tailsqemuvm/index.md
         - opsec/livemode/index.md
         - opsec/veracrypt/index.md
@@ -222,6 +221,8 @@ nav:
         - opsec/usbdeadmansswitch/index.md
         - opsec/plausiblydeniabledataprotection/index.md
         - opsec/borgbackup/index.md
+        - opsec/simplexdeniablechats/index.md
+        - opsec/duresspin/index.md
         
         - 🔎 Steganography - Hiding secrets in plain sight:
           - opsec/steganography/index.md
