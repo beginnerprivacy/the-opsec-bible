@@ -208,6 +208,7 @@ nav:
     - OPSEC Level 3 | Deniability:
       - 📝 Explaining Plausible Deniability:
         - opsec/stancesensitive/index.md
+        - opsec/drugsonline/index.md
         - opsec/deniability/index.md
         - opsec/anonsensitive/index.md
         - opsec/opsecoverego/index.md
