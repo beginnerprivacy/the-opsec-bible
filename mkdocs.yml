@@ -138,6 +138,7 @@ nav:
           - opsec/torthroughvpn/index.md
           - opsec/v2ray/index.md
           - opsec/cloak/index.md
+          - opsec/openwrt-cloak/index.md
         - 👁️‍🗨️ Hiding your Anonymity from the service:
           - opsec/whentorisblocked/index.md
           - opsec/anonproxy/index.md
