@@ -69,7 +69,6 @@ nav:
         - opsec/closedsource/index.md
         - opsec/simplex-forking/index.md
         - opsec/serversideencryption/index.md
-        - opsec/multisig_wallets/index.md
       - 💻 Clientside Privacy:
         - 💻 Host OS Setup:
           - opsec/linux/index.md
@@ -160,6 +159,7 @@ nav:
           - opsec/haveno-cashbymail/index.md
           - opsec/haveno-crypto/index.md
           - opsec/anoncreditcard/index.md
+          - opsec/multisig_wallets/index.md
 
       - ⚠️ Outdoors Anonymity:
         - opsec/thepostalsystemexplained/index.md
