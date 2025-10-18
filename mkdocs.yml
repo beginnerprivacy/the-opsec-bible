@@ -159,6 +159,7 @@ nav:
           - opsec/haveno-cashbymail/index.md
           - opsec/haveno-crypto/index.md
           - opsec/anoncreditcard/index.md
+          - opsec/multisig_wallets/index.md
 
       - ⚠️ Outdoors Anonymity:
         - opsec/thepostalsystemexplained/index.md
