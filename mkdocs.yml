@@ -119,6 +119,7 @@ nav:
       - 📝 Explaining Anonymity:
         - opsec/anonymityexplained/index.md
         - opsec/anonuse/index.md
+        - opsec/anon-adversary/index.md
         - opsec/phonenumbers/index.md
         - opsec/anonymitymetadata/index.md
         - opsec/torvsvpns/index.md
