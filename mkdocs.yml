@@ -110,6 +110,7 @@ nav:
         #- Why is E2EE required when using remote servers?
         - opsec/pgp/index.md
         - opsec/privatesimplex-server/index.md
+        - opsec/borgbackup/index.md
         #- Setting up your own Simplex Server
       - 🥷 Privacy Frontends:
         - opsec/frontends_explained/index.md
@@ -176,6 +177,7 @@ nav:
           - opsec/clearnet_redirect_darknet/index.md
           - opsec/pgpcanary/index.md
           - opsec/forgejo-anon/index.md
+          - opsec/git_lfs/index.md
           - opsec/anonymous_server_monitoring/index.md
           - opsec/simplexalerts/index.md
         - 🧅 Anonymous Clearnet Services:
@@ -217,17 +219,20 @@ nav:
         - opsec/anonsensitive/index.md
         - opsec/opsecoverego/index.md
       - 💻 Clientside Deniability:
-        - opsec/tailsqemuvm/index.md
-        - opsec/livemode/index.md
-        - opsec/veracrypt/index.md
-        - opsec/sensitivevm/index.md
-        - opsec/safely_use_svm/index.md
-        - opsec/blackhathacking/index.md
-        - opsec/usbdeadmansswitch/index.md
-        - opsec/plausiblydeniabledataprotection/index.md
-        - opsec/borgbackup/index.md
-        - opsec/simplexdeniablechats/index.md
-        - opsec/duresspin/index.md
+        - Temporary Sensitive use:
+          - opsec/tailsqemuvm/index.md
+          - opsec/simplexdeniablechats/index.md
+        - Long-Term Sensitive Use:
+          - opsec/livemode/index.md
+          - opsec/veracrypt/index.md
+          - opsec/sensitivevm/index.md
+          - opsec/safely_use_svm/index.md
+          - opsec/blackhathacking/index.md
+          - opsec/usbdeadmansswitch/index.md
+        - Sensitive Data Backups:
+          - opsec/plausiblydeniabledataprotection/index.md
+        - Destructive Deniability (Duress Mechanisms):
+          - opsec/duresspin/index.md
         
         - 🔎 Steganography - Hiding secrets in plain sight:
           - opsec/steganography/index.md
@@ -261,14 +266,13 @@ nav:
       - opsec/maintainers/index.md
       - opsec/runtheblog/index.md
       - opsec/0_template/index.md
-    - 🆕 New additions:
-      - opsec/git_lfs/index.md
     - 🆕 Miscellaneous:
       - opsec/misc/movies_to_watch.md
       - opsec/misc/documentaries_to_watch.md
       - opsec/misc/books_to_read.md
     - tags.md
     - opsec/thenowherecommunity/index.md
+    - opsec/legaldisclaimer/index.md
 
   - Operational Security Mistakes:
     - opsec/opsec_standard/index.md
