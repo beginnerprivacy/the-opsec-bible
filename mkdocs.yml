@@ -68,6 +68,7 @@ nav:
         - opsec/redditcritique/index.md
         - opsec/openhardware/index.md
         - opsec/closedsource/index.md
+        - opsec/closedsourcee2ee/index.md
         - opsec/simplex-forking/index.md
         - opsec/serversideencryption/index.md
       - 💻 Clientside Privacy:
