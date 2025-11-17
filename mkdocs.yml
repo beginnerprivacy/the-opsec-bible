@@ -101,6 +101,7 @@ nav:
         - opsec/docker-intro/index.md
         - opsec/homeserver/index.md
         - opsec/homeserverdeadmansswitch/index.md
+        - opsec/deadmans_switch/index.md
         - opsec/hypervisor_selfhosted/index.md
         - opsec/vpn_selfhosted/index.md
         - opsec/vpsvpnrouting/index.md
