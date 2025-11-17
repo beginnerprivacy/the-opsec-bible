@@ -101,7 +101,6 @@ nav:
         - opsec/docker-intro/index.md
         - opsec/homeserver/index.md
         - opsec/homeserverdeadmansswitch/index.md
-        - opsec/deadmans_switch/index.md
         - opsec/hypervisor_selfhosted/index.md
         - opsec/vpn_selfhosted/index.md
         - opsec/vpsvpnrouting/index.md
@@ -231,6 +230,7 @@ nav:
           - opsec/safely_use_svm/index.md
           - opsec/blackhathacking/index.md
           - opsec/usbdeadmansswitch/index.md
+          - opsec/deadmans_switch/index.md
         - Sensitive Data Backups:
           - opsec/plausiblydeniabledataprotection/index.md
         - Destructive Deniability (Duress Mechanisms):
