@@ -230,6 +230,7 @@ nav:
           - opsec/safely_use_svm/index.md
           - opsec/blackhathacking/index.md
           - opsec/usbdeadmansswitch/index.md
+          - opsec/deadmans_switch/index.md
         - Sensitive Data Backups:
           - opsec/plausiblydeniabledataprotection/index.md
         - Destructive Deniability (Duress Mechanisms):
