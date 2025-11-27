@@ -1,0 +1,81 @@
+{
+    "items": {
+        "2": {
+            "type": "branch",
+            "branchId": 1,
+            "one": "13",
+            "content": "<p>Wait for new messages</p>"
+        },
+        "4": {
+            "type": "branch",
+            "content": "<p>Check Timers</p>",
+            "one": "8",
+            "branchId": 2
+        },
+        "5": {
+            "type": "action",
+            "content": "<p>New message posted in channel</p>",
+            "one": "6"
+        },
+        "6": {
+            "type": "question",
+            "content": "<p>Is the message from a configured user?</p>",
+            "one": "7",
+            "two": "4",
+            "flag1": 1
+        },
+        "7": {
+            "type": "action",
+            "content": "<p>reset the alert and inheritance timers to 0</p>",
+            "one": "2"
+        },
+        "8": {
+            "type": "question",
+            "content": "<p>Has the alert timer expired?</p>",
+            "one": "14",
+            "two": "2",
+            "flag1": 1
+        },
+        "13": {
+            "type": "question",
+            "content": "<p>Have we checked the timer in the last second?</p>",
+            "one": "5",
+            "two": "4",
+            "flag1": 1
+        },
+        "14": {
+            "type": "question",
+            "content": "<p>Have we already posted the alert message?</p>",
+            "one": "15",
+            "two": "16",
+            "flag1": 1
+        },
+        "15": {
+            "type": "question",
+            "content": "<p>Has the inheritance timer expired?</p>",
+            "one": "18",
+            "two": "2",
+            "flag1": 1
+        },
+        "16": {
+            "type": "action",
+            "content": "<p>Post alert message</p>",
+            "one": "2"
+        },
+        "18": {
+            "type": "question",
+            "content": "<p>Have we already posted the inheritance message?</p>",
+            "one": "2",
+            "two": "19",
+            "flag1": 1
+        },
+        "19": {
+            "type": "action",
+            "content": "<p>Post inheritance message</p>",
+            "one": "2"
+        }
+    },
+    "type": "drakon",
+    "name": "deadman_switch",
+    "params": "<p>user identity</p><p>alert threshold</p><p>inheritance threshold</p><p>channel to watch</p>"
+}

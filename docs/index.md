@@ -10,12 +10,6 @@ Or in other words: How to become ungovernable, by protecting your freedom using 
 How to use your Body, Mind, and Tools to maximize your Productivity 
 Or in other words: How to become the one you were always meant to be, doing what you were always meant to do in this world.
 
-# [Self-Hosting (NO LONGER MAINTAINED)](selfhosting/0_lainradio/index.md)
-![](assets/selfhosting.png)
-
-Showing how you can install any service yourself, where you can own your data, guaranteeing privacy.
-(sidenote: these blogposts are no longer maintained, they are here for archival purposes)
-
 # [Offensive Security Writeups (NO LONGER MAINTAINED)](hacking/index.md)
 ![](assets/hacking.png)
 

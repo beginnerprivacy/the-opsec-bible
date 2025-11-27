@@ -1,0 +1,86 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:143.0) Gecko/20100101 Firefox/143.0" version="28.2.5">
+  <diagram name="Page-1" id="9RaSCZTW8zlZef1uf98R">
+    <mxGraphModel dx="1426" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#000000, #121212)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" style="locked=1;" parent="0" />
+        <mxCell id="CRA9Aoi0_nl30iYCp_4e-1" value="" style="image;html=1;image=img/lib/clip_art/people/Worker_Black_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="460" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CRA9Aoi0_nl30iYCp_4e-2" value="" style="image;html=1;image=img/lib/clip_art/people/Worker_Woman_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="160" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CRA9Aoi0_nl30iYCp_4e-3" value="" style="image;html=1;image=img/lib/clip_art/people/Worker_Man_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="310" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CRA9Aoi0_nl30iYCp_4e-4" value="&lt;span style=&quot;color: rgb(126, 166, 224);&quot;&gt;Alice&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="175" y="90" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CRA9Aoi0_nl30iYCp_4e-7" value="&lt;span style=&quot;color: rgb(0, 204, 102);&quot;&gt;Bob&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="330" y="90" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CRA9Aoi0_nl30iYCp_4e-8" value="&lt;span style=&quot;color: rgb(255, 217, 102);&quot;&gt;Charlie&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="470" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CRA9Aoi0_nl30iYCp_4e-9" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;strokeWidth=3;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="210" as="sourcePoint" />
+            <mxPoint x="200" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CRA9Aoi0_nl30iYCp_4e-10" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;strokeWidth=3;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="499.5" y="210" as="sourcePoint" />
+            <mxPoint x="500" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CRA9Aoi0_nl30iYCp_4e-11" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;strokeWidth=3;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="349.5" y="210" as="sourcePoint" />
+            <mxPoint x="350" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SLU3E6oNmhZUXZ-yZDVr-1" value="Couche non nommée" parent="0" />
+        <mxCell id="SLU3E6oNmhZUXZ-yZDVr-2" value="export_multisig_info" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="SLU3E6oNmhZUXZ-yZDVr-1">
+          <mxGeometry x="290" y="210" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SLU3E6oNmhZUXZ-yZDVr-3" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" edge="1" parent="SLU3E6oNmhZUXZ-yZDVr-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="250" as="sourcePoint" />
+            <mxPoint x="500" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SLU3E6oNmhZUXZ-yZDVr-4" value="&lt;span style=&quot;color: rgb(0, 204, 102);&quot;&gt;BobKey&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SLU3E6oNmhZUXZ-yZDVr-1">
+          <mxGeometry x="390" y="248" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SLU3E6oNmhZUXZ-yZDVr-5" value="import_multisig_info" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="SLU3E6oNmhZUXZ-yZDVr-1">
+          <mxGeometry x="440" y="280" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SLU3E6oNmhZUXZ-yZDVr-6" value="Transfer N XMR 8456qazer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="SLU3E6oNmhZUXZ-yZDVr-1">
+          <mxGeometry x="450" y="320" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SLU3E6oNmhZUXZ-yZDVr-7" value="" style="endArrow=none;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="SLU3E6oNmhZUXZ-yZDVr-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="370" as="sourcePoint" />
+            <mxPoint x="500" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SLU3E6oNmhZUXZ-yZDVr-8" value="&lt;span style=&quot;color: rgb(0, 204, 102);&quot;&gt;multisig_monero_tx&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SLU3E6oNmhZUXZ-yZDVr-1">
+          <mxGeometry x="370" y="370" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SLU3E6oNmhZUXZ-yZDVr-9" value="sign_multisig" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="SLU3E6oNmhZUXZ-yZDVr-1">
+          <mxGeometry x="300" y="400" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SLU3E6oNmhZUXZ-yZDVr-10" value="submit_multisig" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="SLU3E6oNmhZUXZ-yZDVr-1">
+          <mxGeometry x="295" y="450" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SLU3E6oNmhZUXZ-yZDVr-11" value="&lt;div&gt;&lt;span style=&quot;color: rgb(255, 217, 102);&quot;&gt;Creates the transaction&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 217, 102);&quot;&gt;&amp;nbsp;for later signature&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SLU3E6oNmhZUXZ-yZDVr-1">
+          <mxGeometry x="550" y="315" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SLU3E6oNmhZUXZ-yZDVr-12" value="&lt;div&gt;&lt;span style=&quot;color: rgb(255, 217, 102);&quot;&gt;Reviews&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 217, 102);&quot;&gt;&amp;nbsp;and signs&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SLU3E6oNmhZUXZ-yZDVr-1">
+          <mxGeometry x="220" y="390" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

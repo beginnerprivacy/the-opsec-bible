@@ -1,0 +1,97 @@
+name: Weekly Mirror
+
+permissions:
+  contents: write
+  actions: write
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout mirror repository
+        uses: actions/checkout@v4
+
+      - name: Install Tor
+        run: sudo apt-get update && sudo apt-get install -y tor
+
+      - name: Mirror the original Tor repo + submodules (only when needed)
+        id: mirror
+        run: |
+          sudo systemctl start tor
+
+          echo "Waiting for Tor to bootstrap..."
+          for i in {1..60}; do
+            if curl --socks5-hostname 127.0.0.1:9050 -fs https://check.torproject.org/ | grep -iq "Congratulations"; then
+              echo "Tor ready"
+              break
+            fi
+            sleep 10
+          done
+
+          REMOTE="http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/nihilist/the-opsec-bible"
+
+          remote_sha=$(git -c http.proxy=socks5h://127.0.0.1:9050 \
+                           -c https.proxy=socks5h://127.0.0.1:9050 \
+                           ls-remote "$REMOTE" refs/heads/main | awk '{print $1}')
+
+          if [ -z "$remote_sha" ]; then
+            echo "Cannot reach onion service"
+            exit 1
+          fi
+
+          if [ -f .mirror_last_sha ] && [ "$(cat .mirror_last_sha)" = "$remote_sha" ]; then
+            echo "No changes → nothing to do"
+            echo "updated=false" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+
+          echo "New version detected → mirroring..."
+
+          mkdir fresh-clone
+          git -c http.proxy=socks5h://127.0.0.1:9050 \
+              -c https.proxy=socks5h://127.0.0.1:9050 \
+              clone --recursive "$REMOTE" fresh-clone
+
+          new_sha=$(git -C fresh-clone rev-parse HEAD)
+
+          rm -f fresh-clone/.gitmodules
+          find fresh-clone -type d -name '.git' -exec rm -rf {} +
+
+          find . -mindepth 1 -maxdepth 1 ! -name '.git' ! -name '.github' ! -name 'fresh-clone' -exec rm -rf {} +
+
+          rsync -a fresh-clone/ .
+
+          rm -rf fresh-clone
+
+          echo "$new_sha" > .mirror_last_sha
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -A
+          if git status --porcelain | grep -q .; then
+            git commit -m "Weekly mirror update: $new_sha"
+            git push origin main --force-with-lease
+            echo "Mirror updated and pushed"
+            echo "updated=true" >> $GITHUB_OUTPUT
+          else
+            echo "No file changes after sync"
+            echo "updated=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Trigger MkDocs build (build.yml)
+        if: steps.mirror.outputs.updated == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'build.yml',
+              ref: 'main'
+            })
